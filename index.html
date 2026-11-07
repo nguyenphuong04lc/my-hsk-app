@@ -29,7 +29,26 @@
         .brand-title { font-size: 1.8rem; font-weight: 800; color: var(--secondary-color); margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); }
         .brand-title span { font-family: 'Ma Shan Zheng', cursive; font-size: 2.2rem; color: #FFF; margin-right: 10px; }
         .calligraphy { font-family: 'Ma Shan Zheng', cursive; font-size: 3rem; color: var(--secondary-color); text-shadow: 3px 3px 8px rgba(0,0,0,0.9); margin: 0; }
+        /* CSS cho dòng chữ Facebook ở giữa */
+                .header-center-link {
+            color: #000; /* Chữ màu đen */
+            font-size: 1rem;
+            font-weight: 800;
+            text-decoration: none;
+            background: var(--secondary-color); /* Nền màu vàng cam */
+            padding: 8px 24px;
+            border-radius: 30px;
+            box-shadow: 0 4px 10px rgba(255, 179, 0, 0.4);
+            transition: all 0.3s ease;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
 
+        .header-center-link:hover {
+            background: #FFA000; /* Vàng đậm hơn khi hover */
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 6px 15px rgba(255, 179, 0, 0.6);
+        }
         /* LAYOUT - Đã sửa để tràn đầy màn hình, sát mép trái/phải */
         .main-layout { display: flex; width: 100%; margin: 20px 0; padding: 0 20px; gap: 20px; }
 
@@ -179,8 +198,14 @@
 <body>
     <div class="overlay"></div>
 
-    <div class="header">
+        <div class="header">
         <h1 class="brand-title"><span>小芳</span> Chinese HSK 3.0</h1>
+
+        <!-- Dòng chữ Facebook thêm vào giữa -->
+        <a href="https://facebook.com/" target="_blank" class="header-center-link">
+            Facebook: Nguyễn Phương
+        </a>
+
         <h1 class="calligraphy">走进中国</h1>
     </div>
 
