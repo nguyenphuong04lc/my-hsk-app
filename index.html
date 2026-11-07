@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK 1 - Luyện Tập Chuyên Sâu</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@400;500;700&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --primary-color: #C62828;
+            --secondary-color: #F9A825;
+            --bg-glass: rgba(255, 255, 255, 0.95);
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Nunito', 'Noto Sans SC', sans-serif;
+            margin: 0; padding: 0; min-height: 100vh;
+            background-image: url('https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=2070&auto=format&fit=crop');
+            background-size: cover; background-position: center; background-attachment: fixed;
+            color: #333;
+        }
+        .overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(0,0,0,0.6) 0%, rgba(198, 40, 40, 0.4) 100%); z-index: -1; }
+
+        /* HEADER */
+        .header { width: 100%; padding: 15px 30px; background: rgba(0, 0, 0, 0.5); display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--secondary-color); backdrop-filter: blur(5px); }
+        .brand-title { font-size: 1.8rem; font-weight: 800; color: var(--secondary-color); margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); }
+        .brand-title span { font-family: 'Ma Shan Zheng', cursive; font-size: 2.2rem; color: #FFD54F; margin-right: 10px; }
+        .calligraphy { font-family: 'Ma Shan Zheng', cursive; font-size: 3rem; color: #FFD54F; text-shadow: 3px 3px 8px rgba(0,0,0,0.9); margin: 0; }
+
+        /* LAYOUT */
+        .main-layout { display: flex; width: 100%; max-width: 1200px; margin: 20px auto; padding: 0 20px; gap: 20px; }
+
+        /* SIDEBAR */
+        .sidebar { width: 300px; flex-shrink: 0; background: var(--bg-glass); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.3); border-top: 5px solid var(--primary-color); max-height: calc(100vh - 100px); overflow-y: auto; }
+        .sidebar h3 { color: var(--primary-color); margin-top: 0; border-bottom: 2px dashed #ccc; padding-bottom: 10px; font-size: 1.1rem; }
+
+        .tree-children { list-style: none; padding-left: 0; margin: 0; }
+        .tree-item { padding: 10px; margin: 6px 0; border-radius: 8px; cursor: pointer; color: #555; transition: all 0.2s; font-weight: 600; font-size: 0.95rem; display: flex; justify-content: space-between; align-items: center; background: #fff; border: 1px solid #eee; }
+        .tree-item:hover { background: #FFF3E0; color: var(--primary-color); border-color: var(--secondary-color); }
+        .tree-item.active { background: var(--primary-color); color: white; border-color: var(--primary-color); box-shadow: 0 2px 8px rgba(198,40,40,0.4); }
+        .tree-item .badge { background: #ddd; color: #333; padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; }
+        .tree-item.active .badge { background: white; color: var(--primary-color); }
+
+        /* CONTENT AREA */
+        .content-area { flex: 1; background: var(--bg-glass); border-radius: 20px; padding: 30px 40px; box-shadow: 0 10px 25px rgba(0,0,0,0.3); border-top: 5px solid var(--secondary-color); }
+        .top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        h2 { color: var(--primary-color); margin: 0; font-size: 1.4rem; }
+        .progress-box { background: #f1f3f4; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #555; display: inline-block; margin-bottom: 20px; }
+        .score { color: #2E7D32; margin-left: 15px; }
+        .question { font-size: 1.3rem; margin: 20px 0; color: #111; font-weight: 700; line-height: 1.5; }
+
+        .option { display: flex; align-items: center; width: 100%; padding: 15px 20px; margin: 10px 0; background: #fff; border: 2px solid #e0e0e0; border-radius: 12px; cursor: pointer; font-size: 1.1rem; transition: all 0.2s; }
+        .option:hover:not(:disabled) { background: #FFF8E1; border-color: var(--secondary-color); transform: translateX(5px); }
+        .option .letter { font-weight: 800; color: var(--primary-color); margin-right: 15px; }
+        .option.correct { background: #E8F5E9; border-color: #4CAF50; color: #1B5E20; font-weight: bold; }
+        .option.wrong { background: #FFEBEE; border-color: #F44336; color: #B71C1C; }
+
+        #explanation { margin-top: 20px; padding: 15px; background: #FFF3E0; border-left: 5px solid var(--primary-color); border-radius: 8px; color: #E65100; display: none; }
+        #next-btn { margin-top: 25px; width: 100%; padding: 15px; background: linear-gradient(135deg, var(--primary-color) 0%, #E53935 100%); color: white; font-size: 1.1rem; font-weight: bold; border: none; border-radius: 50px; cursor: pointer; display: none; }
+
+        @media (max-width: 800px) {
+            .main-layout { flex-direction: column; }
+            .sidebar { width: 100%; max-height: none; }
+            .header { flex-direction: column; text-align: center; gap: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+
+    <div class="header">
+        <h1 class="brand-title"><span>小芳</span> Chinese HSK 3.0</h1>
+        <h1 class="calligraphy">走进中国</h1>
+    </div>
+
+    <div class="main-layout">
+        <!-- SIDEBAR -->
+        <div class="sidebar">
+            <h3>📚 Chọn Bài Học</h3>
+            <select id="lesson-select" style="width: 100%; padding: 10px; margin-bottom: 20px; border-radius: 8px; border: 1px solid #ccc; font-weight: bold;" onchange="changeLesson(this.value)">
+                <!-- Tự động tạo 15 bài -->
+            </select>
+
+            <h3>🎯 Các Phần Luyện Tập</h3>
+            <div id="exercise-menu">
+                <!-- Menu sẽ được JS tạo -->
+            </div>
+        </div>
+
+        <!-- CONTENT -->
+        <div class="content-area">
+            <div class="top-bar">
+                <h2 id="lesson-title">Đang tải...</h2>
+            </div>
+
+            <div class="progress-box">
+                Câu: <span id="q-num">1</span> / <span id="total-q">0</span>
+                <span class="score">Đúng: <span id="score-display">0</span></span>
+            </div>
+
+            <div class="question" id="question-text"></div>
+            <div id="options-container"></div>
+            <div id="explanation"></div>
+            <button id="next-btn" onclick="nextQuestion()">Câu tiếp theo ➔</button>
+        </div>
+    </div>
+
+    <script>
+        // ==========================================
+        // THUẬT TOÁN XÁO BÀI CHUẨN (FISHER-YATES SHUFFLE)
+        // Đảm bảo vị trí đáp án A, B, C, D ngẫu nhiên 25%
+        // ==========================================
+        function shuffleArray(array) {
+            let currentIndex = array.length, randomIndex;
+            while (currentIndex !== 0) {
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+                [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+            }
+            return array;
+        }
+
+        // ==========================================
+        // KHO CÂU DỊCH CHUẨN (Đã mở rộng, không lặp lại)
+        // ==========================================
+        const TRANSLATION_BANK = {
+            1: [["Xin chào", "你好"], ["Cảm ơn", "谢谢"], ["Tạm biệt", "再见"], ["Không có gì", "不客气"], ["Chào mọi người", "大家好"], ["Chào thầy/cô", "老师好"]],
+            2: [["Tôi tên là Lý Văn", "我叫李文"], ["Tôi là học sinh", "我是学生"], ["Rất vui được gặp bạn", "很高兴认识你"], ["Xin lỗi", "对不起"], ["Không sao đâu", "没关系"], ["Tôi không phải là Annie", "我不是安妮"]],
+            3: [["Tôi là người Trung Quốc", "我是中国人"], ["Cô ấy là bạn gái tôi", "她是我女朋友"], ["Bạn là người nước nào?", "你是哪国人？"], ["Tôi là người Pháp", "我是法国人"], ["Cô ấy là người Thái Lan", "她是泰国人"], ["Cô ấy là ai?", "她是谁？"]],
+            4: [["Tôi có hai đứa con", "我有两个孩子"], ["Nhà tôi có 3 người", "我家有三口人"], ["Năm nay tôi 20 tuổi", "我今年二十岁"], ["Tôi có một người anh trai", "我有一个哥哥"], ["Cô ấy có một cô con gái", "她有一个女儿"], ["Bạn có em gái không?", "你有妹妹吗？"]],
+            5: [["Hôm nay tôi nghỉ ngơi", "今天我休息"], ["Hôm nay là thứ mấy?", "今天星期几？"], ["Tôi biết nấu cơm", "我会做饭"], ["Máy tính này rất đẹp", "这个电脑真好看"], ["Tôi thích ăn sủi cảo", "我喜欢吃饺子"], ["Tôi thích máy tính mới", "我喜欢新电脑"]],
+            6: [["Ngày mai tôi đi siêu thị", "明天我去超市"], ["Bạn muốn mua gì?", "你想买什么？"], ["Tôi muốn uống sữa", "我想喝牛奶"], ["Điện thoại của tôi đâu?", "我的手机在哪儿？"], ["Tôi muốn xem phim", "我想看电影"], ["Bạn đi đâu đấy?", "你去哪儿？"]],
+            7: [["Bây giờ là mấy giờ?", "现在几点？"], ["Tôi 6h30 tan làm", "我六点半下班"], ["Chúng ta gặp nhau lúc 2h chiều nhé", "我们下午两点见吧"], ["Tôi có tiết học lúc 8h sáng", "我早上八点有课"], ["Chiều nay tôi có việc", "我下午有事"], ["Tôi tan học lúc 4h30", "我四点半下课"]],
+            8: [["Bố tôi làm việc ở bệnh viện", "我爸爸在医院工作"], ["Trên bàn có một con mèo", "桌子上有一只小猫"], ["Bạn có thể đến không?", "你能到吗？"], ["Tôi ăn trưa ở trường", "我在学校吃午饭"], ["Nhà sách ở phía trước", "书店在前边"], ["Con mèo ở dưới gầm bàn", "猫在桌子下"]],
+            9: [["Ngày mai tôi học ở trường", "明天我在学校学习"], ["Trên ghế có một quyển sách", "椅子上有一本书"], ["Tôi thích đọc sách", "我喜欢读书"], ["Đây là cuốn sách thứ hai của tôi", "这是我的第二本书"], ["Bên ngoài có một con chó", "外边有一只小狗"], ["Tôi thích hát", "我喜欢唱歌"]],
+            10: [["Táo ở đây rất rẻ", "这儿的苹果真便宜"], ["Cái cốc này bao nhiêu tiền?", "这个杯子多少钱？"], ["Tôi muốn mua hai cân táo", "我想买两斤苹果"], ["Những bông hoa này rất đẹp", "这些花很好看"], ["Những quả táo kia rất to", "那些苹果很大"], ["Cái cốc này rất đẹp", "这个杯子很好看"]],
+            11: [["Tôi đang học đại học", "我在读大学呢"], ["Em trai tôi đang ngủ", "我弟弟在睡觉呢"], ["Bạn có đi siêu thị không?", "你去不去超市？"], ["Tôi không đi, tôi đang học bài", "我不去，我在学习呢"], ["Họ đang xem tivi", "他们在看电视呢"], ["Tôi đang tìm nhà hàng", "我在找饭店呢"]],
+            12: [["Hôm qua trời mưa", "昨天下雨了"], ["Trời hôm nay rất lạnh", "今天天气很冷"], ["Tôi bị ốm rồi", "我生病了"], ["Bạn nên uống chút nước nóng", "你要喝点儿热水"], ["Hôm qua trời có tuyết rơi", "昨天下雪了"], ["Tôi cảm thấy hơi lạnh", "我觉得有点儿冷"]],
+            13: [["Cho tôi một cốc trà", "请给我一杯茶"], ["Tôi có thể hỏi một câu không?", "我可以问一下吗？"], ["Tôi muốn ăn bánh mì và trứng", "我想吃面包和鸡蛋"], ["Tôi cần một nửa", "我要一半"], ["Tôi muốn uống một cốc nước", "我要一杯水"], ["Bạn muốn ăn gì?", "你要吃什么？"]],
+            14: [["Hôm qua tôi xem một bộ phim", "昨天我看了一个电影"], ["Mọi người đều nghe thấy rồi", "大家都听见了"], ["Tôi đã viết rất nhiều chữ Hán", "我写了很多汉字"], ["Năm sau con trai tôi học tiểu học", "明年我儿子上小学"], ["Tôi đang học tiếng Trung", "我在学汉语"], ["Tôi đã mua một chiếc máy tính mới", "我买了一个新电脑"]],
+            15: [["Tôi yêu Trung Quốc", "我爱中国"], ["Năm ngoái tôi đi Tây An", "去年我去了西安"], ["Bắc Kinh rất đẹp", "北京很漂亮"], ["Hẹn gặp ở sân bay nhé", "我们机场见吧"], ["Bạn trai tôi là người Trung Quốc", "我男朋友是中国人"], ["Năm ngoái tôi đi Bắc Kinh", "去年我去了北京"]]
+        };
+
+        // ==========================================
+        // KHO CÂU HỎI NGỮ PHÁP CHUẨN (10 câu/bài)
+        // ==========================================
+        const GRAMMAR_BANK = {
+            1: [
+                ["Đại từ nhân xưng nào dùng để chào hỏi lịch sự với người lớn tuổi?", ["您 (nín)", "你 (nǐ)", "我 (wǒ)", "他 (tā)"], "您 (nín)", "您 là kính ngữ của 你, dùng để thể hiện sự tôn trọng."],
+                ["Cách đáp lại lời 'Cảm ơn' là gì?", ["不客气 (bú kèqi)", "你好 (nǐ hǎo)", "再见 (zàijiàn)", "对不起 (duìbuqǐ)"], "不客气 (bú kèqi)", "不客气 nghĩa là 'Không có gì/Đừng khách sáo'."],
+                ["Từ nào dùng để chào 'Mọi người'?", ["大家 (dàjiā)", "你们 (nǐmen)", "学生 (xuéshēng)", "老师 (lǎoshī)"], "大家 (dàjiā)", "大家 nghĩa là tất cả mọi người."],
+                ["Đại từ 'các bạn' (số nhiều của bạn) là gì?", ["你们 (nǐmen)", "我们 (wǒmen)", "他们 (tāmen)", "您 (nín)"], "你们 (nǐmen)", "Thêm '们' vào sau đại từ để tạo số nhiều."],
+                ["Từ nào dùng để nói 'Tạm biệt'?", ["再见 (zàijiàn)", "谢谢 (xièxie)", "你好 (nǐ hǎo)", "老师 (lǎoshī)"], "再见 (zàijiàn)", "再见 là lời tạm biệt."],
+                ["Chọn từ đúng: ______ 好！(Chào thầy/cô)", ["老师 (lǎoshī)", "学生 (xuéshēng)", "大家 (dàjiā)", "你们 (nǐmen)"], "老师 (lǎoshī)", "老师 nghĩa là giáo viên."],
+                ["Chọn từ đúng: ______ 好！(Chào các bạn học sinh)", ["同学们 (tóngxuémen)", "老师 (lǎoshī)", "您 (nín)", "他 (tā)"], "同学们 (tóngxuémen)", "同学们 nghĩa là các bạn học sinh."],
+                ["Đại từ 'tôi' trong tiếng Trung là:", ["我 (wǒ)", "你 (nǐ)", "他 (tā)", "她 (tā)"], "我 (wǒ)", "我 là đại từ nhân xưng ngôi thứ nhất."],
+                ["'你好' (nǐ hǎo) dùng trong trường hợp nào?", ["Chào hỏi", "Cảm ơn", "Xin lỗi", "Tạm biệt"], "Chào hỏi", "你好 là lời chào cơ bản."],
+                ["'谢谢' (xièxie) có nghĩa là gì?", ["Cảm ơn", "Xin chào", "Tạm biệt", "Không có gì"], "Cảm ơn", "谢谢 dùng để bày tỏ lòng biết ơn."]
+            ],
+            2: [
+                ["Trật tự câu cơ bản trong tiếng Trung là gì?", ["Chủ ngữ + Động từ + Tân ngữ", "Động từ + Chủ ngữ + Tân ngữ", "Tân ngữ + Động từ + Chủ ngữ", "Chủ ngữ + Tân ngữ + Động từ"], "Chủ ngữ + Động từ + Tân ngữ", "Tiếng Trung dùng cấu trúc SVO (Chủ-Vị-Tân)."],
+                ["Điền từ thích hợp: 我 ______ 李文。", ["叫 (jiào)", "是 (shì)", "有 (yǒu)", "不 (bù)"], "叫 (jiào)", "叫 dùng để giới thiệu tên: Tôi tên là Lý Văn."],
+                ["Cách hỏi tên lịch sự là gì?", ["请问，你叫什么名字？", "你叫什么？", "你名字？", "我叫什么？"], "请问，你叫什么名字？", "Thêm '请问' để câu hỏi lịch sự hơn."],
+                ["Từ '什么' (shénme) có nghĩa là gì?", ["Cái gì", "Ai", "Ở đâu", "Khi nào"], "Cái gì", "什么 là đại từ nghi vấn 'cái gì'."],
+                ["Câu nào dùng để xin lỗi?", ["对不起 (duìbuqǐ)", "没关系 (méi guānxi)", "谢谢 (xièxie)", "再见 (zàijiàn)"], "对不起 (duìbuqǐ)", "对不起 là lời xin lỗi."],
+                ["Đáp lại lời xin lỗi, ta dùng:", ["没关系 (méi guānxi)", "不客气 (bú kèqi)", "你好 (nǐ hǎo)", "对不起 (duìbuqǐ)"], "没关系 (méi guānxi)", "没关系 nghĩa là 'Không sao đâu'."],
+                ["Chọn từ phủ định đúng: 我 ______ 是安妮。", ["不 (bù)", "没 (méi)", "别 (bié)", "无 (wú)"], "不 (bù)", "Phó từ '不' dùng để phủ định động từ '是'."],
+                ["Từ '高兴' (gāoxìng) có nghĩa là:", ["Vui vẻ", "Buồn", "Mệt", "Đói"], "Vui vẻ", "高兴 nghĩa là vui vẻ, hạnh phúc."],
+                ["Câu '认识你我也很高兴' nghĩa là gì?", ["Tôi cũng rất vui được biết bạn", "Tôi không vui", "Bạn có vui không?", "Tôi rất buồn"], "Tôi cũng rất vui được biết bạn", "也 nghĩa là 'cũng'."],
+                ["Từ '名字' (míngzi) nghĩa là:", ["Tên", "Họ", "Tuổi", "Quốc tịch"], "Tên", "名字 dùng để chỉ tên của một người."]
+            ],
+            3: [
+                ["Câu '她是我女朋友' (Cô ấy là bạn gái tôi) dùng từ nào để chỉ sự sở hữu?", ["的 (de)", "是 (shì)", "她 (tā)", "我 (wǒ)"], "的 (de)", "Trợ từ '的' biểu thị quan hệ sở hữu (của tôi)."],
+                ["Điền từ: 你 ______ 哪国人？", ["是 (shì)", "叫 (jiào)", "有 (yǒu)", "在 (zài)"], "是 (shì)", "Hỏi quốc tịch dùng cấu trúc: 是 + [Quốc gia] + 人."],
+                ["Từ '谁' (shéi) có nghĩa là gì?", ["Ai", "Cái gì", "Ở đâu", "Tại sao"], "Ai", "谁 là đại từ nghi vấn 'ai'."],
+                ["Cấu trúc hỏi 'Cô ấy là ai?':", ["她是谁？", "她叫什么？", "她是哪国人？", "她好吗？"], "她是谁？", "谁 đứng sau '是' để hỏi danh tính."],
+                ["Câu '我不是法国人' nghĩa là gì?", ["Tôi không phải người Pháp", "Tôi là người Pháp", "Bạn là người Pháp", "Cô ấy là người Pháp"], "Tôi không phải người Pháp", "不是 nghĩa là 'không phải'."],
+                ["Điền từ: 我 ______ 中国人。", ["是 (shì)", "不 (bù)", "叫 (jiào)", "的 (de)"], "是 (shì)", "Câu khẳng định: 我 + 是 + Danh từ."],
+                ["'国' (guó) nghĩa là:", ["Nước/Quốc gia", "Người", "Tiếng", "Bạn"], "Nước/Quốc gia", "国 nghĩa là đất nước."],
+                ["Từ nào dùng để hỏi 'nước nào'?", ["哪国 (nǎ guó)", "什么国 (shénme guó)", "谁国 (shéi guó)", "这国 (zhè guó)"], "哪国 (nǎ guó)", "哪 nghĩa là 'nào'."],
+                ["Câu '她是泰国人吗？' là dạng câu gì?", ["Câu hỏi có '吗'", "Câu hỏi chính phản", "Câu cảm thán", "Câu cầu khiến"], "Câu hỏi có '吗'", "Thêm '吗' vào cuối câu trần thuật để tạo câu hỏi Yes/No."],
+                ["Đại từ 'Cô ấy' là:", ["她 (tā)", "他 (tā)", "它 (tā)", "我 (wǒ)"], "她 (tā)", "她 dùng để chỉ giống nữ."]
+            ],
+            4: [
+                ["Điền lượng từ thích hợp: 一 ______ 哥哥 (Một người anh trai)", ["个 (gè)", "本 (běn)", "只 (zhī)", "口 (kǒu)"], "个 (gè)", "个 là lượng từ chung dùng cho người và vật."],
+                ["Hỏi số lượng người trong nhà dùng câu nào?", ["你家有几口人？", "你家有多少人？", "你家有几个人口？", "你有几口家？"], "你家有几口人？", "Người bản xứ thường dùng '几口人' để hỏi số nhân khẩu trong gia đình."],
+                ["Từ '有' (yǒu) nghĩa là:", ["Có", "Không có", "Là", "Đi"], "Có", "有 dùng để chỉ sự sở hữu."],
+                ["Phủ định của '有' là gì?", ["没有 (méiyǒu)", "不有 (bù yǒu)", "别 (bié)", "无 (wú)"], "没有 (méiyǒu)", "Không dùng '不有', phủ định của '有' luôn là '没有'."],
+                ["Hỏi 'Bạn có anh trai không?'", ["你有哥哥吗？", "你有几个哥哥？", "你哥哥有吗？", "你是有哥哥？"], "你有哥哥吗？", "Dùng '吗' ở cuối câu để hỏi."],
+                ["Điền từ: 我家 ______ 四口人。", ["有 (yǒu)", "是 (shì)", "叫 (jiào)", "在 (zài)"], "有 (yǒu)", "Cấu trúc: Địa điểm + 有 + Số lượng + Người."],
+                ["'岁' (suì) dùng để làm gì?", ["Chỉ tuổi", "Chỉ số lượng", "Chỉ ngày tháng", "Chỉ tiền"], "Chỉ tuổi", "岁 là đơn vị đo tuổi."],
+                ["Hỏi tuổi trẻ em (dưới 10 tuổi):", ["你几岁？", "你多大？", "你多少岁？", "你年龄？"], "你几岁？", "Với trẻ nhỏ, dùng '几岁'. Với người lớn dùng '多大'."],
+                ["Từ '孩子' (háizi) nghĩa là:", ["Đứa trẻ/con cái", "Bố mẹ", "Anh em", "Bạn bè"], "Đứa trẻ/con cái", "孩子 là danh từ chỉ con cái hoặc trẻ em."],
+                ["Câu '我没有妹妹' nghĩa là gì?", ["Tôi không có em gái", "Tôi có em gái", "Tôi có chị gái", "Tôi không có anh trai"], "Tôi không có em gái", "没有 = không có, 妹妹 = em gái."]
+            ],
+            5: [
+                ["Hôm nay là thứ Hai, nói thế nào?", ["今天星期一。", "今天星期一了。", "今天是个星期一。", "今天星一期。"], "今天星期一。", "Câu danh từ làm vị ngữ: 今天 + 星期X."],
+                ["Diễn đạt khả năng 'biết nấu ăn':", ["我会做饭。", "我能做饭。", "我可以做饭。", "我要做饭。"], "我会做饭。", "Dùng '会' để chỉ kỹ năng học được (biết làm gì đó)."],
+                ["Hỏi ngày: 'Hôm nay là ngày bao nhiêu?'", ["今天几号？", "今天星期几？", "今天是什么？", "今天多少？"], "今天几号？", "几号 dùng để hỏi ngày trong tháng."],
+                ["Từ '休息' (xiūxi) nghĩa là:", ["Nghỉ ngơi", "Làm việc", "Đi học", "Ngủ"], "Nghỉ ngơi", "休息 là nghỉ ngơi."],
+                ["Động từ 'thích' là gì?", ["喜欢 (xǐhuan)", "爱 (ài)", "要 (yào)", "想 (xiǎng)"], "喜欢 (xǐhuan)", "喜欢 dùng để chỉ sự yêu thích."],
+                ["Tính từ 'đẹp' (dùng cho đồ vật) là:", ["好看 (hǎokàn)", "漂亮 (piàoliang)", "美 (měi)", "好 (hǎo)"], "好看 (hǎokàn)", "好看 thường dùng cho đồ vật, quần áo, phim ảnh."],
+                ["Câu cảm thán 'Đẹp quá!':", ["真好看！", "很好看！", "好看吗？", "不好看！"], "真好看！", "真 + Tính từ biểu thị mức độ cao (thật là...)."],
+                ["'电脑' (diànnǎo) nghĩa là:", ["Máy tính", "Điện thoại", "Tivi", "Tủ lạnh"], "Máy tính", "电脑 là máy tính."],
+                ["Hôm qua là Chủ nhật: 昨天星期天。Câu này có vị ngữ là gì?", ["星期天 (Danh từ)", "昨天 (Danh từ)", "是 (Động từ)", "Không có vị ngữ"], "星期天 (Danh từ)", "Đây là câu vị ngữ danh từ, '星期天' đóng vai trò vị ngữ."],
+                ["Từ '下班' (xiàbān) nghĩa là:", ["Tan làm", "Đi làm", "Tan học", "Đi học"], "Tan làm", "下班 là kết thúc giờ làm việc."]
+            ],
+            6: [
+                ["Hỏi số điện thoại: 'Số điện thoại của bạn là bao nhiêu?'", ["你的手机号是多少？", "你的手机号是几？", "你的手机号在哪儿？", "你的手机号是什么？"], "你的手机号是多少？", "Dùng '是多少' để hỏi thông tin dạng số."],
+                ["Động từ 'muốn' đứng trước động từ chính:", ["想 (xiǎng)", "要 (yào)", "去 (qù)", "买 (mǎi)"], "想 (xiǎng)", "想 + Động từ: Muốn làm gì đó (VD: 我想买 = Tôi muốn mua)."],
+                ["'哪儿' (nǎr) nghĩa là gì?", ["Ở đâu", "Cái gì", "Ai", "Khi nào"], "Ở đâu", "哪儿 là đại từ nghi vấn chỉ địa điểm."],
+                ["Cấu trúc 'đi siêu thị mua đồ':", ["去超市买东西", "去超市买东", "去超市买的东", "买东西去超市"], "去超市买东西", "Câu liên động: Động từ 1 (去) + Địa điểm + Động từ 2 (买) + Tân ngữ."],
+                ["'电影' (diànyǐng) nghĩa là:", ["Phim", "Rạp phim", "Tivi", "Âm nhạc"], "Phim", "电影 là bộ phim."],
+                ["Điền từ: 我 ______ 看电影。(Tôi muốn xem phim)", ["想 (xiǎng)", "有 (yǒu)", "在 (zài)", "是 (shì)"], "想 (xiǎng)", "想 + Động từ = Muốn làm gì."],
+                ["Hỏi 'Bạn muốn đi đâu?'", ["你想去哪儿？", "你想去吗？", "你去哪儿了？", "你在哪儿？"], "你想去哪儿？", "哪儿 là địa điểm, 想 là muốn."],
+                ["'晚上' (wǎnshang) nghĩa là:", ["Buổi tối", "Buổi sáng", "Buổi chiều", "Buổi trưa"], "Buổi tối", "晚上 là buổi tối."],
+                ["Động từ 'mua' là:", ["买 (mǎi)", "卖 (mài)", "有 (yǒu)", "去 (qù)"], "买 (mǎi)", "买 là mua, 卖 là bán."],
+                ["Câu '我去超市买牛奶' nghĩa là gì?", ["Tôi đi siêu thị mua sữa", "Tôi đi siêu thị bán sữa", "Tôi uống sữa ở siêu thị", "Tôi mua siêu thị"], "Tôi đi siêu thị mua sữa", "去超市 (đi siêu thị) + 买牛奶 (mua sữa)."]
+            ],
+            7: [
+                ["Hỏi thời gian: 'Bây giờ là mấy giờ?'", ["现在几点？", "现在几号？", "现在时间？", "现在是小时？"], "现在几点？", "Dùng '几点' để hỏi giờ."],
+                ["Điền từ: 我们下午两点 ______ (Gặp nhau lúc 2h chiều nhé).", ["见 (jiàn)", "看 (kàn)", "去 (qù)", "说 (shuō)"], "见 (jiàn)", "见 nghĩa là gặp mặt."],
+                ["Buổi sáng (trước 12h) là:", ["上午 (shàngwǔ)", "早上 (zǎoshang)", "下午 (xiàwǔ)", "晚上 (wǎnshang)"], "上午 (shàngwǔ)", "上午 là buổi sáng (từ 8h đến 12h)."],
+                ["'半' (bàn) trong thời gian nghĩa là:", ["Rưỡi", "Một nửa", "Giờ", "Phút"], "Rưỡi", "六点半 = 6 giờ rưỡi."],
+                ["Hỏi 'Bạn có tiết học mấy giờ?'", ["你几点有课？", "你有课吗？", "你的课在哪儿？", "你几点下课？"], "你几点有课？", "Cấu trúc: Mấy giờ + 有 + Danh từ."],
+                ["Từ '下班' (xiàbān) nghĩa là:", ["Tan làm", "Đi làm", "Tan học", "Đi học"], "Tan làm", "下班 là kết thúc công việc."],
+                ["Câu '我上午十点有课' nghĩa là gì?", ["Tôi có tiết học lúc 10h sáng", "Tôi tan học lúc 10h sáng", "Tôi đi làm lúc 10h sáng", "Tôi ngủ lúc 10h sáng"], "Tôi có tiết học lúc 10h sáng", "有课 nghĩa là có tiết học."],
+                ["'分钟' (fēnzhōng) nghĩa là:", ["Phút", "Giờ", "Giây", "Ngày"], "Phút", "分钟 là đơn vị phút."],
+                ["'见' (jiàn) có nghĩa là:", ["Gặp", "Thấy", "Nhìn", "Nghe"], "Gặp", "见 nghĩa là gặp gỡ, gặp mặt."],
+                ["Điền từ: 下午两 ______ 见。", ["点 (diǎn)", "分 (fēn)", "半 (bàn)", "个 (gè)"], "点 (diǎn)", "点 dùng để chỉ giờ."]
+            ],
+            8: [
+                ["Chọn giới từ chỉ địa điểm: Tôi làm việc ______ bệnh viện.", ["在 (zài)", "去 (qù)", "到 (dào)", "有 (yǒu)"], "在 (zài)", "Giới từ '在' dùng để chỉ địa điểm xảy ra hành động."],
+                ["Hỏi 'Bạn có thể đến không?'", ["你能到吗？", "你可以到吗？", "你会到吗？", "你要到吗？"], "你能到吗？", "Dùng '能' để hỏi khả năng/điều kiện có thể làm gì đó."],
+                ["'房间' (fángjiān) nghĩa là:", ["Căn phòng", "Cái bàn", "Cái ghế", "Cửa sổ"], "Căn phòng", "房间 là căn phòng."],
+                ["Từ '外' (wài) nghĩa là:", ["Bên ngoài", "Bên trong", "Phía trên", "Phía dưới"], "Bên ngoài", "外 nghĩa là bên ngoài."],
+                ["Điền từ: 小猫 ______ 桌子下。", ["在 (zài)", "有 (yǒu)", "是 (shì)", "去 (qù)"], "在 (zài)", "Câu chỉ vị trí: Đối tượng + 在 + Địa điểm."],
+                ["Từ '漂亮' (piàoliang) nghĩa là:", ["Xinh đẹp", "Xấu", "Cao", "Thấp"], "Xinh đẹp", "漂亮 dùng để khen vẻ ngoài xinh đẹp."],
+                ["Hỏi 'Nhà sách ở đâu?'", ["书店在哪儿？", "书店有吗？", "你去书店吗？", "书店是什么？"], "书店在哪儿？", "在哪儿 dùng để hỏi vị trí."],
+                ["Từ '午饭' (wǔfàn) nghĩa là:", ["Bữa trưa", "Bữa sáng", "Bữa tối", "Đồ ăn vặt"], "Bữa trưa", "午饭 là bữa ăn trưa."],
+                ["Câu '我爸爸在医院工作' nghĩa là gì?", ["Bố tôi làm việc ở bệnh viện", "Bố tôi ở bệnh viện", "Bố tôi đi bệnh viện", "Bố tôi khám bệnh"], "Bố tôi làm việc ở bệnh viện", "在 + Địa điểm + 工作 (làm việc)."],
+                ["'能' (néng) có nghĩa là:", ["Có thể", "Không thể", "Muốn", "Cần"], "Có thể", "能 dùng để chỉ khả năng hoặc điều kiện cho phép."]
+            ],
+            9: [
+                ["Sắp xếp đúng: 1. 上 2. 椅子 3. 有 4. 一本书", ["2-1-3-4 (椅子上有一本书)", "1-2-3-4", "3-2-1-4", "4-3-2-1"], "2-1-3-4 (椅子上有一本书)", "Câu tồn tại: Địa điểm + 有 + Sự vật (Trên ghế có một quyển sách)."],
+                ["Từ '第' dùng để làm gì?", ["Biểu thị số thứ tự", "Biểu thị số nhiều", "Biểu thị sở hữu", "Biểu thị thời gian"], "Biểu thị số thứ tự", "第 + Số đếm = Thứ mấy (VD: 第一个: Cái thứ nhất)."],
+                ["Câu '桌子上有一本书' nghĩa là gì?", ["Trên bàn có một quyển sách", "Quyển sách ở trên bàn", "Tôi để sách trên bàn", "Bàn có sách không?"], "Trên bàn có một quyển sách", "Cấu trúc tồn tại: 桌子上 (Trên bàn) + 有 (có)."],
+                ["Điền từ: 我明天上午 ______ 学校学习。", ["在 (zài)", "去 (qù)", "到 (dào)", "是 (shì)"], "在 (zài)", "在 + Địa điểm + Động từ: Làm gì ở đâu."],
+                ["Từ '朋友' (péngyou) nghĩa là:", ["Bạn bè", "Người yêu", "Gia đình", "Đồng nghiệp"], "Bạn bè", "朋友 là bạn bè."],
+                ["'唱' (chàng) nghĩa là:", ["Hát", "Nhảy", "Nói", "Đọc"], "Hát", "唱歌 là hát."],
+                ["Từ '电视' (diànshì) nghĩa là:", ["Tivi", "Máy tính", "Điện thoại", "Tủ lạnh"], "Tivi", "电视 là tivi."],
+                ["Hỏi 'Cái này là của ai?'", ["这是谁的？", "这是什么？", "这是哪儿的？", "这是谁？"], "这是谁的？", "Đại từ nghi vấn '谁' (ai) + '的' (của)."],
+                ["'外边' (wàibian) nghĩa là:", ["Bên ngoài", "Bên trong", "Phía trên", "Phía dưới"], "Bên ngoài", "外边 là bên ngoài."],
+                ["Câu '我喜欢读书' nghĩa là gì?", ["Tôi thích đọc sách", "Tôi thích xem phim", "Tôi thích hát", "Tôi thích chơi"], "Tôi thích đọc sách", "读书 là đọc sách."]
+            ],
+            10: [
+                ["Chọn câu đúng để nói 'Táo này rất rẻ':", ["这个苹果很便宜。", "这个苹果很贵。", "这个苹果便宜吗？", "这个苹果不便宜。"], "这个苹果很便宜。", "Câu vị ngữ tính từ: Chủ ngữ + 很 + Tính từ."],
+                ["Mẫu câu hỏi 'Thế nào?':", ["怎么样 (zěnmeyàng)", "什么 (shénme)", "怎么 (zěnme)", "多少 (duōshao)"], "怎么样 (zěnmeyàng)", "Dùng '怎么样' để hỏi ý kiến hoặc tình trạng."],
+                ["Hỏi giá tiền: 'Cái cốc này bao nhiêu tiền?'", ["这个杯子多少钱？", "这个杯子几钱？", "这个杯子是多少？", "这个杯子很贵吗？"], "这个杯子多少钱？", "多少钱 là cụm từ hỏi giá tiền."],
+                ["Từ '便宜' (piányi) nghĩa là:", ["Rẻ", "Đắt", "Vừa phải", "Miễn phí"], "Rẻ", "便宜 là rẻ."],
+                ["'水果' (shuǐguǒ) nghĩa là:", ["Hoa quả", "Rau củ", "Thịt", "Cá"], "Hoa quả", "水果 là trái cây."],
+                ["Điền từ: 这些苹果 ______ 很便宜。", ["都 (dōu)", "也 (yě)", "还 (hái)", "只 (zhǐ)"], "都 (dōu)", "都 nghĩa là 'tất cả đều'."],
+                ["Câu '那些杯子很好看' nghĩa là gì?", ["Những cái cốc kia rất đẹp", "Những cái cốc này rất đẹp", "Cái cốc này rất đẹp", "Cái cốc kia rất đắt"], "Những cái cốc kia rất đẹp", "那些 là những cái kia, 好看 là đẹp."],
+                ["'块' (kuài) là đơn vị tiền tệ, nghĩa là:", ["Đồng (tệ)", "Hào", "Xu", "Yên"], "Đồng (tệ)", "块 là đơn vị tiền tệ (Nhân dân tệ)."],
+                ["Hỏi 'Bạn muốn mua mấy cân?'", ["你想买几斤？", "你想买几个？", "你想买什么？", "你买斤吗？"], "你想买几斤？", "斤 là đơn vị đo khối lượng (nửa kg)."],
+                ["'这儿' (zhèr) nghĩa là:", ["Ở đây", "Ở đó", "Ở đâu", "Bên ngoài"], "Ở đây", "这儿 là ở đây."]
+            ],
+            11: [
+                ["Diễn đạt 'Tôi đang học đại học':", ["我在读大学呢。", "我读大学。", "我正读大学。", "我读大学了。"], "我在读大学呢。", "Dùng '在...呢' để nhấn mạnh hành động đang diễn ra."],
+                ["Câu hỏi chính phản: 'Bạn có đi không?'", ["你去不去？", "你去吗？", "你去了吗？", "你去没去？"], "你去不去？", "Câu hỏi chính phản dùng động từ lặp lại kèm '不'."],
+                ["'睡觉' (shuìjiào) nghĩa là:", ["Ngủ", "Thức dậy", "Đi học", "Đi làm"], "Ngủ", "睡觉 là ngủ."],
+                ["Câu '弟弟在睡觉呢' nghĩa là gì?", ["Em trai đang ngủ", "Em trai đã ngủ", "Em trai muốn ngủ", "Em trai không ngủ"], "Em trai đang ngủ", "在 + Động từ + 呢 = Đang làm gì đó."],
+                ["Từ '起床' (qǐchuáng) nghĩa là:", ["Thức dậy", "Đi ngủ", "Nằm xuống", "Ngồi dậy"], "Thức dậy", "起床 là thức dậy khỏi giường."],
+                ["'大学' (dàxué) nghĩa là:", ["Đại học", "Trung học", "Tiểu học", "Mẫu giáo"], "Đại học", "大学 là trường đại học."],
+                ["'学医' (xué yī) nghĩa là:", ["Học ngành y", "Học bác sĩ", "Học sinh học", "Học y tá"], "Học ngành y", "学 (học) + 医 (y khoa)."],
+                ["Phó từ '在' đứng trước động từ biểu thị:", ["Hành động đang diễn ra", "Hành động đã xong", "Hành động sắp tới", "Hành động thường xuyên"], "Hành động đang diễn ra", "在 + Động từ = Đang làm gì."],
+                ["Từ '问' (wèn) nghĩa là:", ["Hỏi", "Trả lời", "Nói", "Nghe"], "Hỏi", "问 là hỏi."],
+                ["Hỏi 'Bạn đang làm gì?'", ["你在做什么？", "你做什么？", "你做了什么？", "你做什么了？"], "你在做什么？", "在 + 做什么 = Đang làm gì."]
+            ],
+            12: [
+                ["Câu nào miêu tả thời tiết có tuyết?", ["下雪了。", "下雨了。", "很冷。", "刮风了。"], "下雪了。", "下雪 (xià xuě) nghĩa là có tuyết rơi."],
+                ["Trợ từ '了' cuối câu biểu thị điều gì?", ["Sự thay đổi hoặc tình trạng mới", "Hành động đã xảy ra", "Sự sở hữu", "Số nhiều"], "Sự thay đổi hoặc tình trạng mới", "'了' cuối câu (Modal particle) biểu thị sự thay đổi trạng thái."],
+                ["'天气' (tiānqì) nghĩa là:", ["Thời tiết", "Bầu trời", "Không khí", "Mưa"], "Thời tiết", "天气 là thời tiết."],
+                ["Câu '今天有点儿冷' nghĩa là gì?", ["Hôm nay hơi lạnh", "Hôm nay rất lạnh", "Hôm nay không lạnh", "Hôm nay ấm"], "Hôm nay hơi lạnh", "有点儿 + Tính từ = Hơi... (mức độ nhẹ)."],
+                ["Từ '生病' (shēngbìng) nghĩa là:", ["Bị ốm", "Khám bệnh", "Uống thuốc", "Khỏe mạnh"], "Bị ốm", "生病 là bị bệnh."],
+                ["Câu '我去看病' nghĩa là gì?", ["Tôi đi khám bệnh", "Tôi bị ốm", "Tôi uống thuốc", "Tôi đi làm"], "Tôi đi khám bệnh", "看病 là đi khám bệnh."],
+                ["'药' (yào) nghĩa là:", ["Thuốc", "Nước", "Trà", "Sữa"], "Thuốc", "药 là thuốc."],
+                ["Từ '热' (rè) nghĩa là:", ["Nóng", "Lạnh", "Ấm", "Mát"], "Nóng", "热 là nóng."],
+                ["Điền từ: 我 ______ 有点儿冷。", ["觉得 (juéde)", "认为 (rènwéi)", "想 (xiǎng)", "要 (yào)"], "觉得 (juéde)", "觉得 nghĩa là cảm thấy."],
+                ["'水' (shuǐ) nghĩa là:", ["Nước", "Trà", "Sữa", "Cà phê"], "Nước", "水 là nước."]
+            ],
+            13: [
+                ["Cấu trúc 'Cho tôi một cốc trà':", ["请给我一杯茶。", "请给我一杯茶吗？", "我要给一杯茶。", "我给一杯茶请。"], "请给我一杯茶。", "Câu cầu khiến: 请 + 给 + Người + Vật."],
+                ["Cấu trúc 'Động từ + 一下' biểu thị:", ["Làm việc gì đó một cách nhanh chóng/thử làm", "Làm việc gì đó hoàn thành", "Làm việc gì đó trong quá khứ", "Làm việc gì đó liên tục"], "Làm việc gì đó một cách nhanh chóng/thử làm", "一下 làm giảm nhẹ hành động (VD: 问一下: Hỏi một chút)."],
+                ["Câu '我可以坐这儿吗？' nghĩa là gì?", ["Tôi có thể ngồi đây không?", "Tôi muốn ngồi đây", "Tôi không ngồi đây", "Tôi đang ngồi đây"], "Tôi có thể ngồi đây không?", "可以 + Động từ + 吗 = Có thể... không?"],
+                ["'服务员' (fúwùyuán) nghĩa là:", ["Nhân viên phục vụ", "Khách hàng", "Đầu bếp", "Quản lý"], "Nhân viên phục vụ", "服务员 là nhân viên phục vụ."],
+                ["Từ '给' (gěi) nghĩa là:", ["Cho", "Mượn", "Trả", "Mua"], "Cho", "给 là cho, đưa."],
+                ["Câu '这个面包很好吃' nghĩa là gì?", ["Cái bánh mì này rất ngon", "Cái bánh mì này rất đắt", "Cái bánh mì này rất to", "Cái bánh mì này rất rẻ"], "Cái bánh mì này rất ngon", "好吃 nghĩa là ngon."],
+                ["'鸡蛋' (jīdàn) nghĩa là:", ["Trứng gà", "Thịt gà", "Sữa", "Bánh mì"], "Trứng gà", "鸡蛋 là trứng gà."],
+                ["Động từ 'uống' là:", ["喝 (hē)", "吃 (chī)", "买 (mǎi)", "看 (kàn)"], "喝 (hē)", "喝 là uống."],
+                ["Hỏi 'Bạn muốn uống gì?'", ["你想喝什么？", "你吃什么？", "你要什么？", "你喝什么了？"], "你想喝什么？", "喝 (uống) + 什么 (cái gì)."],
+                ["'女士' (nǚshì) nghĩa là:", ["Quý bà", "Quý ông", "Cô gái", "Phụ nữ"], "Quý bà", "女士 là cách gọi lịch sự với phụ nữ."]
+            ],
+            14: [
+                ["Trợ từ động thái '了' (Aspect particle) đặt ở đâu?", ["Sau động từ", "Trước động từ", "Cuối câu", "Trước danh từ"], "Sau động từ", "Động từ + 了 biểu thị hành động đã hoàn thành (VD: 看了一个电影)."],
+                ["Phó từ 'đều' trong câu: Chúng ta đều nghe thấy.", ["都 (dōu)", "也 (yě)", "还 (hái)", "只 (zhǐ)"], "都 (dōu)", "都 nghĩa là 'tất cả đều'."],
+                ["Câu '我看了一个电影' nghĩa là gì?", ["Tôi đã xem một bộ phim", "Tôi đang xem một bộ phim", "Tôi sẽ xem một bộ phim", "Tôi muốn xem một bộ phim"], "Tôi đã xem một bộ phim", "了 sau động từ 看 biểu thị hành động đã xảy ra."],
+                ["Từ '火车' (huǒchē) nghĩa là:", ["Tàu hỏa", "Máy bay", "Ô tô", "Xe đạp"], "Tàu hỏa", "火车 là tàu hỏa."],
+                ["Câu '我写了很多汉字' nghĩa là gì?", ["Tôi đã viết rất nhiều chữ Hán", "Tôi đang viết chữ Hán", "Tôi không viết chữ Hán", "Tôi muốn viết chữ Hán"], "Tôi đã viết rất nhiều chữ Hán", "很多 nghĩa là rất nhiều, 汉字 là chữ Hán."],
+                ["'听见' (tīngjiàn) nghĩa là:", ["Nghe thấy", "Lắng nghe", "Nói", "Nhìn thấy"], "Nghe thấy", "听见 là kết quả của việc nghe (nghe thấy)."],
+                ["'说话' (shuōhuà) nghĩa là:", ["Nói chuyện", "Hỏi", "Trả lời", "Đọc"], "Nói chuyện", "说话 là nói chuyện."],
+                ["Từ '明年' (míngnián) nghĩa là:", ["Năm sau", "Năm ngoái", "Năm nay", "Năm kia"], "Năm sau", "明 (sáng/tương lai) + 年 (năm) = Năm sau."],
+                ["Câu '大家都听见了' nghĩa là gì?", ["Mọi người đều nghe thấy rồi", "Mọi người đều không nghe thấy", "Mọi người đang nghe", "Mọi người muốn nghe"], "Mọi người đều nghe thấy rồi", "都 (đều) + 听见 (nghe thấy) + 了 (rồi)."],
+                ["Trường tiểu học là:", ["小学 (xiǎoxué)", "中学 (zhōngxué)", "大学 (dàxué)", "中学 (zhōngxué)"], "小学 (xiǎoxué)", "小学 là trường tiểu học."]
+            ],
+            15: [
+                ["Cấu trúc câu song song 'Tôi thích X, cũng thích Y':", ["我喜欢X，也喜欢Y。", "我喜欢X，都喜欢Y。", "我喜欢X，还喜欢Y。", "Cả A và C đều đúng."], "Cả A và C đều đúng.", "Cả '也' và '还' đều có thể dùng để nối các vế câu song song."],
+                ["Hỏi 'Bạn đi đâu?'", ["你去哪儿？", "你去哪？", "你去哪里吗？", "你去哪儿了？"], "你去哪儿？", "哪儿 là đại từ nghi vấn chỉ địa điểm."],
+                ["Câu '我爱中国' nghĩa là gì?", ["Tôi yêu Trung Quốc", "Tôi thích Trung Quốc", "Tôi đến Trung Quốc", "Tôi sống ở Trung Quốc"], "Tôi yêu Trung Quốc", "爱 nghĩa là yêu."],
+                ["Từ '去年' (qùnián) nghĩa là:", ["Năm ngoái", "Năm nay", "Năm sau", "Năm kia"], "Năm ngoái", "去 (đi qua) + 年 (năm) = Năm ngoái."],
+                ["'飞机' (fēijī) nghĩa là:", ["Máy bay", "Tàu hỏa", "Ô tô", "Tàu thủy"], "Máy bay", "飞机 là máy bay."],
+                ["'机场' (jīchǎng) nghĩa là:", ["Sân bay", "Ga tàu", "Bến xe", "Bến cảng"], "Sân bay", "机场 là sân bay."],
+                ["Câu '北京很漂亮' nghĩa là gì?", ["Bắc Kinh rất đẹp", "Bắc Kinh rất to", "Bắc Kinh rất lạnh", "Bắc Kinh rất đông"], "Bắc Kinh rất đẹp", "漂亮 nghĩa là đẹp."],
+                ["Từ '接' (jiē) nghĩa là:", ["Đón", "Tiễn", "Gặp", "Chờ"], "Đón", "接 là đón (ai đó)."],
+                ["'好玩儿' (hǎowánr) nghĩa là:", ["Vui", "Buồn", "Đẹp", "Xấu"], "Vui", "好玩儿 nghĩa là thú vị, vui vẻ."],
+                ["Hỏi 'Bạn có thời gian không?'", ["你有时间吗？", "你有空吗？", "你忙吗？", "你累吗？"], "你有时间吗？", "时间 nghĩa là thời gian."]
+            ]
+        };
+
+        let currentLessonData = null;
+        let filteredQuestions = [];
+        let currentQuestionIndex = 0;
+        let correctAnswersCount = 0;
+        let isAnswered = false;
+        let currentType = "all";
+        let currentLessonId = 1;
+
+        // Tạo danh sách 15 bài
+        const lessonSelect = document.getElementById('lesson-select');
+        for(let i = 1; i <= 15; i++) {
+            let opt = document.createElement('option');
+            opt.value = i;
+            opt.innerText = `📖 Bài ${i}`;
+            lessonSelect.appendChild(opt);
+        }
+
+        // Vẽ Menu
+        function updateSidebarMenu() {
+            const menuContainer = document.getElementById('exercise-menu');
+            menuContainer.innerHTML = '';
+
+            let count = {
+                meaning: currentLessonData.questions.filter(q => q.type === "meaning").length,
+                pinyin: currentLessonData.questions.filter(q => q.type === "pinyin").length,
+                fill_blank: currentLessonData.questions.filter(q => q.type === "fill_blank").length,
+                translate: currentLessonData.questions.filter(q => q.type === "translate").length,
+                grammar: currentLessonData.questions.filter(q => q.type === "grammar").length
+            };
+            let total = currentLessonData.questions.length;
+
+            const menus = [
+                { id: "all", label: "🏆 Làm tất cả (Full Test)", count: total },
+                { id: "meaning", label: "1️⃣ Từ vựng (Nghĩa)", count: count.meaning },
+                { id: "pinyin", label: "2️⃣ Phát âm (Pinyin)", count: count.pinyin },
+                { id: "fill_blank", label: "3️⃣ Điền từ vào câu", count: count.fill_blank },
+                { id: "translate", label: "4️⃣ Dịch câu (Khó)", count: count.translate },
+                { id: "grammar", label: "5️⃣ Phản xạ Ngữ pháp", count: count.grammar }
+            ];
+
+            menus.forEach(menu => {
+                let div = document.createElement('div');
+                div.className = `tree-item ${currentType === menu.id ? 'active' : ''}`;
+                div.innerHTML = `<span>${menu.label}</span> <span class="badge">${menu.count}</span>`;
+                div.onclick = () => selectExerciseType(menu.id);
+                menuContainer.appendChild(div);
+            });
+        }
+
+        // Chọn phần
+        function selectExerciseType(type) {
+            currentType = type;
+            filterQuestions();
+            updateSidebarMenu();
+            renderQuestion();
+        }
+
+        // Đổi Bài
+        function changeLesson(lessonId) {
+            currentLessonId = parseInt(lessonId);
+            currentQuestionIndex = 0;
+            correctAnswersCount = 0;
+            document.getElementById('score-display').innerText = `0`;
+            currentType = "all";
+
+            fetch(`hsk1_data/lesson_${lessonId}.json`)
+                .then(res => res.json())
+                .then(data => {
+                    currentLessonData = data;
+                    document.getElementById('lesson-title').innerText = currentLessonData.lessonTitle;
+
+                    // GHI ĐÈ 15 CÂU DỊCH BẰNG KHO CÂU CHUẨN (LẤY MẪU KHÔNG HOÀN LẠI)
+                    let transBank = TRANSLATION_BANK[currentLessonId];
+                    let transQuestions = currentLessonData.questions.filter(q => q.type === "translate");
+                    let shuffledTrans = [...transBank].sort(() => Math.random() - 0.5);
+
+                    transQuestions.forEach((q, index) => {
+                        let pair = shuffledTrans[index % shuffledTrans.length];
+
+                        q.question = `Dịch câu sau sang tiếng Trung: '${pair[0]}'`;
+                        q.answer = pair[1];
+
+                        // Tạo đáp án sai (Chỉ dùng tiếng Trung, không chèn tiếng Việt)
+                        let opts = [pair[1]];
+                        let reversed = pair[1].split('').reverse().join('');
+                        if (reversed !== pair[1]) opts.push(reversed);
+
+                        if (pair[1].startsWith("我")) {
+                            opts.push("是" + pair[1].substring(1));
+                            opts.push("不" + pair[1]);
+                        } else {
+                            opts.push("我" + pair[1]);
+                            opts.push("是" + pair[1]);
+                        }
+
+                        opts = [...new Set(opts)];
+                        while(opts.length < 4) opts.push("是" + pair[1]);
+
+                        // SỬ DỤNG THUẬT TOÁN XÁO BÀI CHUẨN
+                        q.options = shuffleArray(opts.slice(0, 4));
+                        q.explanation = `Câu đúng là: ${pair[1]}`;
+                    });
+
+                    // GHI ĐÈ 10 CÂU NGỮ PHÁP BẰNG KHO CÂU CHUẨN
+                    let gramBank = GRAMMAR_BANK[currentLessonId];
+                    let gramQuestions = currentLessonData.questions.filter(q => q.type === "grammar");
+                    let shuffledGram = [...gramBank].sort(() => Math.random() - 0.5);
+
+                    gramQuestions.forEach((q, index) => {
+                        let item = shuffledGram[index % shuffledGram.length];
+                        q.question = item[0];
+                        // SỬ DỤNG THUẬT TOÁN XÁO BÀI CHUẨN CHO CẢ CÂU NGỮ PHÁP
+                        q.options = shuffleArray([...item[1]]);
+                        q.answer = item[2];
+                        q.explanation = item[3];
+                    });
+
+                    filterQuestions();
+                    updateSidebarMenu();
+                    renderQuestion();
+                })
+                .catch(err => alert("Lỗi tải file JSON!"));
+        }
+
+        // Lọc
+        function filterQuestions() {
+            if (currentType === "all") {
+                filteredQuestions = [...currentLessonData.questions];
+            } else {
+                filteredQuestions = currentLessonData.questions.filter(q => q.type === currentType);
+            }
+            currentQuestionIndex = 0;
+            correctAnswersCount = 0;
+            document.getElementById('score-display').innerText = `0`;
+            document.getElementById('total-q').innerText = filteredQuestions.length;
+        }
+
+        // Render
+        function renderQuestion() {
+            isAnswered = false;
+            if (filteredQuestions.length === 0) return;
+
+            const q = filteredQuestions[currentQuestionIndex];
+            document.getElementById('q-num').innerText = currentQuestionIndex + 1;
+            document.getElementById('question-text').innerText = q.question;
+
+            const optionsContainer = document.getElementById('options-container');
+            optionsContainer.innerHTML = '';
+            document.getElementById('explanation').style.display = 'none';
+            document.getElementById('next-btn').style.display = 'none';
+
+            const letters = ['A', 'B', 'C', 'D'];
+            q.options.forEach((option, index) => {
+                const btn = document.createElement('button');
+                btn.className = 'option';
+                btn.innerHTML = `<span class="letter">${letters[index]}.</span> ${option}`;
+                btn.onclick = () => checkAnswer(btn, option, q.answer, q.explanation);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        // Check
+        function checkAnswer(btn, selected, correct, explanation) {
+            if (isAnswered) return;
+            isAnswered = true;
+
+            const allBtns = document.querySelectorAll('.option');
+            allBtns.forEach(b => b.disabled = true);
+
+            if (selected === correct) {
+                btn.classList.add('correct');
+                correctAnswersCount++;
+                document.getElementById('score-display').innerText = correctAnswersCount;
+            } else {
+                btn.classList.add('wrong');
+                allBtns.forEach(b => {
+                    const btnText = b.innerText.substring(3).trim();
+                    if (btnText === correct) b.classList.add('correct');
+                });
+            }
+
+            const expDiv = document.getElementById('explanation');
+            expDiv.innerHTML = `<strong>💡 Giải thích:</strong> ${explanation}`;
+            expDiv.style.display = 'block';
+            document.getElementById('next-btn').style.display = 'block';
+        }
+
+        // Next
+        function nextQuestion() {
+            if (currentQuestionIndex < filteredQuestions.length - 1) {
+                currentQuestionIndex++;
+                renderQuestion();
+            } else {
+                alert(`🎉 Chúc mừng bạn đã hoàn thành!\nSố câu đúng: ${correctAnswersCount}/${filteredQuestions.length}`);
+            }
+        }
+
+        // Khởi chạy
+        changeLesson(1);
+    </script>
+</body>
+</html>

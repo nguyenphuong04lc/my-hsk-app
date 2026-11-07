@@ -1,0 +1,1307 @@
+{
+    "lessonId": 9,
+    "lessonTitle": "Bài 9: 我明天上午在学校学习",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '歌' (gē) có nghĩa là gì?",
+            "options": [
+                "Làm",
+                "Chó",
+                "Bài hát",
+                "Cái ghế"
+            ],
+            "answer": "Bài hát",
+            "explanation": "'歌' nghĩa là 'Bài hát'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '那个' (nàge) có nghĩa là gì?",
+            "options": [
+                "Quyển",
+                "Cái đó",
+                "Làm",
+                "Trên"
+            ],
+            "answer": "Cái đó",
+            "explanation": "'那个' nghĩa là 'Cái đó'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '椅子' (yǐzi) có nghĩa là gì?",
+            "options": [
+                "Chó",
+                "Cái ghế",
+                "Bạn bè",
+                "Phía trước"
+            ],
+            "answer": "Cái ghế",
+            "explanation": "'椅子' nghĩa là 'Cái ghế'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '玩' (wán) có nghĩa là gì?",
+            "options": [
+                "Tivi",
+                "Bài hát",
+                "Chơi",
+                "Thứ"
+            ],
+            "answer": "Chơi",
+            "explanation": "'玩' nghĩa là 'Chơi'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '第' (dì) có nghĩa là gì?",
+            "options": [
+                "Cái ghế",
+                "Chó",
+                "Thứ",
+                "Bạn bè"
+            ],
+            "answer": "Thứ",
+            "explanation": "'第' nghĩa là 'Thứ'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '学习' (xuéxí) có nghĩa là gì?",
+            "options": [
+                "Bài hát",
+                "Học tập",
+                "Bạn bè",
+                "Quyển"
+            ],
+            "answer": "Học tập",
+            "explanation": "'学习' nghĩa là 'Học tập'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '本' (běn) có nghĩa là gì?",
+            "options": [
+                "Ban ngày",
+                "Quyển",
+                "Hay",
+                "Cái đó"
+            ],
+            "answer": "Quyển",
+            "explanation": "'本' nghĩa là 'Quyển'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '做' (zuò) có nghĩa là gì?",
+            "options": [
+                "Nhà (lượng từ)",
+                "Làm",
+                "Quyển",
+                "Học tập"
+            ],
+            "answer": "Làm",
+            "explanation": "'做' nghĩa là 'Làm'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '电视' (diànshì) có nghĩa là gì?",
+            "options": [
+                "Học tập",
+                "Chơi",
+                "Tivi",
+                "Bài hát"
+            ],
+            "answer": "Tivi",
+            "explanation": "'电视' nghĩa là 'Tivi'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '白天' (báitiān) có nghĩa là gì?",
+            "options": [
+                "Học tập",
+                "Sách",
+                "Làm",
+                "Ban ngày"
+            ],
+            "answer": "Ban ngày",
+            "explanation": "'白天' nghĩa là 'Ban ngày'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '书' (shū) có nghĩa là gì?",
+            "options": [
+                "Sách",
+                "Học tập",
+                "Chơi",
+                "Chó"
+            ],
+            "answer": "Sách",
+            "explanation": "'书' nghĩa là 'Sách'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '狗' (gǒu) có nghĩa là gì?",
+            "options": [
+                "Thứ",
+                "Chó",
+                "Cái đó",
+                "Phía trước"
+            ],
+            "answer": "Chó",
+            "explanation": "'狗' nghĩa là 'Chó'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '上' (shàng) có nghĩa là gì?",
+            "options": [
+                "Hát",
+                "Chó",
+                "Trên",
+                "Học tập"
+            ],
+            "answer": "Trên",
+            "explanation": "'上' nghĩa là 'Trên'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '前边' (qiánbian) có nghĩa là gì?",
+            "options": [
+                "Phía trước",
+                "Bài hát",
+                "Chó",
+                "Làm"
+            ],
+            "answer": "Phía trước",
+            "explanation": "'前边' nghĩa là 'Phía trước'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '好听' (hǎotīng) có nghĩa là gì?",
+            "options": [
+                "Hay",
+                "Chơi",
+                "Phía trước",
+                "Quyển"
+            ],
+            "answer": "Hay",
+            "explanation": "'好听' nghĩa là 'Hay'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '家' (jiā) có nghĩa là gì?",
+            "options": [
+                "Nhà (lượng từ)",
+                "Thứ",
+                "Chó",
+                "Bạn bè"
+            ],
+            "answer": "Nhà (lượng từ)",
+            "explanation": "'家' nghĩa là 'Nhà (lượng từ)'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '读书' (dúshū) có nghĩa là gì?",
+            "options": [
+                "Quyển",
+                "Đọc sách",
+                "Làm",
+                "Bên ngoài"
+            ],
+            "answer": "Đọc sách",
+            "explanation": "'读书' nghĩa là 'Đọc sách'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '唱' (chàng) có nghĩa là gì?",
+            "options": [
+                "Quyển",
+                "Chơi",
+                "Làm",
+                "Hát"
+            ],
+            "answer": "Hát",
+            "explanation": "'唱' nghĩa là 'Hát'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '外边' (wàibian) có nghĩa là gì?",
+            "options": [
+                "Bên ngoài",
+                "Cái đó",
+                "Trên",
+                "Bài hát"
+            ],
+            "answer": "Bên ngoài",
+            "explanation": "'外边' nghĩa là 'Bên ngoài'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '朋友' (péngyou) có nghĩa là gì?",
+            "options": [
+                "Hát",
+                "Sách",
+                "Cái ghế",
+                "Bạn bè"
+            ],
+            "answer": "Bạn bè",
+            "explanation": "'朋友' nghĩa là 'Bạn bè'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '上' (shàng) có nghĩa là gì?",
+            "options": [
+                "Chó",
+                "Trên",
+                "Tivi",
+                "Đọc sách"
+            ],
+            "answer": "Trên",
+            "explanation": "'上' nghĩa là 'Trên'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '朋友' (péngyou) có nghĩa là gì?",
+            "options": [
+                "Thứ",
+                "Bạn bè",
+                "Ban ngày",
+                "Chó"
+            ],
+            "answer": "Bạn bè",
+            "explanation": "'朋友' nghĩa là 'Bạn bè'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '那个' (nàge) có nghĩa là gì?",
+            "options": [
+                "Cái đó",
+                "Phía trước",
+                "Bên ngoài",
+                "Đọc sách"
+            ],
+            "answer": "Cái đó",
+            "explanation": "'那个' nghĩa là 'Cái đó'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '椅子' (yǐzi) có nghĩa là gì?",
+            "options": [
+                "Cái ghế",
+                "Phía trước",
+                "Tivi",
+                "Chó"
+            ],
+            "answer": "Cái ghế",
+            "explanation": "'椅子' nghĩa là 'Cái ghế'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '第' (dì) có nghĩa là gì?",
+            "options": [
+                "Bạn bè",
+                "Thứ",
+                "Phía trước",
+                "Hát"
+            ],
+            "answer": "Thứ",
+            "explanation": "'第' nghĩa là 'Thứ'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '白天' (báitiān) có nghĩa là gì?",
+            "options": [
+                "Cái đó",
+                "Bên ngoài",
+                "Trên",
+                "Ban ngày"
+            ],
+            "answer": "Ban ngày",
+            "explanation": "'白天' nghĩa là 'Ban ngày'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '家' (jiā) có nghĩa là gì?",
+            "options": [
+                "Nhà (lượng từ)",
+                "Làm",
+                "Chó",
+                "Học tập"
+            ],
+            "answer": "Nhà (lượng từ)",
+            "explanation": "'家' nghĩa là 'Nhà (lượng từ)'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '电视' (diànshì) có nghĩa là gì?",
+            "options": [
+                "Cái ghế",
+                "Đọc sách",
+                "Bên ngoài",
+                "Tivi"
+            ],
+            "answer": "Tivi",
+            "explanation": "'电视' nghĩa là 'Tivi'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '唱' (chàng) có nghĩa là gì?",
+            "options": [
+                "Học tập",
+                "Hát",
+                "Ban ngày",
+                "Quyển"
+            ],
+            "answer": "Hát",
+            "explanation": "'唱' nghĩa là 'Hát'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '读书' (dúshū) có nghĩa là gì?",
+            "options": [
+                "Bài hát",
+                "Hay",
+                "Phía trước",
+                "Đọc sách"
+            ],
+            "answer": "Đọc sách",
+            "explanation": "'读书' nghĩa là 'Đọc sách'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '歌' là:",
+            "options": [
+                "gē",
+                "gē3",
+                "gē4",
+                "gē6"
+            ],
+            "answer": "gē",
+            "explanation": "'歌' đọc là gē."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '玩' là:",
+            "options": [
+                "wán7",
+                "wán",
+                "wám",
+                "wán1"
+            ],
+            "answer": "wán",
+            "explanation": "'玩' đọc là wán."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '外边' là:",
+            "options": [
+                "wàibiam",
+                "wàìbìàn",
+                "wàibian9",
+                "wàibian"
+            ],
+            "answer": "wàibian",
+            "explanation": "'外边' đọc là wàibian."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '做' là:",
+            "options": [
+                "zuò5",
+                "zùò",
+                "zuò3",
+                "zuò"
+            ],
+            "answer": "zuò",
+            "explanation": "'做' đọc là zuò."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '书' là:",
+            "options": [
+                "shū4",
+                "shū",
+                "shū2",
+                "shū7"
+            ],
+            "answer": "shū",
+            "explanation": "'书' đọc là shū."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '学习' là:",
+            "options": [
+                "xuéxí",
+                "xuéxí2",
+                "xuéxí1",
+                "xùéxí"
+            ],
+            "answer": "xuéxí",
+            "explanation": "'学习' đọc là xuéxí."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '好听' là:",
+            "options": [
+                "hǎotīng",
+                "hǎotīmg",
+                "hǎotīng8",
+                "hǎótīng"
+            ],
+            "answer": "hǎotīng",
+            "explanation": "'好听' đọc là hǎotīng."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '前边' là:",
+            "options": [
+                "qiánbian",
+                "qìánbìàn",
+                "qiánbian1",
+                "qiámbiam"
+            ],
+            "answer": "qiánbian",
+            "explanation": "'前边' đọc là qiánbian."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '本' là:",
+            "options": [
+                "běn6",
+                "běm",
+                "běn",
+                "běn5"
+            ],
+            "answer": "běn",
+            "explanation": "'本' đọc là běn."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '狗' là:",
+            "options": [
+                "gǒu",
+                "gǒu6",
+                "gǒù",
+                "gǒu5"
+            ],
+            "answer": "gǒu",
+            "explanation": "'狗' đọc là gǒu."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '狗' là:",
+            "options": [
+                "gǒu7",
+                "gǒu6",
+                "gǒù",
+                "gǒu"
+            ],
+            "answer": "gǒu",
+            "explanation": "'狗' đọc là gǒu."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '读书' là:",
+            "options": [
+                "dúshū6",
+                "dúshū3",
+                "dúshū",
+                "dúshū6"
+            ],
+            "answer": "dúshū",
+            "explanation": "'读书' đọc là dúshū."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '做' là:",
+            "options": [
+                "zuò",
+                "zùò",
+                "zuò3",
+                "zuò3"
+            ],
+            "answer": "zuò",
+            "explanation": "'做' đọc là zuò."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '朋友' là:",
+            "options": [
+                "péngyou2",
+                "péngyou",
+                "pémgyou",
+                "péngyóù"
+            ],
+            "answer": "péngyou",
+            "explanation": "'朋友' đọc là péngyou."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '上' là:",
+            "options": [
+                "shàng",
+                "shàng6",
+                "shàmg",
+                "shàng1"
+            ],
+            "answer": "shàng",
+            "explanation": "'上' đọc là shàng."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '第' là:",
+            "options": [
+                "dì7",
+                "dì",
+                "dì4",
+                "dì5"
+            ],
+            "answer": "dì",
+            "explanation": "'第' đọc là dì."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '唱' là:",
+            "options": [
+                "chàng",
+                "chàng4",
+                "chàng6",
+                "chàmg"
+            ],
+            "answer": "chàng",
+            "explanation": "'唱' đọc là chàng."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '椅子' là:",
+            "options": [
+                "yǐzi",
+                "yǐzì",
+                "yǐzi5",
+                "yǐzi4"
+            ],
+            "answer": "yǐzi",
+            "explanation": "'椅子' đọc là yǐzi."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '书' là:",
+            "options": [
+                "shū",
+                "shū6",
+                "shū1",
+                "shū3"
+            ],
+            "answer": "shū",
+            "explanation": "'书' đọc là shū."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '本' là:",
+            "options": [
+                "běn",
+                "běm",
+                "běn4",
+                "běn4"
+            ],
+            "answer": "běn",
+            "explanation": "'本' đọc là běn."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '白天' là:",
+            "options": [
+                "báitiān",
+                "báitiām",
+                "báìtìān",
+                "báitiān6"
+            ],
+            "answer": "báitiān",
+            "explanation": "'白天' đọc là báitiān."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '玩' là:",
+            "options": [
+                "wán",
+                "wám",
+                "wán8",
+                "wán3"
+            ],
+            "answer": "wán",
+            "explanation": "'玩' đọc là wán."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '电视' là:",
+            "options": [
+                "dìànshì",
+                "diànshì",
+                "diànshì3",
+                "diàmshì"
+            ],
+            "answer": "diànshì",
+            "explanation": "'电视' đọc là diànshì."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '外边' là:",
+            "options": [
+                "wàibian",
+                "wàibian4",
+                "wàibiam",
+                "wàìbìàn"
+            ],
+            "answer": "wàibian",
+            "explanation": "'外边' đọc là wàibian."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '歌' là:",
+            "options": [
+                "gē9",
+                "gē4",
+                "gē",
+                "gē6"
+            ],
+            "answer": "gē",
+            "explanation": "'歌' đọc là gē."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nhà (lượng từ)' vào chỗ trống: ______",
+            "options": [
+                "电视",
+                "书",
+                "家",
+                "本"
+            ],
+            "answer": "家",
+            "explanation": "Từ cần điền là '家'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hay' vào chỗ trống: ______",
+            "options": [
+                "好听",
+                "前边",
+                "电视",
+                "做"
+            ],
+            "answer": "好听",
+            "explanation": "Từ cần điền là '好听'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Phía trước' vào chỗ trống: ______",
+            "options": [
+                "家",
+                "狗",
+                "前边",
+                "外边"
+            ],
+            "answer": "前边",
+            "explanation": "Từ cần điền là '前边'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Học tập' vào chỗ trống: ______",
+            "options": [
+                "歌",
+                "白天",
+                "学习",
+                "好听"
+            ],
+            "answer": "学习",
+            "explanation": "Từ cần điền là '学习'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cái đó' vào chỗ trống: ______",
+            "options": [
+                "那个",
+                "外边",
+                "歌",
+                "做"
+            ],
+            "answer": "那个",
+            "explanation": "Từ cần điền là '那个'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bạn bè' vào chỗ trống: ______",
+            "options": [
+                "朋友",
+                "唱",
+                "书",
+                "外边"
+            ],
+            "answer": "朋友",
+            "explanation": "Từ cần điền là '朋友'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bài hát' vào chỗ trống: ______",
+            "options": [
+                "外边",
+                "白天",
+                "好听",
+                "歌"
+            ],
+            "answer": "歌",
+            "explanation": "Từ cần điền là '歌'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Chó' vào chỗ trống: ______",
+            "options": [
+                "白天",
+                "读书",
+                "狗",
+                "做"
+            ],
+            "answer": "狗",
+            "explanation": "Từ cần điền là '狗'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Chơi' vào chỗ trống: ______",
+            "options": [
+                "上",
+                "玩",
+                "本",
+                "朋友"
+            ],
+            "answer": "玩",
+            "explanation": "Từ cần điền là '玩'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hay' vào chỗ trống: ______",
+            "options": [
+                "外边",
+                "书",
+                "好听",
+                "歌"
+            ],
+            "answer": "好听",
+            "explanation": "Từ cần điền là '好听'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tivi' vào chỗ trống: ______",
+            "options": [
+                "狗",
+                "电视",
+                "做",
+                "书"
+            ],
+            "answer": "电视",
+            "explanation": "Từ cần điền là '电视'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đọc sách' vào chỗ trống: ______",
+            "options": [
+                "家",
+                "第",
+                "读书",
+                "书"
+            ],
+            "answer": "读书",
+            "explanation": "Từ cần điền là '读书'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cái đó' vào chỗ trống: ______",
+            "options": [
+                "那个",
+                "前边",
+                "第",
+                "学习"
+            ],
+            "answer": "那个",
+            "explanation": "Từ cần điền là '那个'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Trên' vào chỗ trống: ______",
+            "options": [
+                "好听",
+                "玩",
+                "上",
+                "学习"
+            ],
+            "answer": "上",
+            "explanation": "Từ cần điền là '上'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Làm' vào chỗ trống: ______",
+            "options": [
+                "白天",
+                "家",
+                "读书",
+                "做"
+            ],
+            "answer": "做",
+            "explanation": "Từ cần điền là '做'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hát' vào chỗ trống: ______",
+            "options": [
+                "椅子",
+                "朋友",
+                "唱",
+                "第"
+            ],
+            "answer": "唱",
+            "explanation": "Từ cần điền là '唱'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sách' vào chỗ trống: ______",
+            "options": [
+                "好听",
+                "椅子",
+                "外边",
+                "书"
+            ],
+            "answer": "书",
+            "explanation": "Từ cần điền là '书'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ban ngày' vào chỗ trống: ______",
+            "options": [
+                "白天",
+                "做",
+                "好听",
+                "椅子"
+            ],
+            "answer": "白天",
+            "explanation": "Từ cần điền là '白天'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Quyển' vào chỗ trống: ______",
+            "options": [
+                "歌",
+                "椅子",
+                "唱",
+                "本"
+            ],
+            "answer": "本",
+            "explanation": "Từ cần điền là '本'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nhà (lượng từ)' vào chỗ trống: ______",
+            "options": [
+                "书",
+                "家",
+                "那个",
+                "电视"
+            ],
+            "answer": "家",
+            "explanation": "Từ cần điền là '家'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Phía trước'",
+            "options": [
+                "我前边是",
+                "我是前边",
+                "这前边是",
+                "是前边我"
+            ],
+            "answer": "我是前边",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是前边"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Thứ'",
+            "options": [
+                "这第是",
+                "是第我",
+                "我第是",
+                "我是第"
+            ],
+            "answer": "我是第",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是第"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Học tập'",
+            "options": [
+                "这学习是",
+                "这是学习",
+                "我学习是",
+                "是学习我"
+            ],
+            "answer": "这是学习",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是学习"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cái ghế'",
+            "options": [
+                "这椅子是",
+                "我椅子是",
+                "这是椅子",
+                "是椅子我"
+            ],
+            "answer": "这是椅子",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是椅子"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bên ngoài'",
+            "options": [
+                "我外边是",
+                "是外边我",
+                "这外边是",
+                "我是外边"
+            ],
+            "answer": "我是外边",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是外边"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Sách'",
+            "options": [
+                "我书是",
+                "我是书",
+                "是书我",
+                "这书是"
+            ],
+            "answer": "我是书",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是书"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bạn bè'",
+            "options": [
+                "我是朋友",
+                "这朋友是",
+                "是朋友我",
+                "我朋友是"
+            ],
+            "answer": "我是朋友",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是朋友"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nhà (lượng từ)'",
+            "options": [
+                "我家是",
+                "这家是",
+                "是家我",
+                "我是家"
+            ],
+            "answer": "我是家",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是家"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Phía trước'",
+            "options": [
+                "是前边我",
+                "这是前边",
+                "我前边是",
+                "这前边是"
+            ],
+            "answer": "这是前边",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是前边"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Chó'",
+            "options": [
+                "是狗我",
+                "我狗是",
+                "这狗是",
+                "这是狗"
+            ],
+            "answer": "这是狗",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是狗"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đọc sách'",
+            "options": [
+                "这读书是",
+                "我读书是",
+                "这是读书",
+                "是读书我"
+            ],
+            "answer": "这是读书",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是读书"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cái đó'",
+            "options": [
+                "这那个是",
+                "我那个是",
+                "是那个我",
+                "这是那个"
+            ],
+            "answer": "这是那个",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是那个"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Học tập'",
+            "options": [
+                "我学习是",
+                "我是学习",
+                "这学习是",
+                "是学习我"
+            ],
+            "answer": "我是学习",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是学习"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Bài hát'",
+            "options": [
+                "这歌是",
+                "这是歌",
+                "我歌是",
+                "是歌我"
+            ],
+            "answer": "这是歌",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是歌"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Bên ngoài'",
+            "options": [
+                "我外边是",
+                "是外边我",
+                "这外边是",
+                "这是外边"
+            ],
+            "answer": "这是外边",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是外边"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 本。 (Một Quyển)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 唱。 (Một Hát)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 白天。 (Một Ban ngày)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 玩。 (Một Chơi)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 电视。 (Một Tivi)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 好听。 (Một Hay)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 第。 (Một Thứ)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 上。 (Một Trên)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 椅子。 (Một Cái ghế)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Chọn lượng từ đúng: 一 __ 做。 (Một Làm)",
+            "options": [
+                "个",
+                "本",
+                "只",
+                "口"
+            ],
+            "answer": "个",
+            "explanation": "Đáp án đúng là 个."
+        }
+    ]
+}

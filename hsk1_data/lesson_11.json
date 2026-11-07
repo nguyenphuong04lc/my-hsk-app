@@ -1,0 +1,1307 @@
+{
+    "lessonId": 11,
+    "lessonTitle": "Bài 11: 我读大学呢",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '弟弟' (dìdi) có nghĩa là gì?",
+            "options": [
+                "Đại học",
+                "Đang",
+                "Em trai",
+                "Học"
+            ],
+            "answer": "Em trai",
+            "explanation": "'弟弟' nghĩa là 'Em trai'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '学' (xué) có nghĩa là gì?",
+            "options": [
+                "Sinh viên",
+                "Đang",
+                "Ngủ",
+                "Học"
+            ],
+            "answer": "Học",
+            "explanation": "'学' nghĩa là 'Học'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '读' (dú) có nghĩa là gì?",
+            "options": [
+                "Em trai",
+                "Học",
+                "Nói",
+                "Hôm qua"
+            ],
+            "answer": "Học",
+            "explanation": "'读' nghĩa là 'Học'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '大学生' (dàxuéshēng) có nghĩa là gì?",
+            "options": [
+                "Sinh viên",
+                "Hôm qua",
+                "Ở đâu",
+                "Muốn/Sẽ"
+            ],
+            "answer": "Sinh viên",
+            "explanation": "'大学生' nghĩa là 'Sinh viên'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '问' (wèn) có nghĩa là gì?",
+            "options": [
+                "Hôm qua",
+                "Ngủ",
+                "Hỏi",
+                "Ở đâu"
+            ],
+            "answer": "Hỏi",
+            "explanation": "'问' nghĩa là 'Hỏi'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '医' (yī) có nghĩa là gì?",
+            "options": [
+                "Đại học",
+                "Hỏi",
+                "Y khoa",
+                "Sinh viên"
+            ],
+            "answer": "Y khoa",
+            "explanation": "'医' nghĩa là 'Y khoa'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '说' (shuō) có nghĩa là gì?",
+            "options": [
+                "Thức dậy",
+                "Nói",
+                "Hôm qua",
+                "Ngủ"
+            ],
+            "answer": "Nói",
+            "explanation": "'说' nghĩa là 'Nói'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '要' (yào) có nghĩa là gì?",
+            "options": [
+                "Ở đâu",
+                "Muốn/Sẽ",
+                "Em trai",
+                "Nói"
+            ],
+            "answer": "Muốn/Sẽ",
+            "explanation": "'要' nghĩa là 'Muốn/Sẽ'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '起床' (qǐchuáng) có nghĩa là gì?",
+            "options": [
+                "Sinh viên",
+                "Muốn/Sẽ",
+                "Ở đâu",
+                "Thức dậy"
+            ],
+            "answer": "Thức dậy",
+            "explanation": "'起床' nghĩa là 'Thức dậy'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '睡觉' (shuìjiào) có nghĩa là gì?",
+            "options": [
+                "Em trai",
+                "Muốn/Sẽ",
+                "Ngủ",
+                "Ở đâu"
+            ],
+            "answer": "Ngủ",
+            "explanation": "'睡觉' nghĩa là 'Ngủ'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '大学' (dàxué) có nghĩa là gì?",
+            "options": [
+                "Học",
+                "Ở đâu",
+                "Đại học",
+                "Đang"
+            ],
+            "answer": "Đại học",
+            "explanation": "'大学' nghĩa là 'Đại học'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '哪里' (nǎlǐ) có nghĩa là gì?",
+            "options": [
+                "Học",
+                "Sinh viên",
+                "Hôm qua",
+                "Ở đâu"
+            ],
+            "answer": "Ở đâu",
+            "explanation": "'哪里' nghĩa là 'Ở đâu'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '昨天' (zuótiān) có nghĩa là gì?",
+            "options": [
+                "Y khoa",
+                "Hôm qua",
+                "Hỏi",
+                "Thức dậy"
+            ],
+            "answer": "Hôm qua",
+            "explanation": "'昨天' nghĩa là 'Hôm qua'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '在' (zài) có nghĩa là gì?",
+            "options": [
+                "Đại học",
+                "Học",
+                "Ở đâu",
+                "Đang"
+            ],
+            "answer": "Đang",
+            "explanation": "'在' nghĩa là 'Đang'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '医' (yī) có nghĩa là gì?",
+            "options": [
+                "Y khoa",
+                "Hỏi",
+                "Học",
+                "Thức dậy"
+            ],
+            "answer": "Y khoa",
+            "explanation": "'医' nghĩa là 'Y khoa'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '弟弟' (dìdi) có nghĩa là gì?",
+            "options": [
+                "Em trai",
+                "Hỏi",
+                "Ngủ",
+                "Sinh viên"
+            ],
+            "answer": "Em trai",
+            "explanation": "'弟弟' nghĩa là 'Em trai'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '要' (yào) có nghĩa là gì?",
+            "options": [
+                "Hôm qua",
+                "Muốn/Sẽ",
+                "Hỏi",
+                "Đại học"
+            ],
+            "answer": "Muốn/Sẽ",
+            "explanation": "'要' nghĩa là 'Muốn/Sẽ'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '说' (shuō) có nghĩa là gì?",
+            "options": [
+                "Đại học",
+                "Em trai",
+                "Học",
+                "Nói"
+            ],
+            "answer": "Nói",
+            "explanation": "'说' nghĩa là 'Nói'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '问' (wèn) có nghĩa là gì?",
+            "options": [
+                "Ở đâu",
+                "Đang",
+                "Hỏi",
+                "Đại học"
+            ],
+            "answer": "Hỏi",
+            "explanation": "'问' nghĩa là 'Hỏi'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '睡觉' (shuìjiào) có nghĩa là gì?",
+            "options": [
+                "Đang",
+                "Sinh viên",
+                "Ngủ",
+                "Muốn/Sẽ"
+            ],
+            "answer": "Ngủ",
+            "explanation": "'睡觉' nghĩa là 'Ngủ'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '昨天' (zuótiān) có nghĩa là gì?",
+            "options": [
+                "Hôm qua",
+                "Ở đâu",
+                "Sinh viên",
+                "Đang"
+            ],
+            "answer": "Hôm qua",
+            "explanation": "'昨天' nghĩa là 'Hôm qua'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '大学' (dàxué) có nghĩa là gì?",
+            "options": [
+                "Muốn/Sẽ",
+                "Học",
+                "Sinh viên",
+                "Đại học"
+            ],
+            "answer": "Đại học",
+            "explanation": "'大学' nghĩa là 'Đại học'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '起床' (qǐchuáng) có nghĩa là gì?",
+            "options": [
+                "Ngủ",
+                "Muốn/Sẽ",
+                "Y khoa",
+                "Thức dậy"
+            ],
+            "answer": "Thức dậy",
+            "explanation": "'起床' nghĩa là 'Thức dậy'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '大学生' (dàxuéshēng) có nghĩa là gì?",
+            "options": [
+                "Sinh viên",
+                "Học",
+                "Muốn/Sẽ",
+                "Thức dậy"
+            ],
+            "answer": "Sinh viên",
+            "explanation": "'大学生' nghĩa là 'Sinh viên'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '在' (zài) có nghĩa là gì?",
+            "options": [
+                "Muốn/Sẽ",
+                "Nói",
+                "Đang",
+                "Y khoa"
+            ],
+            "answer": "Đang",
+            "explanation": "'在' nghĩa là 'Đang'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '哪里' (nǎlǐ) có nghĩa là gì?",
+            "options": [
+                "Em trai",
+                "Nói",
+                "Ở đâu",
+                "Hôm qua"
+            ],
+            "answer": "Ở đâu",
+            "explanation": "'哪里' nghĩa là 'Ở đâu'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '学' (xué) có nghĩa là gì?",
+            "options": [
+                "Hôm qua",
+                "Đang",
+                "Đại học",
+                "Học"
+            ],
+            "answer": "Học",
+            "explanation": "'学' nghĩa là 'Học'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '读' (dú) có nghĩa là gì?",
+            "options": [
+                "Đại học",
+                "Thức dậy",
+                "Sinh viên",
+                "Học"
+            ],
+            "answer": "Học",
+            "explanation": "'读' nghĩa là 'Học'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '睡觉' (shuìjiào) có nghĩa là gì?",
+            "options": [
+                "Ở đâu",
+                "Ngủ",
+                "Y khoa",
+                "Sinh viên"
+            ],
+            "answer": "Ngủ",
+            "explanation": "'睡觉' nghĩa là 'Ngủ'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '说' (shuō) có nghĩa là gì?",
+            "options": [
+                "Nói",
+                "Học",
+                "Em trai",
+                "Đang"
+            ],
+            "answer": "Nói",
+            "explanation": "'说' nghĩa là 'Nói'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪里' là:",
+            "options": [
+                "mǎlǐ",
+                "nǎlǐ6",
+                "nǎlǐ1",
+                "nǎlǐ"
+            ],
+            "answer": "nǎlǐ",
+            "explanation": "'哪里' đọc là nǎlǐ."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '昨天' là:",
+            "options": [
+                "zuótiām",
+                "zùótiān",
+                "zuótiān",
+                "zuótìān"
+            ],
+            "answer": "zuótiān",
+            "explanation": "'昨天' đọc là zuótiān."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '起床' là:",
+            "options": [
+                "qǐchùáng",
+                "qǐchuáng2",
+                "qǐchuámg",
+                "qǐchuáng"
+            ],
+            "answer": "qǐchuáng",
+            "explanation": "'起床' đọc là qǐchuáng."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '读' là:",
+            "options": [
+                "dú",
+                "dú7",
+                "dú7",
+                "dú8"
+            ],
+            "answer": "dú",
+            "explanation": "'读' đọc là dú."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '要' là:",
+            "options": [
+                "yàó",
+                "yào9",
+                "yào5",
+                "yào"
+            ],
+            "answer": "yào",
+            "explanation": "'要' đọc là yào."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '弟弟' là:",
+            "options": [
+                "dìdi",
+                "dìdi5",
+                "dìdì",
+                "dìdi2"
+            ],
+            "answer": "dìdi",
+            "explanation": "'弟弟' đọc là dìdi."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '在' là:",
+            "options": [
+                "zàì",
+                "zài",
+                "zài6",
+                "zài7"
+            ],
+            "answer": "zài",
+            "explanation": "'在' đọc là zài."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '问' là:",
+            "options": [
+                "wèn9",
+                "wèn",
+                "wèn9",
+                "wèm"
+            ],
+            "answer": "wèn",
+            "explanation": "'问' đọc là wèn."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '大学生' là:",
+            "options": [
+                "dàxuéshēng",
+                "dàxuéshēng4",
+                "dàxuéshēmg",
+                "dàxùéshēng"
+            ],
+            "answer": "dàxuéshēng",
+            "explanation": "'大学生' đọc là dàxuéshēng."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '医' là:",
+            "options": [
+                "yī8",
+                "yī5",
+                "yī7",
+                "yī"
+            ],
+            "answer": "yī",
+            "explanation": "'医' đọc là yī."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '学' là:",
+            "options": [
+                "xué1",
+                "xué",
+                "xué9",
+                "xùé"
+            ],
+            "answer": "xué",
+            "explanation": "'学' đọc là xué."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '大学' là:",
+            "options": [
+                "dàxué2",
+                "dàxué5",
+                "dàxùé",
+                "dàxué"
+            ],
+            "answer": "dàxué",
+            "explanation": "'大学' đọc là dàxué."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '睡觉' là:",
+            "options": [
+                "shuìjìào",
+                "shùìjiàó",
+                "shuìjiào7",
+                "shuìjiào"
+            ],
+            "answer": "shuìjiào",
+            "explanation": "'睡觉' đọc là shuìjiào."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '在' là:",
+            "options": [
+                "zài5",
+                "zài8",
+                "zàì",
+                "zài"
+            ],
+            "answer": "zài",
+            "explanation": "'在' đọc là zài."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '医' là:",
+            "options": [
+                "yī4",
+                "yī",
+                "yī7",
+                "yī6"
+            ],
+            "answer": "yī",
+            "explanation": "'医' đọc là yī."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '说' là:",
+            "options": [
+                "shuō7",
+                "shuō5",
+                "shuō",
+                "shùō"
+            ],
+            "answer": "shuō",
+            "explanation": "'说' đọc là shuō."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪里' là:",
+            "options": [
+                "nǎlǐ8",
+                "nǎlǐ1",
+                "mǎlǐ",
+                "nǎlǐ"
+            ],
+            "answer": "nǎlǐ",
+            "explanation": "'哪里' đọc là nǎlǐ."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '大学' là:",
+            "options": [
+                "dàxué6",
+                "dàxùé",
+                "dàxué5",
+                "dàxué"
+            ],
+            "answer": "dàxué",
+            "explanation": "'大学' đọc là dàxué."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '问' là:",
+            "options": [
+                "wèn2",
+                "wèm",
+                "wèn2",
+                "wèn"
+            ],
+            "answer": "wèn",
+            "explanation": "'问' đọc là wèn."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '大学生' là:",
+            "options": [
+                "dàxuéshēmg",
+                "dàxùéshēng",
+                "dàxuéshēng",
+                "dàxuéshēng4"
+            ],
+            "answer": "dàxuéshēng",
+            "explanation": "'大学生' đọc là dàxuéshēng."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '昨天' là:",
+            "options": [
+                "zuótiām",
+                "zuótiān",
+                "zuótìān",
+                "zùótiān"
+            ],
+            "answer": "zuótiān",
+            "explanation": "'昨天' đọc là zuótiān."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '起床' là:",
+            "options": [
+                "qǐchuáng",
+                "qǐchùáng",
+                "qǐchuámg",
+                "qǐchuáng7"
+            ],
+            "answer": "qǐchuáng",
+            "explanation": "'起床' đọc là qǐchuáng."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '弟弟' là:",
+            "options": [
+                "dìdi1",
+                "dìdi",
+                "dìdì",
+                "dìdi8"
+            ],
+            "answer": "dìdi",
+            "explanation": "'弟弟' đọc là dìdi."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '要' là:",
+            "options": [
+                "yào",
+                "yàó",
+                "yào7",
+                "yào5"
+            ],
+            "answer": "yào",
+            "explanation": "'要' đọc là yào."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '学' là:",
+            "options": [
+                "xùé",
+                "xué6",
+                "xué3",
+                "xué"
+            ],
+            "answer": "xué",
+            "explanation": "'学' đọc là xué."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Học' vào chỗ trống: ______",
+            "options": [
+                "要",
+                "读",
+                "学",
+                "哪里"
+            ],
+            "answer": "读",
+            "explanation": "Từ cần điền là '读'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sinh viên' vào chỗ trống: ______",
+            "options": [
+                "大学生",
+                "弟弟",
+                "医",
+                "学"
+            ],
+            "answer": "大学生",
+            "explanation": "Từ cần điền là '大学生'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ở đâu' vào chỗ trống: ______",
+            "options": [
+                "问",
+                "起床",
+                "哪里",
+                "读"
+            ],
+            "answer": "哪里",
+            "explanation": "Từ cần điền là '哪里'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hôm qua' vào chỗ trống: ______",
+            "options": [
+                "睡觉",
+                "昨天",
+                "大学生",
+                "要"
+            ],
+            "answer": "昨天",
+            "explanation": "Từ cần điền là '昨天'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thức dậy' vào chỗ trống: ______",
+            "options": [
+                "学",
+                "读",
+                "起床",
+                "医"
+            ],
+            "answer": "起床",
+            "explanation": "Từ cần điền là '起床'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nói' vào chỗ trống: ______",
+            "options": [
+                "说",
+                "哪里",
+                "大学",
+                "弟弟"
+            ],
+            "answer": "说",
+            "explanation": "Từ cần điền là '说'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ngủ' vào chỗ trống: ______",
+            "options": [
+                "在",
+                "睡觉",
+                "起床",
+                "哪里"
+            ],
+            "answer": "睡觉",
+            "explanation": "Từ cần điền là '睡觉'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Y khoa' vào chỗ trống: ______",
+            "options": [
+                "问",
+                "哪里",
+                "大学生",
+                "医"
+            ],
+            "answer": "医",
+            "explanation": "Từ cần điền là '医'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Em trai' vào chỗ trống: ______",
+            "options": [
+                "大学生",
+                "问",
+                "弟弟",
+                "大学"
+            ],
+            "answer": "弟弟",
+            "explanation": "Từ cần điền là '弟弟'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Học' vào chỗ trống: ______",
+            "options": [
+                "大学",
+                "起床",
+                "学",
+                "问"
+            ],
+            "answer": "学",
+            "explanation": "Từ cần điền là '学'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hỏi' vào chỗ trống: ______",
+            "options": [
+                "大学生",
+                "学",
+                "问",
+                "在"
+            ],
+            "answer": "问",
+            "explanation": "Từ cần điền là '问'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Muốn/Sẽ' vào chỗ trống: ______",
+            "options": [
+                "要",
+                "读",
+                "问",
+                "学"
+            ],
+            "answer": "要",
+            "explanation": "Từ cần điền là '要'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đại học' vào chỗ trống: ______",
+            "options": [
+                "问",
+                "在",
+                "大学",
+                "哪里"
+            ],
+            "answer": "大学",
+            "explanation": "Từ cần điền là '大学'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đang' vào chỗ trống: ______",
+            "options": [
+                "起床",
+                "昨天",
+                "睡觉",
+                "在"
+            ],
+            "answer": "在",
+            "explanation": "Từ cần điền là '在'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Học' vào chỗ trống: ______",
+            "options": [
+                "说",
+                "弟弟",
+                "读",
+                "医"
+            ],
+            "answer": "读",
+            "explanation": "Từ cần điền là '读'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hôm qua' vào chỗ trống: ______",
+            "options": [
+                "昨天",
+                "读",
+                "睡觉",
+                "说"
+            ],
+            "answer": "昨天",
+            "explanation": "Từ cần điền là '昨天'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Học' vào chỗ trống: ______",
+            "options": [
+                "说",
+                "要",
+                "起床",
+                "读"
+            ],
+            "answer": "读",
+            "explanation": "Từ cần điền là '读'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ở đâu' vào chỗ trống: ______",
+            "options": [
+                "睡觉",
+                "哪里",
+                "读",
+                "医"
+            ],
+            "answer": "哪里",
+            "explanation": "Từ cần điền là '哪里'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hỏi' vào chỗ trống: ______",
+            "options": [
+                "要",
+                "问",
+                "睡觉",
+                "大学生"
+            ],
+            "answer": "问",
+            "explanation": "Từ cần điền là '问'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Em trai' vào chỗ trống: ______",
+            "options": [
+                "在",
+                "大学",
+                "医",
+                "弟弟"
+            ],
+            "answer": "弟弟",
+            "explanation": "Từ cần điền là '弟弟'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nói'",
+            "options": [
+                "这说是",
+                "我说是",
+                "是说我",
+                "这是说"
+            ],
+            "answer": "这是说",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是说"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đang'",
+            "options": [
+                "我是在",
+                "这在是",
+                "是在我",
+                "我在是"
+            ],
+            "answer": "我是在",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是在"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Y khoa'",
+            "options": [
+                "我医是",
+                "这医是",
+                "是医我",
+                "我是医"
+            ],
+            "answer": "我是医",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是医"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Học'",
+            "options": [
+                "这学是",
+                "我学是",
+                "是学我",
+                "我是学"
+            ],
+            "answer": "我是学",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是学"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Ngủ'",
+            "options": [
+                "是睡觉我",
+                "这睡觉是",
+                "我睡觉是",
+                "这是睡觉"
+            ],
+            "answer": "这是睡觉",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是睡觉"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Muốn/Sẽ'",
+            "options": [
+                "我要是",
+                "是要我",
+                "我是要",
+                "这要是"
+            ],
+            "answer": "我是要",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是要"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Sinh viên'",
+            "options": [
+                "这大学生是",
+                "是大学生我",
+                "我大学生是",
+                "这是大学生"
+            ],
+            "answer": "这是大学生",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是大学生"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đại học'",
+            "options": [
+                "我大学是",
+                "这大学是",
+                "我是大学",
+                "是大学我"
+            ],
+            "answer": "我是大学",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是大学"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Thức dậy'",
+            "options": [
+                "这是起床",
+                "我起床是",
+                "是起床我",
+                "这起床是"
+            ],
+            "answer": "这是起床",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是起床"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Em trai'",
+            "options": [
+                "我弟弟是",
+                "这弟弟是",
+                "是弟弟我",
+                "我是弟弟"
+            ],
+            "answer": "我是弟弟",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是弟弟"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Y khoa'",
+            "options": [
+                "我医是",
+                "是医我",
+                "这医是",
+                "这是医"
+            ],
+            "answer": "这是医",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是医"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Học'",
+            "options": [
+                "是读我",
+                "我读是",
+                "这读是",
+                "这是读"
+            ],
+            "answer": "这是读",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是读"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Học'",
+            "options": [
+                "这学是",
+                "我是学",
+                "是学我",
+                "我学是"
+            ],
+            "answer": "我是学",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是学"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đang'",
+            "options": [
+                "我在是",
+                "这是在",
+                "这在是",
+                "是在我"
+            ],
+            "answer": "这是在",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是在"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Hôm qua'",
+            "options": [
+                "这是昨天",
+                "我昨天是",
+                "这昨天是",
+                "是昨天我"
+            ],
+            "answer": "这是昨天",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是昨天"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 哪里 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 起床 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 要 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 说 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 大学 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 问 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 大学生 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 睡觉 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 大学生 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 学 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        }
+    ]
+}

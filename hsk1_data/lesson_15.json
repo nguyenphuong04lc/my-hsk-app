@@ -1,0 +1,1307 @@
+{
+    "lessonId": 15,
+    "lessonTitle": "Bài 15: 大兴机场见",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '年' (nián) có nghĩa là gì?",
+            "options": [
+                "Đón",
+                "Người nhà",
+                "Sân bay",
+                "Năm"
+            ],
+            "answer": "Năm",
+            "explanation": "'年' nghĩa là 'Năm'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '家人' (jiārén) có nghĩa là gì?",
+            "options": [
+                "Người nhà",
+                "Bắc Kinh",
+                "Bạn trai",
+                "Đón"
+            ],
+            "answer": "Người nhà",
+            "explanation": "'家人' nghĩa là 'Người nhà'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '北京' (Běijīng) có nghĩa là gì?",
+            "options": [
+                "Người nhà",
+                "Sân bay",
+                "Cái nào",
+                "Bắc Kinh"
+            ],
+            "answer": "Bắc Kinh",
+            "explanation": "'北京' nghĩa là 'Bắc Kinh'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '接' (jiē) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Người nhà",
+                "Đón",
+                "Máy bay"
+            ],
+            "answer": "Đón",
+            "explanation": "'接' nghĩa là 'Đón'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '西安' (Xī'ān) có nghĩa là gì?",
+            "options": [
+                "Cái nào",
+                "Vui",
+                "Tây An",
+                "Giờ"
+            ],
+            "answer": "Tây An",
+            "explanation": "'西安' nghĩa là 'Tây An'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '去年' (qùnián) có nghĩa là gì?",
+            "options": [
+                "Năm ngoái",
+                "Sống/Ở",
+                "Yêu",
+                "Đón"
+            ],
+            "answer": "Năm ngoái",
+            "explanation": "'去年' nghĩa là 'Năm ngoái'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '好玩儿' (hǎowánr) có nghĩa là gì?",
+            "options": [
+                "Sớm",
+                "Vui",
+                "Yêu",
+                "Máy bay"
+            ],
+            "answer": "Vui",
+            "explanation": "'好玩儿' nghĩa là 'Vui'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '早' (zǎo) có nghĩa là gì?",
+            "options": [
+                "Đón",
+                "Bạn trai",
+                "Sớm",
+                "Máy bay"
+            ],
+            "answer": "Sớm",
+            "explanation": "'早' nghĩa là 'Sớm'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '小时' (xiǎoshí) có nghĩa là gì?",
+            "options": [
+                "Đón",
+                "Người nhà",
+                "Giờ",
+                "Yêu"
+            ],
+            "answer": "Giờ",
+            "explanation": "'小时' nghĩa là 'Giờ'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '时间' (shíjiān) có nghĩa là gì?",
+            "options": [
+                "Người nhà",
+                "Thời gian",
+                "Năm",
+                "Yêu"
+            ],
+            "answer": "Thời gian",
+            "explanation": "'时间' nghĩa là 'Thời gian'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '爱' (ài) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Sớm",
+                "Vui",
+                "Yêu"
+            ],
+            "answer": "Yêu",
+            "explanation": "'爱' nghĩa là 'Yêu'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '飞机' (fēijī) có nghĩa là gì?",
+            "options": [
+                "Máy bay",
+                "Người nhà",
+                "Sân bay",
+                "Tây An"
+            ],
+            "answer": "Máy bay",
+            "explanation": "'飞机' nghĩa là 'Máy bay'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '住' (zhù) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Thời gian",
+                "Máy bay",
+                "Vui"
+            ],
+            "answer": "Sống/Ở",
+            "explanation": "'住' nghĩa là 'Sống/Ở'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '机场' (jīchǎng) có nghĩa là gì?",
+            "options": [
+                "Tây An",
+                "Sân bay",
+                "Yêu",
+                "Sống/Ở"
+            ],
+            "answer": "Sân bay",
+            "explanation": "'机场' nghĩa là 'Sân bay'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '哪个' (nǎge) có nghĩa là gì?",
+            "options": [
+                "Bạn trai",
+                "Cái nào",
+                "Người nhà",
+                "Năm"
+            ],
+            "answer": "Cái nào",
+            "explanation": "'哪个' nghĩa là 'Cái nào'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '男朋友' (nánpéngyou) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Bạn trai",
+                "Đón",
+                "Năm ngoái"
+            ],
+            "answer": "Bạn trai",
+            "explanation": "'男朋友' nghĩa là 'Bạn trai'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '男朋友' (nánpéngyou) có nghĩa là gì?",
+            "options": [
+                "Thời gian",
+                "Vui",
+                "Bạn trai",
+                "Sân bay"
+            ],
+            "answer": "Bạn trai",
+            "explanation": "'男朋友' nghĩa là 'Bạn trai'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '去年' (qùnián) có nghĩa là gì?",
+            "options": [
+                "Bạn trai",
+                "Năm",
+                "Người nhà",
+                "Năm ngoái"
+            ],
+            "answer": "Năm ngoái",
+            "explanation": "'去年' nghĩa là 'Năm ngoái'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '住' (zhù) có nghĩa là gì?",
+            "options": [
+                "Năm",
+                "Người nhà",
+                "Sống/Ở",
+                "Sân bay"
+            ],
+            "answer": "Sống/Ở",
+            "explanation": "'住' nghĩa là 'Sống/Ở'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '爱' (ài) có nghĩa là gì?",
+            "options": [
+                "Tây An",
+                "Yêu",
+                "Bạn trai",
+                "Năm"
+            ],
+            "answer": "Yêu",
+            "explanation": "'爱' nghĩa là 'Yêu'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '家人' (jiārén) có nghĩa là gì?",
+            "options": [
+                "Năm ngoái",
+                "Năm",
+                "Người nhà",
+                "Bạn trai"
+            ],
+            "answer": "Người nhà",
+            "explanation": "'家人' nghĩa là 'Người nhà'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '飞机' (fēijī) có nghĩa là gì?",
+            "options": [
+                "Đón",
+                "Máy bay",
+                "Giờ",
+                "Sân bay"
+            ],
+            "answer": "Máy bay",
+            "explanation": "'飞机' nghĩa là 'Máy bay'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '接' (jiē) có nghĩa là gì?",
+            "options": [
+                "Bắc Kinh",
+                "Cái nào",
+                "Đón",
+                "Sân bay"
+            ],
+            "answer": "Đón",
+            "explanation": "'接' nghĩa là 'Đón'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '北京' (Běijīng) có nghĩa là gì?",
+            "options": [
+                "Yêu",
+                "Cái nào",
+                "Bắc Kinh",
+                "Giờ"
+            ],
+            "answer": "Bắc Kinh",
+            "explanation": "'北京' nghĩa là 'Bắc Kinh'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '时间' (shíjiān) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Sân bay",
+                "Năm ngoái",
+                "Thời gian"
+            ],
+            "answer": "Thời gian",
+            "explanation": "'时间' nghĩa là 'Thời gian'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '小时' (xiǎoshí) có nghĩa là gì?",
+            "options": [
+                "Giờ",
+                "Sống/Ở",
+                "Vui",
+                "Cái nào"
+            ],
+            "answer": "Giờ",
+            "explanation": "'小时' nghĩa là 'Giờ'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '年' (nián) có nghĩa là gì?",
+            "options": [
+                "Sống/Ở",
+                "Người nhà",
+                "Năm",
+                "Sớm"
+            ],
+            "answer": "Năm",
+            "explanation": "'年' nghĩa là 'Năm'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '早' (zǎo) có nghĩa là gì?",
+            "options": [
+                "Người nhà",
+                "Cái nào",
+                "Sớm",
+                "Yêu"
+            ],
+            "answer": "Sớm",
+            "explanation": "'早' nghĩa là 'Sớm'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '机场' (jīchǎng) có nghĩa là gì?",
+            "options": [
+                "Cái nào",
+                "Sân bay",
+                "Người nhà",
+                "Tây An"
+            ],
+            "answer": "Sân bay",
+            "explanation": "'机场' nghĩa là 'Sân bay'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '好玩儿' (hǎowánr) có nghĩa là gì?",
+            "options": [
+                "Bắc Kinh",
+                "Sân bay",
+                "Vui",
+                "Tây An"
+            ],
+            "answer": "Vui",
+            "explanation": "'好玩儿' nghĩa là 'Vui'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '西安' là:",
+            "options": [
+                "Xī'ām",
+                "Xī'ān1",
+                "Xī'ān",
+                "Xī'ān4"
+            ],
+            "answer": "Xī'ān",
+            "explanation": "'西安' đọc là Xī'ān."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪个' là:",
+            "options": [
+                "mǎge",
+                "nǎge",
+                "nǎge7",
+                "nǎge3"
+            ],
+            "answer": "nǎge",
+            "explanation": "'哪个' đọc là nǎge."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '小时' là:",
+            "options": [
+                "xiǎóshí",
+                "xiǎoshí1",
+                "xìǎoshí",
+                "xiǎoshí"
+            ],
+            "answer": "xiǎoshí",
+            "explanation": "'小时' đọc là xiǎoshí."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '飞机' là:",
+            "options": [
+                "fēijī4",
+                "fēijī4",
+                "fēìjī",
+                "fēijī"
+            ],
+            "answer": "fēijī",
+            "explanation": "'飞机' đọc là fēijī."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪个' là:",
+            "options": [
+                "nǎge",
+                "nǎge1",
+                "nǎge3",
+                "mǎge"
+            ],
+            "answer": "nǎge",
+            "explanation": "'哪个' đọc là nǎge."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '年' là:",
+            "options": [
+                "nián",
+                "nián5",
+                "nìán",
+                "miám"
+            ],
+            "answer": "nián",
+            "explanation": "'年' đọc là nián."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '男朋友' là:",
+            "options": [
+                "nánpéngyou8",
+                "mámpémgyou",
+                "nánpéngyou",
+                "nánpéngyóù"
+            ],
+            "answer": "nánpéngyou",
+            "explanation": "'男朋友' đọc là nánpéngyou."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '早' là:",
+            "options": [
+                "zǎo5",
+                "zǎo5",
+                "zǎo",
+                "zǎó"
+            ],
+            "answer": "zǎo",
+            "explanation": "'早' đọc là zǎo."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '时间' là:",
+            "options": [
+                "shíjiām",
+                "shíjiān",
+                "shíjìān",
+                "shíjiān9"
+            ],
+            "answer": "shíjiān",
+            "explanation": "'时间' đọc là shíjiān."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '爱' là:",
+            "options": [
+                "ài4",
+                "ài",
+                "ài8",
+                "àì"
+            ],
+            "answer": "ài",
+            "explanation": "'爱' đọc là ài."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '西安' là:",
+            "options": [
+                "Xī'ān8",
+                "Xī'ām",
+                "Xī'ān7",
+                "Xī'ān"
+            ],
+            "answer": "Xī'ān",
+            "explanation": "'西安' đọc là Xī'ān."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '接' là:",
+            "options": [
+                "jiē6",
+                "jiē6",
+                "jiē",
+                "jìē"
+            ],
+            "answer": "jiē",
+            "explanation": "'接' đọc là jiē."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '机场' là:",
+            "options": [
+                "jīchǎng2",
+                "jīchǎng8",
+                "jīchǎmg",
+                "jīchǎng"
+            ],
+            "answer": "jīchǎng",
+            "explanation": "'机场' đọc là jīchǎng."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '住' là:",
+            "options": [
+                "zhù",
+                "zhù3",
+                "zhù8",
+                "zhù6"
+            ],
+            "answer": "zhù",
+            "explanation": "'住' đọc là zhù."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '好玩儿' là:",
+            "options": [
+                "hǎowámr",
+                "hǎowánr",
+                "hǎowánr8",
+                "hǎówánr"
+            ],
+            "answer": "hǎowánr",
+            "explanation": "'好玩儿' đọc là hǎowánr."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '去年' là:",
+            "options": [
+                "qùnián5",
+                "qùmiám",
+                "qùnián",
+                "qùnìán"
+            ],
+            "answer": "qùnián",
+            "explanation": "'去年' đọc là qùnián."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '家人' là:",
+            "options": [
+                "jìārén",
+                "jiārén2",
+                "jiārém",
+                "jiārén"
+            ],
+            "answer": "jiārén",
+            "explanation": "'家人' đọc là jiārén."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '北京' là:",
+            "options": [
+                "Běijīng",
+                "Běijīmg",
+                "Běìjīng",
+                "Běijīng3"
+            ],
+            "answer": "Běijīng",
+            "explanation": "'北京' đọc là Běijīng."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '小时' là:",
+            "options": [
+                "xiǎoshí",
+                "xiǎóshí",
+                "xìǎoshí",
+                "xiǎoshí2"
+            ],
+            "answer": "xiǎoshí",
+            "explanation": "'小时' đọc là xiǎoshí."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '接' là:",
+            "options": [
+                "jiē6",
+                "jiē",
+                "jiē8",
+                "jìē"
+            ],
+            "answer": "jiē",
+            "explanation": "'接' đọc là jiē."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '好玩儿' là:",
+            "options": [
+                "hǎowánr8",
+                "hǎowánr",
+                "hǎowámr",
+                "hǎówánr"
+            ],
+            "answer": "hǎowánr",
+            "explanation": "'好玩儿' đọc là hǎowánr."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '早' là:",
+            "options": [
+                "zǎo8",
+                "zǎo",
+                "zǎo7",
+                "zǎó"
+            ],
+            "answer": "zǎo",
+            "explanation": "'早' đọc là zǎo."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '时间' là:",
+            "options": [
+                "shíjìān",
+                "shíjiān9",
+                "shíjiān",
+                "shíjiām"
+            ],
+            "answer": "shíjiān",
+            "explanation": "'时间' đọc là shíjiān."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪个' là:",
+            "options": [
+                "nǎge",
+                "nǎge2",
+                "nǎge1",
+                "mǎge"
+            ],
+            "answer": "nǎge",
+            "explanation": "'哪个' đọc là nǎge."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '去年' là:",
+            "options": [
+                "qùnián9",
+                "qùnìán",
+                "qùmiám",
+                "qùnián"
+            ],
+            "answer": "qùnián",
+            "explanation": "'去年' đọc là qùnián."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sống/Ở' vào chỗ trống: ______",
+            "options": [
+                "住",
+                "小时",
+                "好玩儿",
+                "机场"
+            ],
+            "answer": "住",
+            "explanation": "Từ cần điền là '住'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sân bay' vào chỗ trống: ______",
+            "options": [
+                "飞机",
+                "好玩儿",
+                "机场",
+                "住"
+            ],
+            "answer": "机场",
+            "explanation": "Từ cần điền là '机场'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Yêu' vào chỗ trống: ______",
+            "options": [
+                "时间",
+                "小时",
+                "好玩儿",
+                "爱"
+            ],
+            "answer": "爱",
+            "explanation": "Từ cần điền là '爱'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Người nhà' vào chỗ trống: ______",
+            "options": [
+                "飞机",
+                "早",
+                "男朋友",
+                "家人"
+            ],
+            "answer": "家人",
+            "explanation": "Từ cần điền là '家人'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bạn trai' vào chỗ trống: ______",
+            "options": [
+                "男朋友",
+                "年",
+                "去年",
+                "早"
+            ],
+            "answer": "男朋友",
+            "explanation": "Từ cần điền là '男朋友'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Năm' vào chỗ trống: ______",
+            "options": [
+                "年",
+                "家人",
+                "接",
+                "去年"
+            ],
+            "answer": "年",
+            "explanation": "Từ cần điền là '年'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tây An' vào chỗ trống: ______",
+            "options": [
+                "早",
+                "西安",
+                "接",
+                "小时"
+            ],
+            "answer": "西安",
+            "explanation": "Từ cần điền là '西安'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Máy bay' vào chỗ trống: ______",
+            "options": [
+                "早",
+                "男朋友",
+                "飞机",
+                "小时"
+            ],
+            "answer": "飞机",
+            "explanation": "Từ cần điền là '飞机'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bắc Kinh' vào chỗ trống: ______",
+            "options": [
+                "好玩儿",
+                "机场",
+                "早",
+                "北京"
+            ],
+            "answer": "北京",
+            "explanation": "Từ cần điền là '北京'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bắc Kinh' vào chỗ trống: ______",
+            "options": [
+                "哪个",
+                "北京",
+                "住",
+                "西安"
+            ],
+            "answer": "北京",
+            "explanation": "Từ cần điền là '北京'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bạn trai' vào chỗ trống: ______",
+            "options": [
+                "男朋友",
+                "接",
+                "西安",
+                "好玩儿"
+            ],
+            "answer": "男朋友",
+            "explanation": "Từ cần điền là '男朋友'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Năm ngoái' vào chỗ trống: ______",
+            "options": [
+                "接",
+                "小时",
+                "西安",
+                "去年"
+            ],
+            "answer": "去年",
+            "explanation": "Từ cần điền là '去年'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đón' vào chỗ trống: ______",
+            "options": [
+                "西安",
+                "哪个",
+                "接",
+                "早"
+            ],
+            "answer": "接",
+            "explanation": "Từ cần điền là '接'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Giờ' vào chỗ trống: ______",
+            "options": [
+                "时间",
+                "早",
+                "哪个",
+                "小时"
+            ],
+            "answer": "小时",
+            "explanation": "Từ cần điền là '小时'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sân bay' vào chỗ trống: ______",
+            "options": [
+                "机场",
+                "北京",
+                "西安",
+                "家人"
+            ],
+            "answer": "机场",
+            "explanation": "Từ cần điền là '机场'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tây An' vào chỗ trống: ______",
+            "options": [
+                "好玩儿",
+                "飞机",
+                "西安",
+                "去年"
+            ],
+            "answer": "西安",
+            "explanation": "Từ cần điền là '西安'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Sống/Ở' vào chỗ trống: ______",
+            "options": [
+                "家人",
+                "住",
+                "飞机",
+                "哪个"
+            ],
+            "answer": "住",
+            "explanation": "Từ cần điền là '住'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Máy bay' vào chỗ trống: ______",
+            "options": [
+                "北京",
+                "早",
+                "飞机",
+                "男朋友"
+            ],
+            "answer": "飞机",
+            "explanation": "Từ cần điền là '飞机'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cái nào' vào chỗ trống: ______",
+            "options": [
+                "家人",
+                "接",
+                "哪个",
+                "去年"
+            ],
+            "answer": "哪个",
+            "explanation": "Từ cần điền là '哪个'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Năm' vào chỗ trống: ______",
+            "options": [
+                "年",
+                "家人",
+                "男朋友",
+                "爱"
+            ],
+            "answer": "年",
+            "explanation": "Từ cần điền là '年'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Người nhà'",
+            "options": [
+                "这家人是",
+                "是家人我",
+                "我是家人",
+                "我家人是"
+            ],
+            "answer": "我是家人",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是家人"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Yêu'",
+            "options": [
+                "这爱是",
+                "这是爱",
+                "我爱是",
+                "是爱我"
+            ],
+            "answer": "这是爱",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是爱"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Thời gian'",
+            "options": [
+                "这时间是",
+                "这是时间",
+                "是时间我",
+                "我时间是"
+            ],
+            "answer": "这是时间",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是时间"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Sớm'",
+            "options": [
+                "这早是",
+                "是早我",
+                "这是早",
+                "我早是"
+            ],
+            "answer": "这是早",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是早"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Vui'",
+            "options": [
+                "是好玩儿我",
+                "我是好玩儿",
+                "这好玩儿是",
+                "我好玩儿是"
+            ],
+            "answer": "我是好玩儿",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是好玩儿"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Sống/Ở'",
+            "options": [
+                "这住是",
+                "我住是",
+                "我是住",
+                "是住我"
+            ],
+            "answer": "我是住",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是住"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bắc Kinh'",
+            "options": [
+                "这北京是",
+                "是北京我",
+                "我是北京",
+                "我北京是"
+            ],
+            "answer": "我是北京",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是北京"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đón'",
+            "options": [
+                "我是接",
+                "这接是",
+                "我接是",
+                "是接我"
+            ],
+            "answer": "我是接",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是接"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Vui'",
+            "options": [
+                "这好玩儿是",
+                "是好玩儿我",
+                "这是好玩儿",
+                "我好玩儿是"
+            ],
+            "answer": "这是好玩儿",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是好玩儿"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Năm ngoái'",
+            "options": [
+                "我去年是",
+                "这去年是",
+                "我是去年",
+                "是去年我"
+            ],
+            "answer": "我是去年",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是去年"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bạn trai'",
+            "options": [
+                "这男朋友是",
+                "我是男朋友",
+                "是男朋友我",
+                "我男朋友是"
+            ],
+            "answer": "我是男朋友",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是男朋友"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Yêu'",
+            "options": [
+                "是爱我",
+                "我爱是",
+                "我是爱",
+                "这爱是"
+            ],
+            "answer": "我是爱",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是爱"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Máy bay'",
+            "options": [
+                "这飞机是",
+                "我飞机是",
+                "是飞机我",
+                "我是飞机"
+            ],
+            "answer": "我是飞机",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是飞机"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Sớm'",
+            "options": [
+                "我早是",
+                "这早是",
+                "这是早",
+                "是早我"
+            ],
+            "answer": "这是早",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是早"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Sân bay'",
+            "options": [
+                "我机场是",
+                "这是机场",
+                "是机场我",
+                "这机场是"
+            ],
+            "answer": "这是机场",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是机场"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 家人 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 西安 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 小时 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 年 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 时间 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 哪个 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 时间 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 年 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 北京 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 爱 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        }
+    ]
+}

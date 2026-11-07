@@ -1,0 +1,1307 @@
+{
+    "lessonId": 3,
+    "lessonTitle": "Bài 3: 我是中国人",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '国' (guó) có nghĩa là gì?",
+            "options": [
+                "Tiếng Trung",
+                "Trung Quốc",
+                "Người",
+                "Nước"
+            ],
+            "answer": "Nước",
+            "explanation": "'国' nghĩa là 'Nước'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '的' (de) có nghĩa là gì?",
+            "options": [
+                "Bạn gái",
+                "Trợ từ sở hữu",
+                "Thái Lan",
+                "Nước"
+            ],
+            "answer": "Trợ từ sở hữu",
+            "explanation": "'的' nghĩa là 'Trợ từ sở hữu'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '中文' (Zhōngwén) có nghĩa là gì?",
+            "options": [
+                "Cô ấy",
+                "Tiếng Trung",
+                "Pháp",
+                "Trung Quốc"
+            ],
+            "answer": "Tiếng Trung",
+            "explanation": "'中文' nghĩa là 'Tiếng Trung'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '她' (tā) có nghĩa là gì?",
+            "options": [
+                "Cô ấy",
+                "Trợ từ sở hữu",
+                "Pháp",
+                "Nước"
+            ],
+            "answer": "Cô ấy",
+            "explanation": "'她' nghĩa là 'Cô ấy'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '谁' (shéi) có nghĩa là gì?",
+            "options": [
+                "Cô ấy",
+                "Nước",
+                "Ai",
+                "Người"
+            ],
+            "answer": "Ai",
+            "explanation": "'谁' nghĩa là 'Ai'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '哪' (nǎ) có nghĩa là gì?",
+            "options": [
+                "Cô ấy",
+                "Nước",
+                "Nào",
+                "Trợ từ sở hữu"
+            ],
+            "answer": "Nào",
+            "explanation": "'哪' nghĩa là 'Nào'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '人' (rén) có nghĩa là gì?",
+            "options": [
+                "Tiếng Trung",
+                "Nào",
+                "Bạn gái",
+                "Người"
+            ],
+            "answer": "Người",
+            "explanation": "'人' nghĩa là 'Người'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '泰国' (Tàiguó) có nghĩa là gì?",
+            "options": [
+                "Thái Lan",
+                "Pháp",
+                "Cô ấy",
+                "Nước"
+            ],
+            "answer": "Thái Lan",
+            "explanation": "'泰国' nghĩa là 'Thái Lan'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '法国' (Fǎguó) có nghĩa là gì?",
+            "options": [
+                "Pháp",
+                "Cô ấy",
+                "Tiếng Trung",
+                "Nước"
+            ],
+            "answer": "Pháp",
+            "explanation": "'法国' nghĩa là 'Pháp'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '女朋友' (nǚpéngyou) có nghĩa là gì?",
+            "options": [
+                "Thái Lan",
+                "Nào",
+                "Bạn gái",
+                "Trung Quốc"
+            ],
+            "answer": "Bạn gái",
+            "explanation": "'女朋友' nghĩa là 'Bạn gái'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '中国' (Zhōngguó) có nghĩa là gì?",
+            "options": [
+                "Cô ấy",
+                "Người",
+                "Trợ từ sở hữu",
+                "Trung Quốc"
+            ],
+            "answer": "Trung Quốc",
+            "explanation": "'中国' nghĩa là 'Trung Quốc'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '她' (tā) có nghĩa là gì?",
+            "options": [
+                "Pháp",
+                "Trợ từ sở hữu",
+                "Bạn gái",
+                "Cô ấy"
+            ],
+            "answer": "Cô ấy",
+            "explanation": "'她' nghĩa là 'Cô ấy'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '泰国' (Tàiguó) có nghĩa là gì?",
+            "options": [
+                "Tiếng Trung",
+                "Ai",
+                "Trung Quốc",
+                "Thái Lan"
+            ],
+            "answer": "Thái Lan",
+            "explanation": "'泰国' nghĩa là 'Thái Lan'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '谁' (shéi) có nghĩa là gì?",
+            "options": [
+                "Nước",
+                "Nào",
+                "Ai",
+                "Bạn gái"
+            ],
+            "answer": "Ai",
+            "explanation": "'谁' nghĩa là 'Ai'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '法国' (Fǎguó) có nghĩa là gì?",
+            "options": [
+                "Ai",
+                "Pháp",
+                "Tiếng Trung",
+                "Cô ấy"
+            ],
+            "answer": "Pháp",
+            "explanation": "'法国' nghĩa là 'Pháp'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '中文' (Zhōngwén) có nghĩa là gì?",
+            "options": [
+                "Trợ từ sở hữu",
+                "Nước",
+                "Tiếng Trung",
+                "Cô ấy"
+            ],
+            "answer": "Tiếng Trung",
+            "explanation": "'中文' nghĩa là 'Tiếng Trung'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '人' (rén) có nghĩa là gì?",
+            "options": [
+                "Người",
+                "Thái Lan",
+                "Bạn gái",
+                "Trung Quốc"
+            ],
+            "answer": "Người",
+            "explanation": "'人' nghĩa là 'Người'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '中国' (Zhōngguó) có nghĩa là gì?",
+            "options": [
+                "Trung Quốc",
+                "Thái Lan",
+                "Pháp",
+                "Cô ấy"
+            ],
+            "answer": "Trung Quốc",
+            "explanation": "'中国' nghĩa là 'Trung Quốc'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '女朋友' (nǚpéngyou) có nghĩa là gì?",
+            "options": [
+                "Bạn gái",
+                "Trợ từ sở hữu",
+                "Người",
+                "Ai"
+            ],
+            "answer": "Bạn gái",
+            "explanation": "'女朋友' nghĩa là 'Bạn gái'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '的' (de) có nghĩa là gì?",
+            "options": [
+                "Tiếng Trung",
+                "Người",
+                "Trợ từ sở hữu",
+                "Thái Lan"
+            ],
+            "answer": "Trợ từ sở hữu",
+            "explanation": "'的' nghĩa là 'Trợ từ sở hữu'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '哪' (nǎ) có nghĩa là gì?",
+            "options": [
+                "Thái Lan",
+                "Tiếng Trung",
+                "Nào",
+                "Pháp"
+            ],
+            "answer": "Nào",
+            "explanation": "'哪' nghĩa là 'Nào'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '国' (guó) có nghĩa là gì?",
+            "options": [
+                "Tiếng Trung",
+                "Trợ từ sở hữu",
+                "Nước",
+                "Thái Lan"
+            ],
+            "answer": "Nước",
+            "explanation": "'国' nghĩa là 'Nước'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '泰国' (Tàiguó) có nghĩa là gì?",
+            "options": [
+                "Nào",
+                "Thái Lan",
+                "Nước",
+                "Pháp"
+            ],
+            "answer": "Thái Lan",
+            "explanation": "'泰国' nghĩa là 'Thái Lan'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '人' (rén) có nghĩa là gì?",
+            "options": [
+                "Người",
+                "Trợ từ sở hữu",
+                "Pháp",
+                "Nước"
+            ],
+            "answer": "Người",
+            "explanation": "'人' nghĩa là 'Người'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '女朋友' (nǚpéngyou) có nghĩa là gì?",
+            "options": [
+                "Thái Lan",
+                "Nào",
+                "Người",
+                "Bạn gái"
+            ],
+            "answer": "Bạn gái",
+            "explanation": "'女朋友' nghĩa là 'Bạn gái'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '法国' (Fǎguó) có nghĩa là gì?",
+            "options": [
+                "Người",
+                "Pháp",
+                "Thái Lan",
+                "Ai"
+            ],
+            "answer": "Pháp",
+            "explanation": "'法国' nghĩa là 'Pháp'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '国' (guó) có nghĩa là gì?",
+            "options": [
+                "Bạn gái",
+                "Pháp",
+                "Người",
+                "Nước"
+            ],
+            "answer": "Nước",
+            "explanation": "'国' nghĩa là 'Nước'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '哪' (nǎ) có nghĩa là gì?",
+            "options": [
+                "Nào",
+                "Cô ấy",
+                "Thái Lan",
+                "Pháp"
+            ],
+            "answer": "Nào",
+            "explanation": "'哪' nghĩa là 'Nào'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '她' (tā) có nghĩa là gì?",
+            "options": [
+                "Trung Quốc",
+                "Người",
+                "Pháp",
+                "Cô ấy"
+            ],
+            "answer": "Cô ấy",
+            "explanation": "'她' nghĩa là 'Cô ấy'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '的' (de) có nghĩa là gì?",
+            "options": [
+                "Nào",
+                "Trung Quốc",
+                "Cô ấy",
+                "Trợ từ sở hữu"
+            ],
+            "answer": "Trợ từ sở hữu",
+            "explanation": "'的' nghĩa là 'Trợ từ sở hữu'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中文' là:",
+            "options": [
+                "Zhōmgwém",
+                "Zhōngwén7",
+                "Zhōngwén5",
+                "Zhōngwén"
+            ],
+            "answer": "Zhōngwén",
+            "explanation": "'中文' đọc là Zhōngwén."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中国' là:",
+            "options": [
+                "Zhōngguó9",
+                "Zhōnggùó",
+                "Zhōmgguó",
+                "Zhōngguó"
+            ],
+            "answer": "Zhōngguó",
+            "explanation": "'中国' đọc là Zhōngguó."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '谁' là:",
+            "options": [
+                "shéi8",
+                "shéì",
+                "shéi",
+                "shéi5"
+            ],
+            "answer": "shéi",
+            "explanation": "'谁' đọc là shéi."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '女朋友' là:",
+            "options": [
+                "nǚpéngyou5",
+                "nǚpéngyou",
+                "nǚpéngyóù",
+                "mǚpémgyou"
+            ],
+            "answer": "nǚpéngyou",
+            "explanation": "'女朋友' đọc là nǚpéngyou."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '人' là:",
+            "options": [
+                "rén2",
+                "rén",
+                "rém",
+                "rén4"
+            ],
+            "answer": "rén",
+            "explanation": "'人' đọc là rén."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪' là:",
+            "options": [
+                "nǎ3",
+                "mǎ",
+                "nǎ1",
+                "nǎ"
+            ],
+            "answer": "nǎ",
+            "explanation": "'哪' đọc là nǎ."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '她' là:",
+            "options": [
+                "tā3",
+                "tā1",
+                "tā",
+                "tā8"
+            ],
+            "answer": "tā",
+            "explanation": "'她' đọc là tā."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中国' là:",
+            "options": [
+                "Zhōngguó",
+                "Zhōmgguó",
+                "Zhōngguó3",
+                "Zhōnggùó"
+            ],
+            "answer": "Zhōngguó",
+            "explanation": "'中国' đọc là Zhōngguó."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '的' là:",
+            "options": [
+                "de3",
+                "de5",
+                "de",
+                "de2"
+            ],
+            "answer": "de",
+            "explanation": "'的' đọc là de."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '国' là:",
+            "options": [
+                "guó7",
+                "gùó",
+                "guó",
+                "guó4"
+            ],
+            "answer": "guó",
+            "explanation": "'国' đọc là guó."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '法国' là:",
+            "options": [
+                "Fǎguó5",
+                "Fǎguó",
+                "Fǎguó7",
+                "Fǎgùó"
+            ],
+            "answer": "Fǎguó",
+            "explanation": "'法国' đọc là Fǎguó."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '泰国' là:",
+            "options": [
+                "Tàìguó",
+                "Tàigùó",
+                "Tàiguó",
+                "Tàiguó1"
+            ],
+            "answer": "Tàiguó",
+            "explanation": "'泰国' đọc là Tàiguó."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '谁' là:",
+            "options": [
+                "shéi3",
+                "shéì",
+                "shéi3",
+                "shéi"
+            ],
+            "answer": "shéi",
+            "explanation": "'谁' đọc là shéi."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中文' là:",
+            "options": [
+                "Zhōngwén",
+                "Zhōmgwém",
+                "Zhōngwén7",
+                "Zhōngwén8"
+            ],
+            "answer": "Zhōngwén",
+            "explanation": "'中文' đọc là Zhōngwén."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中文' là:",
+            "options": [
+                "Zhōngwén",
+                "Zhōngwén1",
+                "Zhōmgwém",
+                "Zhōngwén7"
+            ],
+            "answer": "Zhōngwén",
+            "explanation": "'中文' đọc là Zhōngwén."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '女朋友' là:",
+            "options": [
+                "nǚpéngyou5",
+                "mǚpémgyou",
+                "nǚpéngyóù",
+                "nǚpéngyou"
+            ],
+            "answer": "nǚpéngyou",
+            "explanation": "'女朋友' đọc là nǚpéngyou."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '哪' là:",
+            "options": [
+                "nǎ6",
+                "mǎ",
+                "nǎ",
+                "nǎ8"
+            ],
+            "answer": "nǎ",
+            "explanation": "'哪' đọc là nǎ."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '国' là:",
+            "options": [
+                "gùó",
+                "guó5",
+                "guó8",
+                "guó"
+            ],
+            "answer": "guó",
+            "explanation": "'国' đọc là guó."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '她' là:",
+            "options": [
+                "tā6",
+                "tā",
+                "tā1",
+                "tā7"
+            ],
+            "answer": "tā",
+            "explanation": "'她' đọc là tā."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '的' là:",
+            "options": [
+                "de7",
+                "de2",
+                "de",
+                "de7"
+            ],
+            "answer": "de",
+            "explanation": "'的' đọc là de."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '谁' là:",
+            "options": [
+                "shéi5",
+                "shéi",
+                "shéì",
+                "shéi8"
+            ],
+            "answer": "shéi",
+            "explanation": "'谁' đọc là shéi."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '中国' là:",
+            "options": [
+                "Zhōngguó",
+                "Zhōnggùó",
+                "Zhōmgguó",
+                "Zhōngguó6"
+            ],
+            "answer": "Zhōngguó",
+            "explanation": "'中国' đọc là Zhōngguó."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '泰国' là:",
+            "options": [
+                "Tàìguó",
+                "Tàiguó",
+                "Tàiguó1",
+                "Tàigùó"
+            ],
+            "answer": "Tàiguó",
+            "explanation": "'泰国' đọc là Tàiguó."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '法国' là:",
+            "options": [
+                "Fǎguó3",
+                "Fǎguó8",
+                "Fǎguó",
+                "Fǎgùó"
+            ],
+            "answer": "Fǎguó",
+            "explanation": "'法国' đọc là Fǎguó."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '人' là:",
+            "options": [
+                "rén3",
+                "rén9",
+                "rém",
+                "rén"
+            ],
+            "answer": "rén",
+            "explanation": "'人' đọc là rén."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cô ấy' vào chỗ trống: ______",
+            "options": [
+                "女朋友",
+                "哪",
+                "人",
+                "她"
+            ],
+            "answer": "她",
+            "explanation": "Từ cần điền là '她'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nào' vào chỗ trống: ______",
+            "options": [
+                "谁",
+                "女朋友",
+                "国",
+                "哪"
+            ],
+            "answer": "哪",
+            "explanation": "Từ cần điền là '哪'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ai' vào chỗ trống: ______",
+            "options": [
+                "人",
+                "国",
+                "谁",
+                "法国"
+            ],
+            "answer": "谁",
+            "explanation": "Từ cần điền là '谁'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Người' vào chỗ trống: ______",
+            "options": [
+                "哪",
+                "的",
+                "中文",
+                "人"
+            ],
+            "answer": "人",
+            "explanation": "Từ cần điền là '人'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Trung Quốc' vào chỗ trống: ______",
+            "options": [
+                "国",
+                "女朋友",
+                "中国",
+                "哪"
+            ],
+            "answer": "中国",
+            "explanation": "Từ cần điền là '中国'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bạn gái' vào chỗ trống: ______",
+            "options": [
+                "她",
+                "中文",
+                "的",
+                "女朋友"
+            ],
+            "answer": "女朋友",
+            "explanation": "Từ cần điền là '女朋友'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Trợ từ sở hữu' vào chỗ trống: ______",
+            "options": [
+                "哪",
+                "女朋友",
+                "谁",
+                "的"
+            ],
+            "answer": "的",
+            "explanation": "Từ cần điền là '的'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nước' vào chỗ trống: ______",
+            "options": [
+                "国",
+                "泰国",
+                "的",
+                "哪"
+            ],
+            "answer": "国",
+            "explanation": "Từ cần điền là '国'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Pháp' vào chỗ trống: ______",
+            "options": [
+                "泰国",
+                "国",
+                "谁",
+                "法国"
+            ],
+            "answer": "法国",
+            "explanation": "Từ cần điền là '法国'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thái Lan' vào chỗ trống: ______",
+            "options": [
+                "中文",
+                "泰国",
+                "她",
+                "国"
+            ],
+            "answer": "泰国",
+            "explanation": "Từ cần điền là '泰国'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tiếng Trung' vào chỗ trống: ______",
+            "options": [
+                "她",
+                "人",
+                "中文",
+                "中国"
+            ],
+            "answer": "中文",
+            "explanation": "Từ cần điền là '中文'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bạn gái' vào chỗ trống: ______",
+            "options": [
+                "谁",
+                "女朋友",
+                "中文",
+                "国"
+            ],
+            "answer": "女朋友",
+            "explanation": "Từ cần điền là '女朋友'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tiếng Trung' vào chỗ trống: ______",
+            "options": [
+                "中文",
+                "泰国",
+                "哪",
+                "女朋友"
+            ],
+            "answer": "中文",
+            "explanation": "Từ cần điền là '中文'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nào' vào chỗ trống: ______",
+            "options": [
+                "哪",
+                "谁",
+                "的",
+                "国"
+            ],
+            "answer": "哪",
+            "explanation": "Từ cần điền là '哪'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Trung Quốc' vào chỗ trống: ______",
+            "options": [
+                "国",
+                "人",
+                "女朋友",
+                "中国"
+            ],
+            "answer": "中国",
+            "explanation": "Từ cần điền là '中国'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thái Lan' vào chỗ trống: ______",
+            "options": [
+                "中文",
+                "的",
+                "哪",
+                "泰国"
+            ],
+            "answer": "泰国",
+            "explanation": "Từ cần điền là '泰国'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Người' vào chỗ trống: ______",
+            "options": [
+                "谁",
+                "法国",
+                "中文",
+                "人"
+            ],
+            "answer": "人",
+            "explanation": "Từ cần điền là '人'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nước' vào chỗ trống: ______",
+            "options": [
+                "国",
+                "法国",
+                "她",
+                "人"
+            ],
+            "answer": "国",
+            "explanation": "Từ cần điền là '国'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Trợ từ sở hữu' vào chỗ trống: ______",
+            "options": [
+                "谁",
+                "的",
+                "她",
+                "国"
+            ],
+            "answer": "的",
+            "explanation": "Từ cần điền là '的'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Ai' vào chỗ trống: ______",
+            "options": [
+                "中国",
+                "女朋友",
+                "人",
+                "谁"
+            ],
+            "answer": "谁",
+            "explanation": "Từ cần điền là '谁'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Pháp'",
+            "options": [
+                "我法国是",
+                "是法国我",
+                "这是法国",
+                "这法国是"
+            ],
+            "answer": "这是法国",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是法国"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cô ấy'",
+            "options": [
+                "是她我",
+                "我她是",
+                "我是她",
+                "这她是"
+            ],
+            "answer": "我是她",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是她"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Pháp'",
+            "options": [
+                "我法国是",
+                "这是法国",
+                "这法国是",
+                "是法国我"
+            ],
+            "answer": "这是法国",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是法国"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cô ấy'",
+            "options": [
+                "这她是",
+                "是她我",
+                "这是她",
+                "我她是"
+            ],
+            "answer": "这是她",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是她"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Thái Lan'",
+            "options": [
+                "我泰国是",
+                "我是泰国",
+                "是泰国我",
+                "这泰国是"
+            ],
+            "answer": "我是泰国",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是泰国"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trợ từ sở hữu'",
+            "options": [
+                "我的是",
+                "这是的",
+                "是的我",
+                "这的是"
+            ],
+            "answer": "这是的",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是的"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bạn gái'",
+            "options": [
+                "我是女朋友",
+                "这女朋友是",
+                "我女朋友是",
+                "是女朋友我"
+            ],
+            "answer": "我是女朋友",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是女朋友"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trung Quốc'",
+            "options": [
+                "这中国是",
+                "是中国我",
+                "我中国是",
+                "这是中国"
+            ],
+            "answer": "这是中国",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是中国"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Ai'",
+            "options": [
+                "我谁是",
+                "这谁是",
+                "我是谁",
+                "是谁我"
+            ],
+            "answer": "我是谁",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是谁"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Người'",
+            "options": [
+                "这人是",
+                "我人是",
+                "是人我",
+                "我是人"
+            ],
+            "answer": "我是人",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是人"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nào'",
+            "options": [
+                "这是哪",
+                "是哪我",
+                "我哪是",
+                "这哪是"
+            ],
+            "answer": "这是哪",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是哪"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nước'",
+            "options": [
+                "这国是",
+                "我是国",
+                "是国我",
+                "我国是"
+            ],
+            "answer": "我是国",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是国"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tiếng Trung'",
+            "options": [
+                "是中文我",
+                "我中文是",
+                "这是中文",
+                "这中文是"
+            ],
+            "answer": "这是中文",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是中文"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Ai'",
+            "options": [
+                "这是谁",
+                "我谁是",
+                "这谁是",
+                "是谁我"
+            ],
+            "answer": "这是谁",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是谁"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Người'",
+            "options": [
+                "我是人",
+                "是人我",
+                "这人是",
+                "我人是"
+            ],
+            "answer": "我是人",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是人"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 的。 (Tôi là Trợ từ sở hữu)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 哪。 (Tôi là Nào)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 她。 (Tôi là Cô ấy)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 中国。 (Tôi là Trung Quốc)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 女朋友。 (Tôi là Bạn gái)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 泰国。 (Tôi là Thái Lan)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 法国。 (Tôi là Pháp)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 中文。 (Tôi là Tiếng Trung)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 国。 (Tôi là Nước)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 的。 (Tôi là Trợ từ sở hữu)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        }
+    ]
+}

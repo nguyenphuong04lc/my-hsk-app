@@ -1,0 +1,1307 @@
+{
+    "lessonId": 2,
+    "lessonTitle": "Bài 2: 我叫李文",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '叫' (jiào) có nghĩa là gì?",
+            "options": [
+                "Vui vẻ",
+                "Gọi/Tên là",
+                "Không sao",
+                "Cái gì"
+            ],
+            "answer": "Gọi/Tên là",
+            "explanation": "'叫' nghĩa là 'Gọi/Tên là'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '没关系' (méi guānxi) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Không",
+                "Xin lỗi",
+                "Không sao"
+            ],
+            "answer": "Không sao",
+            "explanation": "'没关系' nghĩa là 'Không sao'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '不' (bù) có nghĩa là gì?",
+            "options": [
+                "Xin lỗi",
+                "Tôi",
+                "Không",
+                "Là"
+            ],
+            "answer": "Không",
+            "explanation": "'不' nghĩa là 'Không'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '什么' (shénme) có nghĩa là gì?",
+            "options": [
+                "Vui vẻ",
+                "Xin lỗi",
+                "Là",
+                "Cái gì"
+            ],
+            "answer": "Cái gì",
+            "explanation": "'什么' nghĩa là 'Cái gì'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '认识' (rènshi) có nghĩa là gì?",
+            "options": [
+                "Quen biết",
+                "Gọi/Tên là",
+                "Là",
+                "Cái gì"
+            ],
+            "answer": "Quen biết",
+            "explanation": "'认识' nghĩa là 'Quen biết'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '是' (shì) có nghĩa là gì?",
+            "options": [
+                "Là",
+                "Cái gì",
+                "Vui vẻ",
+                "Quen biết"
+            ],
+            "answer": "Là",
+            "explanation": "'是' nghĩa là 'Là'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '对不起' (duìbuqǐ) có nghĩa là gì?",
+            "options": [
+                "Là",
+                "Xin lỗi",
+                "Cái gì",
+                "Vui vẻ"
+            ],
+            "answer": "Xin lỗi",
+            "explanation": "'对不起' nghĩa là 'Xin lỗi'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '高兴' (gāoxìng) có nghĩa là gì?",
+            "options": [
+                "Tôi",
+                "Xin lỗi",
+                "Quen biết",
+                "Vui vẻ"
+            ],
+            "answer": "Vui vẻ",
+            "explanation": "'高兴' nghĩa là 'Vui vẻ'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '名字' (míngzi) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Gọi/Tên là",
+                "Vui vẻ",
+                "Không"
+            ],
+            "answer": "Tên",
+            "explanation": "'名字' nghĩa là 'Tên'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '我' (wǒ) có nghĩa là gì?",
+            "options": [
+                "Tôi",
+                "Quen biết",
+                "Là",
+                "Vui vẻ"
+            ],
+            "answer": "Tôi",
+            "explanation": "'我' nghĩa là 'Tôi'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '什么' (shénme) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Gọi/Tên là",
+                "Cái gì",
+                "Vui vẻ"
+            ],
+            "answer": "Cái gì",
+            "explanation": "'什么' nghĩa là 'Cái gì'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '叫' (jiào) có nghĩa là gì?",
+            "options": [
+                "Tôi",
+                "Quen biết",
+                "Là",
+                "Gọi/Tên là"
+            ],
+            "answer": "Gọi/Tên là",
+            "explanation": "'叫' nghĩa là 'Gọi/Tên là'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '对不起' (duìbuqǐ) có nghĩa là gì?",
+            "options": [
+                "Quen biết",
+                "Tôi",
+                "Vui vẻ",
+                "Xin lỗi"
+            ],
+            "answer": "Xin lỗi",
+            "explanation": "'对不起' nghĩa là 'Xin lỗi'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '是' (shì) có nghĩa là gì?",
+            "options": [
+                "Không sao",
+                "Quen biết",
+                "Là",
+                "Tôi"
+            ],
+            "answer": "Là",
+            "explanation": "'是' nghĩa là 'Là'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '不' (bù) có nghĩa là gì?",
+            "options": [
+                "Không",
+                "Tôi",
+                "Quen biết",
+                "Gọi/Tên là"
+            ],
+            "answer": "Không",
+            "explanation": "'不' nghĩa là 'Không'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '高兴' (gāoxìng) có nghĩa là gì?",
+            "options": [
+                "Quen biết",
+                "Vui vẻ",
+                "Không",
+                "Là"
+            ],
+            "answer": "Vui vẻ",
+            "explanation": "'高兴' nghĩa là 'Vui vẻ'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '名字' (míngzi) có nghĩa là gì?",
+            "options": [
+                "Quen biết",
+                "Tôi",
+                "Không sao",
+                "Tên"
+            ],
+            "answer": "Tên",
+            "explanation": "'名字' nghĩa là 'Tên'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '我' (wǒ) có nghĩa là gì?",
+            "options": [
+                "Là",
+                "Gọi/Tên là",
+                "Vui vẻ",
+                "Tôi"
+            ],
+            "answer": "Tôi",
+            "explanation": "'我' nghĩa là 'Tôi'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '没关系' (méi guānxi) có nghĩa là gì?",
+            "options": [
+                "Không",
+                "Không sao",
+                "Xin lỗi",
+                "Gọi/Tên là"
+            ],
+            "answer": "Không sao",
+            "explanation": "'没关系' nghĩa là 'Không sao'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '认识' (rènshi) có nghĩa là gì?",
+            "options": [
+                "Quen biết",
+                "Không",
+                "Không sao",
+                "Tôi"
+            ],
+            "answer": "Quen biết",
+            "explanation": "'认识' nghĩa là 'Quen biết'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '是' (shì) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Cái gì",
+                "Là",
+                "Gọi/Tên là"
+            ],
+            "answer": "Là",
+            "explanation": "'是' nghĩa là 'Là'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '认识' (rènshi) có nghĩa là gì?",
+            "options": [
+                "Xin lỗi",
+                "Quen biết",
+                "Vui vẻ",
+                "Là"
+            ],
+            "answer": "Quen biết",
+            "explanation": "'认识' nghĩa là 'Quen biết'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '不' (bù) có nghĩa là gì?",
+            "options": [
+                "Cái gì",
+                "Vui vẻ",
+                "Không sao",
+                "Không"
+            ],
+            "answer": "Không",
+            "explanation": "'不' nghĩa là 'Không'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '什么' (shénme) có nghĩa là gì?",
+            "options": [
+                "Cái gì",
+                "Quen biết",
+                "Tên",
+                "Xin lỗi"
+            ],
+            "answer": "Cái gì",
+            "explanation": "'什么' nghĩa là 'Cái gì'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '叫' (jiào) có nghĩa là gì?",
+            "options": [
+                "Xin lỗi",
+                "Tôi",
+                "Không",
+                "Gọi/Tên là"
+            ],
+            "answer": "Gọi/Tên là",
+            "explanation": "'叫' nghĩa là 'Gọi/Tên là'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '没关系' (méi guānxi) có nghĩa là gì?",
+            "options": [
+                "Là",
+                "Không sao",
+                "Tôi",
+                "Tên"
+            ],
+            "answer": "Không sao",
+            "explanation": "'没关系' nghĩa là 'Không sao'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '高兴' (gāoxìng) có nghĩa là gì?",
+            "options": [
+                "Cái gì",
+                "Là",
+                "Tôi",
+                "Vui vẻ"
+            ],
+            "answer": "Vui vẻ",
+            "explanation": "'高兴' nghĩa là 'Vui vẻ'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '对不起' (duìbuqǐ) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Xin lỗi",
+                "Cái gì",
+                "Là"
+            ],
+            "answer": "Xin lỗi",
+            "explanation": "'对不起' nghĩa là 'Xin lỗi'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '我' (wǒ) có nghĩa là gì?",
+            "options": [
+                "Là",
+                "Vui vẻ",
+                "Tôi",
+                "Cái gì"
+            ],
+            "answer": "Tôi",
+            "explanation": "'我' nghĩa là 'Tôi'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '名字' (míngzi) có nghĩa là gì?",
+            "options": [
+                "Tên",
+                "Cái gì",
+                "Gọi/Tên là",
+                "Là"
+            ],
+            "answer": "Tên",
+            "explanation": "'名字' nghĩa là 'Tên'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '是' là:",
+            "options": [
+                "shì6",
+                "shì2",
+                "shì3",
+                "shì"
+            ],
+            "answer": "shì",
+            "explanation": "'是' đọc là shì."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '名字' là:",
+            "options": [
+                "míngzi",
+                "míngzi1",
+                "mímgzi",
+                "míngzì"
+            ],
+            "answer": "míngzi",
+            "explanation": "'名字' đọc là míngzi."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '叫' là:",
+            "options": [
+                "jiào1",
+                "jìào",
+                "jiào",
+                "jiàó"
+            ],
+            "answer": "jiào",
+            "explanation": "'叫' đọc là jiào."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '不' là:",
+            "options": [
+                "bù",
+                "bù3",
+                "bù4",
+                "bù8"
+            ],
+            "answer": "bù",
+            "explanation": "'不' đọc là bù."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '高兴' là:",
+            "options": [
+                "gāoxìng7",
+                "gāóxìng",
+                "gāoxìng",
+                "gāoxìmg"
+            ],
+            "answer": "gāoxìng",
+            "explanation": "'高兴' đọc là gāoxìng."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '没关系' là:",
+            "options": [
+                "méì guānxì",
+                "méi guānxi",
+                "méi gùānxi",
+                "méi guāmxi"
+            ],
+            "answer": "méi guānxi",
+            "explanation": "'没关系' đọc là méi guānxi."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '对不起' là:",
+            "options": [
+                "dùìbùqǐ",
+                "duìbuqǐ2",
+                "duìbuqǐ9",
+                "duìbuqǐ"
+            ],
+            "answer": "duìbuqǐ",
+            "explanation": "'对不起' đọc là duìbuqǐ."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '什么' là:",
+            "options": [
+                "shénme7",
+                "shénme",
+                "shénme5",
+                "shémme"
+            ],
+            "answer": "shénme",
+            "explanation": "'什么' đọc là shénme."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '我' là:",
+            "options": [
+                "wǒ6",
+                "wǒ",
+                "wǒ5",
+                "wǒ7"
+            ],
+            "answer": "wǒ",
+            "explanation": "'我' đọc là wǒ."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '认识' là:",
+            "options": [
+                "rènshi2",
+                "rènshì",
+                "rèmshi",
+                "rènshi"
+            ],
+            "answer": "rènshi",
+            "explanation": "'认识' đọc là rènshi."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '对不起' là:",
+            "options": [
+                "duìbuqǐ",
+                "duìbuqǐ3",
+                "duìbuqǐ9",
+                "dùìbùqǐ"
+            ],
+            "answer": "duìbuqǐ",
+            "explanation": "'对不起' đọc là duìbuqǐ."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '是' là:",
+            "options": [
+                "shì7",
+                "shì",
+                "shì8",
+                "shì6"
+            ],
+            "answer": "shì",
+            "explanation": "'是' đọc là shì."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '什么' là:",
+            "options": [
+                "shénme7",
+                "shémme",
+                "shénme8",
+                "shénme"
+            ],
+            "answer": "shénme",
+            "explanation": "'什么' đọc là shénme."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '认识' là:",
+            "options": [
+                "rèmshi",
+                "rènshi",
+                "rènshì",
+                "rènshi8"
+            ],
+            "answer": "rènshi",
+            "explanation": "'认识' đọc là rènshi."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '叫' là:",
+            "options": [
+                "jiào",
+                "jìào",
+                "jiàó",
+                "jiào5"
+            ],
+            "answer": "jiào",
+            "explanation": "'叫' đọc là jiào."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '名字' là:",
+            "options": [
+                "mímgzi",
+                "míngzì",
+                "míngzi",
+                "míngzi1"
+            ],
+            "answer": "míngzi",
+            "explanation": "'名字' đọc là míngzi."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '不' là:",
+            "options": [
+                "bù",
+                "bù1",
+                "bù2",
+                "bù8"
+            ],
+            "answer": "bù",
+            "explanation": "'不' đọc là bù."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '高兴' là:",
+            "options": [
+                "gāóxìng",
+                "gāoxìng",
+                "gāoxìng8",
+                "gāoxìmg"
+            ],
+            "answer": "gāoxìng",
+            "explanation": "'高兴' đọc là gāoxìng."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '我' là:",
+            "options": [
+                "wǒ3",
+                "wǒ6",
+                "wǒ",
+                "wǒ1"
+            ],
+            "answer": "wǒ",
+            "explanation": "'我' đọc là wǒ."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '没关系' là:",
+            "options": [
+                "méì guānxì",
+                "méi guānxi",
+                "méi guāmxi",
+                "méi gùānxi"
+            ],
+            "answer": "méi guānxi",
+            "explanation": "'没关系' đọc là méi guānxi."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '是' là:",
+            "options": [
+                "shì4",
+                "shì1",
+                "shì",
+                "shì9"
+            ],
+            "answer": "shì",
+            "explanation": "'是' đọc là shì."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '我' là:",
+            "options": [
+                "wǒ8",
+                "wǒ9",
+                "wǒ",
+                "wǒ1"
+            ],
+            "answer": "wǒ",
+            "explanation": "'我' đọc là wǒ."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '叫' là:",
+            "options": [
+                "jiào",
+                "jiàó",
+                "jìào",
+                "jiào7"
+            ],
+            "answer": "jiào",
+            "explanation": "'叫' đọc là jiào."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '高兴' là:",
+            "options": [
+                "gāoxìng",
+                "gāoxìmg",
+                "gāóxìng",
+                "gāoxìng1"
+            ],
+            "answer": "gāoxìng",
+            "explanation": "'高兴' đọc là gāoxìng."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '什么' là:",
+            "options": [
+                "shémme",
+                "shénme",
+                "shénme2",
+                "shénme5"
+            ],
+            "answer": "shénme",
+            "explanation": "'什么' đọc là shénme."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Quen biết' vào chỗ trống: ______",
+            "options": [
+                "对不起",
+                "叫",
+                "认识",
+                "高兴"
+            ],
+            "answer": "认识",
+            "explanation": "Từ cần điền là '认识'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Xin lỗi' vào chỗ trống: ______",
+            "options": [
+                "高兴",
+                "对不起",
+                "不",
+                "我"
+            ],
+            "answer": "对不起",
+            "explanation": "Từ cần điền là '对不起'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Không sao' vào chỗ trống: ______",
+            "options": [
+                "认识",
+                "是",
+                "没关系",
+                "我"
+            ],
+            "answer": "没关系",
+            "explanation": "Từ cần điền là '没关系'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tên' vào chỗ trống: ______",
+            "options": [
+                "名字",
+                "对不起",
+                "不",
+                "认识"
+            ],
+            "answer": "名字",
+            "explanation": "Từ cần điền là '名字'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Không' vào chỗ trống: ______",
+            "options": [
+                "没关系",
+                "高兴",
+                "不",
+                "对不起"
+            ],
+            "answer": "不",
+            "explanation": "Từ cần điền là '不'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cái gì' vào chỗ trống: ______",
+            "options": [
+                "名字",
+                "什么",
+                "不",
+                "对不起"
+            ],
+            "answer": "什么",
+            "explanation": "Từ cần điền là '什么'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Không' vào chỗ trống: ______",
+            "options": [
+                "认识",
+                "不",
+                "什么",
+                "是"
+            ],
+            "answer": "不",
+            "explanation": "Từ cần điền là '不'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Gọi/Tên là' vào chỗ trống: ______",
+            "options": [
+                "什么",
+                "高兴",
+                "叫",
+                "名字"
+            ],
+            "answer": "叫",
+            "explanation": "Từ cần điền là '叫'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tôi' vào chỗ trống: ______",
+            "options": [
+                "我",
+                "没关系",
+                "什么",
+                "不"
+            ],
+            "answer": "我",
+            "explanation": "Từ cần điền là '我'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Không sao' vào chỗ trống: ______",
+            "options": [
+                "没关系",
+                "不",
+                "认识",
+                "我"
+            ],
+            "answer": "没关系",
+            "explanation": "Từ cần điền là '没关系'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Quen biết' vào chỗ trống: ______",
+            "options": [
+                "没关系",
+                "我",
+                "认识",
+                "什么"
+            ],
+            "answer": "认识",
+            "explanation": "Từ cần điền là '认识'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tên' vào chỗ trống: ______",
+            "options": [
+                "名字",
+                "认识",
+                "什么",
+                "叫"
+            ],
+            "answer": "名字",
+            "explanation": "Từ cần điền là '名字'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Là' vào chỗ trống: ______",
+            "options": [
+                "认识",
+                "对不起",
+                "是",
+                "名字"
+            ],
+            "answer": "是",
+            "explanation": "Từ cần điền là '是'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Vui vẻ' vào chỗ trống: ______",
+            "options": [
+                "是",
+                "名字",
+                "高兴",
+                "对不起"
+            ],
+            "answer": "高兴",
+            "explanation": "Từ cần điền là '高兴'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Xin lỗi' vào chỗ trống: ______",
+            "options": [
+                "不",
+                "高兴",
+                "我",
+                "对不起"
+            ],
+            "answer": "对不起",
+            "explanation": "Từ cần điền là '对不起'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Vui vẻ' vào chỗ trống: ______",
+            "options": [
+                "什么",
+                "不",
+                "高兴",
+                "没关系"
+            ],
+            "answer": "高兴",
+            "explanation": "Từ cần điền là '高兴'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Không sao' vào chỗ trống: ______",
+            "options": [
+                "是",
+                "没关系",
+                "名字",
+                "什么"
+            ],
+            "answer": "没关系",
+            "explanation": "Từ cần điền là '没关系'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tôi' vào chỗ trống: ______",
+            "options": [
+                "认识",
+                "高兴",
+                "我",
+                "不"
+            ],
+            "answer": "我",
+            "explanation": "Từ cần điền là '我'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cái gì' vào chỗ trống: ______",
+            "options": [
+                "什么",
+                "叫",
+                "不",
+                "名字"
+            ],
+            "answer": "什么",
+            "explanation": "Từ cần điền là '什么'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tên' vào chỗ trống: ______",
+            "options": [
+                "是",
+                "什么",
+                "名字",
+                "高兴"
+            ],
+            "answer": "名字",
+            "explanation": "Từ cần điền là '名字'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Gọi/Tên là'",
+            "options": [
+                "我是叫",
+                "我叫是",
+                "这叫是",
+                "是叫我"
+            ],
+            "answer": "我是叫",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是叫"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Quen biết'",
+            "options": [
+                "这认识是",
+                "是认识我",
+                "我是认识",
+                "我认识是"
+            ],
+            "answer": "我是认识",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是认识"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Không'",
+            "options": [
+                "这不是",
+                "这是不",
+                "我不是",
+                "是不我"
+            ],
+            "answer": "这是不",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是不"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Xin lỗi'",
+            "options": [
+                "我对不起是",
+                "我是对不起",
+                "这对不起是",
+                "是对不起我"
+            ],
+            "answer": "我是对不起",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是对不起"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Là'",
+            "options": [
+                "这是是",
+                "这是是",
+                "我是是",
+                "是是我"
+            ],
+            "answer": "这是是",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是是"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Vui vẻ'",
+            "options": [
+                "我是高兴",
+                "这高兴是",
+                "是高兴我",
+                "我高兴是"
+            ],
+            "answer": "我是高兴",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是高兴"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tôi'",
+            "options": [
+                "我我是",
+                "是我我",
+                "这是我",
+                "这我是"
+            ],
+            "answer": "这是我",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是我"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Xin lỗi'",
+            "options": [
+                "是对不起我",
+                "我是对不起",
+                "这对不起是",
+                "我对不起是"
+            ],
+            "answer": "我是对不起",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是对不起"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cái gì'",
+            "options": [
+                "我什么是",
+                "是什么我",
+                "这什么是",
+                "这是什么"
+            ],
+            "answer": "这是什么",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是什么"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tên'",
+            "options": [
+                "我是名字",
+                "这名字是",
+                "是名字我",
+                "我名字是"
+            ],
+            "answer": "我是名字",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是名字"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Không'",
+            "options": [
+                "我不是",
+                "这不是",
+                "我是不",
+                "是不我"
+            ],
+            "answer": "我是不",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是不"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Là'",
+            "options": [
+                "我是是",
+                "这是是",
+                "是是我",
+                "我是是"
+            ],
+            "answer": "我是是",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是是"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Gọi/Tên là'",
+            "options": [
+                "这是叫",
+                "是叫我",
+                "我叫是",
+                "这叫是"
+            ],
+            "answer": "这是叫",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是叫"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Quen biết'",
+            "options": [
+                "这认识是",
+                "是认识我",
+                "我认识是",
+                "我是认识"
+            ],
+            "answer": "我是认识",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是认识"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Không sao'",
+            "options": [
+                "我没关系是",
+                "是没关系我",
+                "我是没关系",
+                "这没关系是"
+            ],
+            "answer": "我是没关系",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是没关系"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 没关系。 (Tôi là Không sao)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 是。 (Tôi là Là)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 什么。 (Tôi là Cái gì)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 不。 (Tôi là Không)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 叫。 (Tôi là Gọi/Tên là)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 我。 (Tôi là Tôi)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 对不起。 (Tôi là Xin lỗi)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 名字。 (Tôi là Tên)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 高兴。 (Tôi là Vui vẻ)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Chọn trợ từ đúng: 我 __ 认识。 (Tôi là Quen biết)",
+            "options": [
+                "是",
+                "不",
+                "的",
+                "了"
+            ],
+            "answer": "是",
+            "explanation": "Đáp án đúng là 是."
+        }
+    ]
+}

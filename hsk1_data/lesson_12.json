@@ -1,0 +1,1307 @@
+{
+    "lessonId": 12,
+    "lessonTitle": "Bài 12: 昨天下雪了",
+    "totalQuestions": 100,
+    "questions": [
+        {
+            "id": 1,
+            "type": "meaning",
+            "question": "Từ '热' (rè) có nghĩa là gì?",
+            "options": [
+                "Lạnh",
+                "Cảm thấy",
+                "Thuốc",
+                "Nóng"
+            ],
+            "answer": "Nóng",
+            "explanation": "'热' nghĩa là 'Nóng'."
+        },
+        {
+            "id": 2,
+            "type": "meaning",
+            "question": "Từ '来' (lái) có nghĩa là gì?",
+            "options": [
+                "Đến",
+                "Thời tiết",
+                "Nước",
+                "Khám bệnh"
+            ],
+            "answer": "Đến",
+            "explanation": "'来' nghĩa là 'Đến'."
+        },
+        {
+            "id": 3,
+            "type": "meaning",
+            "question": "Từ '喝' (hē) có nghĩa là gì?",
+            "options": [
+                "Mưa",
+                "Uống",
+                "Hơi",
+                "Bị ốm"
+            ],
+            "answer": "Uống",
+            "explanation": "'喝' nghĩa là 'Uống'."
+        },
+        {
+            "id": 4,
+            "type": "meaning",
+            "question": "Từ '水' (shuǐ) có nghĩa là gì?",
+            "options": [
+                "Nước",
+                "Tuyết",
+                "Mưa",
+                "Khám bệnh"
+            ],
+            "answer": "Nước",
+            "explanation": "'水' nghĩa là 'Nước'."
+        },
+        {
+            "id": 5,
+            "type": "meaning",
+            "question": "Từ '冷' (lěng) có nghĩa là gì?",
+            "options": [
+                "Mưa",
+                "Lạnh",
+                "Nóng",
+                "Trời"
+            ],
+            "answer": "Lạnh",
+            "explanation": "'冷' nghĩa là 'Lạnh'."
+        },
+        {
+            "id": 6,
+            "type": "meaning",
+            "question": "Từ '生病' (shēngbìng) có nghĩa là gì?",
+            "options": [
+                "Mưa",
+                "Mưa",
+                "Hơi",
+                "Bị ốm"
+            ],
+            "answer": "Bị ốm",
+            "explanation": "'生病' nghĩa là 'Bị ốm'."
+        },
+        {
+            "id": 7,
+            "type": "meaning",
+            "question": "Từ '下雨' (xià yǔ) có nghĩa là gì?",
+            "options": [
+                "Hơi",
+                "Mưa",
+                "Khám bệnh",
+                "Về"
+            ],
+            "answer": "Mưa",
+            "explanation": "'下雨' nghĩa là 'Mưa'."
+        },
+        {
+            "id": 8,
+            "type": "meaning",
+            "question": "Từ '有点儿' (yǒudiǎnr) có nghĩa là gì?",
+            "options": [
+                "Hơi",
+                "Thời tiết",
+                "Công ty",
+                "Nóng"
+            ],
+            "answer": "Hơi",
+            "explanation": "'有点儿' nghĩa là 'Hơi'."
+        },
+        {
+            "id": 9,
+            "type": "meaning",
+            "question": "Từ '药' (yào) có nghĩa là gì?",
+            "options": [
+                "Công ty",
+                "Về",
+                "Thuốc",
+                "Mưa"
+            ],
+            "answer": "Thuốc",
+            "explanation": "'药' nghĩa là 'Thuốc'."
+        },
+        {
+            "id": 10,
+            "type": "meaning",
+            "question": "Từ '天气' (tiānqì) có nghĩa là gì?",
+            "options": [
+                "Hơi",
+                "Thời tiết",
+                "Cảm thấy",
+                "Nước"
+            ],
+            "answer": "Thời tiết",
+            "explanation": "'天气' nghĩa là 'Thời tiết'."
+        },
+        {
+            "id": 11,
+            "type": "meaning",
+            "question": "Từ '觉得' (juéde) có nghĩa là gì?",
+            "options": [
+                "Cảm thấy",
+                "Bị ốm",
+                "Trời",
+                "Uống"
+            ],
+            "answer": "Cảm thấy",
+            "explanation": "'觉得' nghĩa là 'Cảm thấy'."
+        },
+        {
+            "id": 12,
+            "type": "meaning",
+            "question": "Từ '雨' (yǔ) có nghĩa là gì?",
+            "options": [
+                "Nóng",
+                "Đến",
+                "Mưa",
+                "Công ty"
+            ],
+            "answer": "Mưa",
+            "explanation": "'雨' nghĩa là 'Mưa'."
+        },
+        {
+            "id": 13,
+            "type": "meaning",
+            "question": "Từ '天' (tiān) có nghĩa là gì?",
+            "options": [
+                "Công ty",
+                "Tuyết",
+                "Trời",
+                "Bị ốm"
+            ],
+            "answer": "Trời",
+            "explanation": "'天' nghĩa là 'Trời'."
+        },
+        {
+            "id": 14,
+            "type": "meaning",
+            "question": "Từ '看病' (kànbìng) có nghĩa là gì?",
+            "options": [
+                "Uống",
+                "Thuốc",
+                "Khám bệnh",
+                "Tuyết"
+            ],
+            "answer": "Khám bệnh",
+            "explanation": "'看病' nghĩa là 'Khám bệnh'."
+        },
+        {
+            "id": 15,
+            "type": "meaning",
+            "question": "Từ '回' (huí) có nghĩa là gì?",
+            "options": [
+                "Bị ốm",
+                "Hơi",
+                "Về",
+                "Thời tiết"
+            ],
+            "answer": "Về",
+            "explanation": "'回' nghĩa là 'Về'."
+        },
+        {
+            "id": 16,
+            "type": "meaning",
+            "question": "Từ '公司' (gōngsī) có nghĩa là gì?",
+            "options": [
+                "Công ty",
+                "Bị ốm",
+                "Nước",
+                "Mưa"
+            ],
+            "answer": "Công ty",
+            "explanation": "'公司' nghĩa là 'Công ty'."
+        },
+        {
+            "id": 17,
+            "type": "meaning",
+            "question": "Từ '雪' (xuě) có nghĩa là gì?",
+            "options": [
+                "Nóng",
+                "Tuyết",
+                "Đến",
+                "Công ty"
+            ],
+            "answer": "Tuyết",
+            "explanation": "'雪' nghĩa là 'Tuyết'."
+        },
+        {
+            "id": 18,
+            "type": "meaning",
+            "question": "Từ '天气' (tiānqì) có nghĩa là gì?",
+            "options": [
+                "Nước",
+                "Hơi",
+                "Thời tiết",
+                "Uống"
+            ],
+            "answer": "Thời tiết",
+            "explanation": "'天气' nghĩa là 'Thời tiết'."
+        },
+        {
+            "id": 19,
+            "type": "meaning",
+            "question": "Từ '觉得' (juéde) có nghĩa là gì?",
+            "options": [
+                "Công ty",
+                "Uống",
+                "Về",
+                "Cảm thấy"
+            ],
+            "answer": "Cảm thấy",
+            "explanation": "'觉得' nghĩa là 'Cảm thấy'."
+        },
+        {
+            "id": 20,
+            "type": "meaning",
+            "question": "Từ '有点儿' (yǒudiǎnr) có nghĩa là gì?",
+            "options": [
+                "Về",
+                "Hơi",
+                "Thời tiết",
+                "Công ty"
+            ],
+            "answer": "Hơi",
+            "explanation": "'有点儿' nghĩa là 'Hơi'."
+        },
+        {
+            "id": 21,
+            "type": "meaning",
+            "question": "Từ '来' (lái) có nghĩa là gì?",
+            "options": [
+                "Thuốc",
+                "Đến",
+                "Công ty",
+                "Khám bệnh"
+            ],
+            "answer": "Đến",
+            "explanation": "'来' nghĩa là 'Đến'."
+        },
+        {
+            "id": 22,
+            "type": "meaning",
+            "question": "Từ '热' (rè) có nghĩa là gì?",
+            "options": [
+                "Đến",
+                "Nóng",
+                "Bị ốm",
+                "Về"
+            ],
+            "answer": "Nóng",
+            "explanation": "'热' nghĩa là 'Nóng'."
+        },
+        {
+            "id": 23,
+            "type": "meaning",
+            "question": "Từ '生病' (shēngbìng) có nghĩa là gì?",
+            "options": [
+                "Hơi",
+                "Uống",
+                "Nóng",
+                "Bị ốm"
+            ],
+            "answer": "Bị ốm",
+            "explanation": "'生病' nghĩa là 'Bị ốm'."
+        },
+        {
+            "id": 24,
+            "type": "meaning",
+            "question": "Từ '雪' (xuě) có nghĩa là gì?",
+            "options": [
+                "Mưa",
+                "Lạnh",
+                "Tuyết",
+                "Bị ốm"
+            ],
+            "answer": "Tuyết",
+            "explanation": "'雪' nghĩa là 'Tuyết'."
+        },
+        {
+            "id": 25,
+            "type": "meaning",
+            "question": "Từ '喝' (hē) có nghĩa là gì?",
+            "options": [
+                "Uống",
+                "Công ty",
+                "Bị ốm",
+                "Tuyết"
+            ],
+            "answer": "Uống",
+            "explanation": "'喝' nghĩa là 'Uống'."
+        },
+        {
+            "id": 26,
+            "type": "meaning",
+            "question": "Từ '天' (tiān) có nghĩa là gì?",
+            "options": [
+                "Trời",
+                "Cảm thấy",
+                "Mưa",
+                "Công ty"
+            ],
+            "answer": "Trời",
+            "explanation": "'天' nghĩa là 'Trời'."
+        },
+        {
+            "id": 27,
+            "type": "meaning",
+            "question": "Từ '冷' (lěng) có nghĩa là gì?",
+            "options": [
+                "Lạnh",
+                "Mưa",
+                "Nóng",
+                "Tuyết"
+            ],
+            "answer": "Lạnh",
+            "explanation": "'冷' nghĩa là 'Lạnh'."
+        },
+        {
+            "id": 28,
+            "type": "meaning",
+            "question": "Từ '下雨' (xià yǔ) có nghĩa là gì?",
+            "options": [
+                "Khám bệnh",
+                "Lạnh",
+                "Đến",
+                "Mưa"
+            ],
+            "answer": "Mưa",
+            "explanation": "'下雨' nghĩa là 'Mưa'."
+        },
+        {
+            "id": 29,
+            "type": "meaning",
+            "question": "Từ '水' (shuǐ) có nghĩa là gì?",
+            "options": [
+                "Nước",
+                "Uống",
+                "Tuyết",
+                "Thuốc"
+            ],
+            "answer": "Nước",
+            "explanation": "'水' nghĩa là 'Nước'."
+        },
+        {
+            "id": 30,
+            "type": "meaning",
+            "question": "Từ '雨' (yǔ) có nghĩa là gì?",
+            "options": [
+                "Cảm thấy",
+                "Mưa",
+                "Bị ốm",
+                "Lạnh"
+            ],
+            "answer": "Mưa",
+            "explanation": "'雨' nghĩa là 'Mưa'."
+        },
+        {
+            "id": 31,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '公司' là:",
+            "options": [
+                "gōngsī1",
+                "gōmgsī",
+                "gōngsī1",
+                "gōngsī"
+            ],
+            "answer": "gōngsī",
+            "explanation": "'公司' đọc là gōngsī."
+        },
+        {
+            "id": 32,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '回' là:",
+            "options": [
+                "huí3",
+                "huí4",
+                "hùí",
+                "huí"
+            ],
+            "answer": "huí",
+            "explanation": "'回' đọc là huí."
+        },
+        {
+            "id": 33,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '看病' là:",
+            "options": [
+                "kànbìng",
+                "kànbìng3",
+                "kànbìng3",
+                "kàmbìmg"
+            ],
+            "answer": "kànbìng",
+            "explanation": "'看病' đọc là kànbìng."
+        },
+        {
+            "id": 34,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '药' là:",
+            "options": [
+                "yào5",
+                "yào",
+                "yàó",
+                "yào9"
+            ],
+            "answer": "yào",
+            "explanation": "'药' đọc là yào."
+        },
+        {
+            "id": 35,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '热' là:",
+            "options": [
+                "rè9",
+                "rè7",
+                "rè5",
+                "rè"
+            ],
+            "answer": "rè",
+            "explanation": "'热' đọc là rè."
+        },
+        {
+            "id": 36,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '喝' là:",
+            "options": [
+                "hē4",
+                "hē3",
+                "hē",
+                "hē4"
+            ],
+            "answer": "hē",
+            "explanation": "'喝' đọc là hē."
+        },
+        {
+            "id": 37,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '下雨' là:",
+            "options": [
+                "xià yǔ3",
+                "xìà yǔ",
+                "xià yǔ4",
+                "xià yǔ"
+            ],
+            "answer": "xià yǔ",
+            "explanation": "'下雨' đọc là xià yǔ."
+        },
+        {
+            "id": 38,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '有点儿' là:",
+            "options": [
+                "yǒudìǎnr",
+                "yǒudiǎmr",
+                "yǒudiǎnr",
+                "yǒùdiǎnr"
+            ],
+            "answer": "yǒudiǎnr",
+            "explanation": "'有点儿' đọc là yǒudiǎnr."
+        },
+        {
+            "id": 39,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '生病' là:",
+            "options": [
+                "shēmgbìmg",
+                "shēngbìng4",
+                "shēngbìng",
+                "shēngbìng4"
+            ],
+            "answer": "shēngbìng",
+            "explanation": "'生病' đọc là shēngbìng."
+        },
+        {
+            "id": 40,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '天气' là:",
+            "options": [
+                "tìānqì",
+                "tiānqì8",
+                "tiāmqì",
+                "tiānqì"
+            ],
+            "answer": "tiānqì",
+            "explanation": "'天气' đọc là tiānqì."
+        },
+        {
+            "id": 41,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '回' là:",
+            "options": [
+                "huí",
+                "huí8",
+                "hùí",
+                "huí7"
+            ],
+            "answer": "huí",
+            "explanation": "'回' đọc là huí."
+        },
+        {
+            "id": 42,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '来' là:",
+            "options": [
+                "lái7",
+                "lái",
+                "láì",
+                "lái9"
+            ],
+            "answer": "lái",
+            "explanation": "'来' đọc là lái."
+        },
+        {
+            "id": 43,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '看病' là:",
+            "options": [
+                "kàmbìmg",
+                "kànbìng8",
+                "kànbìng5",
+                "kànbìng"
+            ],
+            "answer": "kànbìng",
+            "explanation": "'看病' đọc là kànbìng."
+        },
+        {
+            "id": 44,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '冷' là:",
+            "options": [
+                "lěmg",
+                "lěng1",
+                "lěng4",
+                "lěng"
+            ],
+            "answer": "lěng",
+            "explanation": "'冷' đọc là lěng."
+        },
+        {
+            "id": 45,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '觉得' là:",
+            "options": [
+                "jùéde",
+                "juéde2",
+                "juéde",
+                "juéde5"
+            ],
+            "answer": "juéde",
+            "explanation": "'觉得' đọc là juéde."
+        },
+        {
+            "id": 46,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '天' là:",
+            "options": [
+                "tìān",
+                "tiām",
+                "tiān3",
+                "tiān"
+            ],
+            "answer": "tiān",
+            "explanation": "'天' đọc là tiān."
+        },
+        {
+            "id": 47,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '水' là:",
+            "options": [
+                "shùǐ",
+                "shuǐ3",
+                "shuǐ",
+                "shuǐ1"
+            ],
+            "answer": "shuǐ",
+            "explanation": "'水' đọc là shuǐ."
+        },
+        {
+            "id": 48,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '雪' là:",
+            "options": [
+                "xuě7",
+                "xuě",
+                "xùě",
+                "xuě7"
+            ],
+            "answer": "xuě",
+            "explanation": "'雪' đọc là xuě."
+        },
+        {
+            "id": 49,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '公司' là:",
+            "options": [
+                "gōngsī2",
+                "gōngsī5",
+                "gōmgsī",
+                "gōngsī"
+            ],
+            "answer": "gōngsī",
+            "explanation": "'公司' đọc là gōngsī."
+        },
+        {
+            "id": 50,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '药' là:",
+            "options": [
+                "yào",
+                "yào1",
+                "yào3",
+                "yàó"
+            ],
+            "answer": "yào",
+            "explanation": "'药' đọc là yào."
+        },
+        {
+            "id": 51,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '雨' là:",
+            "options": [
+                "yǔ",
+                "yǔ2",
+                "yǔ6",
+                "yǔ5"
+            ],
+            "answer": "yǔ",
+            "explanation": "'雨' đọc là yǔ."
+        },
+        {
+            "id": 52,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '热' là:",
+            "options": [
+                "rè",
+                "rè1",
+                "rè7",
+                "rè2"
+            ],
+            "answer": "rè",
+            "explanation": "'热' đọc là rè."
+        },
+        {
+            "id": 53,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '下雨' là:",
+            "options": [
+                "xìà yǔ",
+                "xià yǔ2",
+                "xià yǔ4",
+                "xià yǔ"
+            ],
+            "answer": "xià yǔ",
+            "explanation": "'下雨' đọc là xià yǔ."
+        },
+        {
+            "id": 54,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '天' là:",
+            "options": [
+                "tiān1",
+                "tìān",
+                "tiān",
+                "tiām"
+            ],
+            "answer": "tiān",
+            "explanation": "'天' đọc là tiān."
+        },
+        {
+            "id": 55,
+            "type": "pinyin",
+            "question": "Cách đọc đúng của '水' là:",
+            "options": [
+                "shuǐ9",
+                "shuǐ",
+                "shuǐ7",
+                "shùǐ"
+            ],
+            "answer": "shuǐ",
+            "explanation": "'水' đọc là shuǐ."
+        },
+        {
+            "id": 56,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thuốc' vào chỗ trống: ______",
+            "options": [
+                "药",
+                "看病",
+                "回",
+                "水"
+            ],
+            "answer": "药",
+            "explanation": "Từ cần điền là '药'."
+        },
+        {
+            "id": 57,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Uống' vào chỗ trống: ______",
+            "options": [
+                "药",
+                "喝",
+                "觉得",
+                "下雨"
+            ],
+            "answer": "喝",
+            "explanation": "Từ cần điền là '喝'."
+        },
+        {
+            "id": 58,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Công ty' vào chỗ trống: ______",
+            "options": [
+                "热",
+                "公司",
+                "觉得",
+                "雨"
+            ],
+            "answer": "公司",
+            "explanation": "Từ cần điền là '公司'."
+        },
+        {
+            "id": 59,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đến' vào chỗ trống: ______",
+            "options": [
+                "热",
+                "来",
+                "冷",
+                "下雨"
+            ],
+            "answer": "来",
+            "explanation": "Từ cần điền là '来'."
+        },
+        {
+            "id": 60,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Lạnh' vào chỗ trống: ______",
+            "options": [
+                "冷",
+                "生病",
+                "雨",
+                "药"
+            ],
+            "answer": "冷",
+            "explanation": "Từ cần điền là '冷'."
+        },
+        {
+            "id": 61,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Về' vào chỗ trống: ______",
+            "options": [
+                "觉得",
+                "回",
+                "生病",
+                "天气"
+            ],
+            "answer": "回",
+            "explanation": "Từ cần điền là '回'."
+        },
+        {
+            "id": 62,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Tuyết' vào chỗ trống: ______",
+            "options": [
+                "药",
+                "生病",
+                "雪",
+                "冷"
+            ],
+            "answer": "雪",
+            "explanation": "Từ cần điền là '雪'."
+        },
+        {
+            "id": 63,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thời tiết' vào chỗ trống: ______",
+            "options": [
+                "来",
+                "水",
+                "雪",
+                "天气"
+            ],
+            "answer": "天气",
+            "explanation": "Từ cần điền là '天气'."
+        },
+        {
+            "id": 64,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Hơi' vào chỗ trống: ______",
+            "options": [
+                "水",
+                "雨",
+                "有点儿",
+                "冷"
+            ],
+            "answer": "有点儿",
+            "explanation": "Từ cần điền là '有点儿'."
+        },
+        {
+            "id": 65,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Mưa' vào chỗ trống: ______",
+            "options": [
+                "公司",
+                "来",
+                "雨",
+                "觉得"
+            ],
+            "answer": "雨",
+            "explanation": "Từ cần điền là '雨'."
+        },
+        {
+            "id": 66,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Khám bệnh' vào chỗ trống: ______",
+            "options": [
+                "有点儿",
+                "来",
+                "下雨",
+                "看病"
+            ],
+            "answer": "看病",
+            "explanation": "Từ cần điền là '看病'."
+        },
+        {
+            "id": 67,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Cảm thấy' vào chỗ trống: ______",
+            "options": [
+                "来",
+                "热",
+                "觉得",
+                "药"
+            ],
+            "answer": "觉得",
+            "explanation": "Từ cần điền là '觉得'."
+        },
+        {
+            "id": 68,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bị ốm' vào chỗ trống: ______",
+            "options": [
+                "公司",
+                "药",
+                "下雨",
+                "生病"
+            ],
+            "answer": "生病",
+            "explanation": "Từ cần điền là '生病'."
+        },
+        {
+            "id": 69,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Đến' vào chỗ trống: ______",
+            "options": [
+                "水",
+                "有点儿",
+                "来",
+                "天气"
+            ],
+            "answer": "来",
+            "explanation": "Từ cần điền là '来'."
+        },
+        {
+            "id": 70,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Uống' vào chỗ trống: ______",
+            "options": [
+                "水",
+                "天",
+                "喝",
+                "天气"
+            ],
+            "answer": "喝",
+            "explanation": "Từ cần điền là '喝'."
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Bị ốm' vào chỗ trống: ______",
+            "options": [
+                "有点儿",
+                "雪",
+                "生病",
+                "天"
+            ],
+            "answer": "生病",
+            "explanation": "Từ cần điền là '生病'."
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Công ty' vào chỗ trống: ______",
+            "options": [
+                "下雨",
+                "天",
+                "公司",
+                "回"
+            ],
+            "answer": "公司",
+            "explanation": "Từ cần điền là '公司'."
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Nóng' vào chỗ trống: ______",
+            "options": [
+                "生病",
+                "公司",
+                "下雨",
+                "热"
+            ],
+            "answer": "热",
+            "explanation": "Từ cần điền là '热'."
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Về' vào chỗ trống: ______",
+            "options": [
+                "生病",
+                "雪",
+                "雨",
+                "回"
+            ],
+            "answer": "回",
+            "explanation": "Từ cần điền là '回'."
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "Điền từ có nghĩa 'Thời tiết' vào chỗ trống: ______",
+            "options": [
+                "天",
+                "天气",
+                "来",
+                "觉得"
+            ],
+            "answer": "天气",
+            "explanation": "Từ cần điền là '天气'."
+        },
+        {
+            "id": 76,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Thuốc'",
+            "options": [
+                "我是药",
+                "我药是",
+                "是药我",
+                "这药是"
+            ],
+            "answer": "我是药",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是药"
+        },
+        {
+            "id": 77,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Khám bệnh'",
+            "options": [
+                "这看病是",
+                "我是看病",
+                "是看病我",
+                "我看病是"
+            ],
+            "answer": "我是看病",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是看病"
+        },
+        {
+            "id": 78,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Lạnh'",
+            "options": [
+                "我是冷",
+                "我冷是",
+                "这冷是",
+                "是冷我"
+            ],
+            "answer": "我是冷",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是冷"
+        },
+        {
+            "id": 79,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cảm thấy'",
+            "options": [
+                "这觉得是",
+                "是觉得我",
+                "我觉得是",
+                "这是觉得"
+            ],
+            "answer": "这是觉得",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是觉得"
+        },
+        {
+            "id": 80,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nước'",
+            "options": [
+                "我水是",
+                "这水是",
+                "我是水",
+                "是水我"
+            ],
+            "answer": "我是水",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是水"
+        },
+        {
+            "id": 81,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Trời'",
+            "options": [
+                "我天是",
+                "我是天",
+                "这天是",
+                "是天我"
+            ],
+            "answer": "我是天",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是天"
+        },
+        {
+            "id": 82,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Mưa'",
+            "options": [
+                "这下雨是",
+                "我下雨是",
+                "是下雨我",
+                "我是下雨"
+            ],
+            "answer": "我是下雨",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是下雨"
+        },
+        {
+            "id": 83,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Mưa'",
+            "options": [
+                "这雨是",
+                "我雨是",
+                "是雨我",
+                "我是雨"
+            ],
+            "answer": "我是雨",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是雨"
+        },
+        {
+            "id": 84,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tuyết'",
+            "options": [
+                "我是雪",
+                "是雪我",
+                "我雪是",
+                "这雪是"
+            ],
+            "answer": "我是雪",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是雪"
+        },
+        {
+            "id": 85,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Hơi'",
+            "options": [
+                "我有点儿是",
+                "这是有点儿",
+                "是有点儿我",
+                "这有点儿是"
+            ],
+            "answer": "这是有点儿",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是有点儿"
+        },
+        {
+            "id": 86,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tuyết'",
+            "options": [
+                "我雪是",
+                "这是雪",
+                "是雪我",
+                "这雪是"
+            ],
+            "answer": "这是雪",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是雪"
+        },
+        {
+            "id": 87,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bị ốm'",
+            "options": [
+                "是生病我",
+                "这生病是",
+                "我是生病",
+                "我生病是"
+            ],
+            "answer": "我是生病",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是生病"
+        },
+        {
+            "id": 88,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cảm thấy'",
+            "options": [
+                "我觉得是",
+                "这觉得是",
+                "这是觉得",
+                "是觉得我"
+            ],
+            "answer": "这是觉得",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是觉得"
+        },
+        {
+            "id": 89,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Khám bệnh'",
+            "options": [
+                "我是看病",
+                "是看病我",
+                "我看病是",
+                "这看病是"
+            ],
+            "answer": "我是看病",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是看病"
+        },
+        {
+            "id": 90,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Công ty'",
+            "options": [
+                "这是公司",
+                "是公司我",
+                "我公司是",
+                "这公司是"
+            ],
+            "answer": "这是公司",
+            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是公司"
+        },
+        {
+            "id": 91,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 下雨 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 92,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 雨 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 93,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 水 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 94,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 天气 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 95,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 来 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 96,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 热 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 97,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 冷 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 98,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 有点儿 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 99,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 天 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        },
+        {
+            "id": 100,
+            "type": "grammar",
+            "question": "Sắp xếp đúng: 1. 我 2. 药 3. 喜欢",
+            "options": [
+                "1-2-3",
+                "1-3-2",
+                "3-1-2",
+                "2-1-3"
+            ],
+            "answer": "1-3-2",
+            "explanation": "Đáp án đúng là 1-3-2."
+        }
+    ]
+}
