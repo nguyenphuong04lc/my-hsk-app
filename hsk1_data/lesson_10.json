@@ -1,1307 +1,423 @@
 {
     "lessonId": 10,
-    "lessonTitle": "Bài 10: 这儿的苹果真便宜",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 10: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
             "type": "meaning",
-            "question": "Từ '块' (kuài) có nghĩa là gì?",
+            "question": "Từ nào có nghĩa là “Những cái kia”?",
             "options": [
-                "Cân",
-                "Nhân viên bán hàng",
-                "Những cái kia",
-                "Đồng (tiền)"
+                "杯子 (bēizi)",
+                "那些 (nàxiē)",
+                "这儿 (zhèr)",
+                "块 (kuài)"
             ],
-            "answer": "Đồng (tiền)",
-            "explanation": "'块' nghĩa là 'Đồng (tiền)'."
+            "answer": "那些 (nàxiē)",
+            "explanation": "“Những cái kia” là “那些” (nàxiē).",
+            "id": 1
         },
         {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '少' (shǎo) có nghĩa là gì?",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
             "options": [
-                "Đồng (tiền)",
-                "Cân",
-                "Ít",
-                "Ở đây"
+                "你好吗？了",
+                "？吗好你",
+                "你好吗？",
+                "我好吗？"
             ],
-            "answer": "Ít",
-            "explanation": "'少' nghĩa là 'Ít'."
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 2
         },
         {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '便宜' (piányi) có nghĩa là gì?",
-            "options": [
-                "Hoa quả",
-                "Nhân viên bán hàng",
-                "Rẻ",
-                "Ở đây"
-            ],
-            "answer": "Rẻ",
-            "explanation": "'便宜' nghĩa là 'Rẻ'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '苹果' (píngguǒ) có nghĩa là gì?",
-            "options": [
-                "Táo",
-                "Ở đây",
-                "Cái cốc",
-                "Những cái này"
-            ],
-            "answer": "Táo",
-            "explanation": "'苹果' nghĩa là 'Táo'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '这些' (zhèxiē) có nghĩa là gì?",
-            "options": [
-                "Tiền",
-                "Rẻ",
-                "Những cái này",
-                "Ít"
-            ],
-            "answer": "Những cái này",
-            "explanation": "'这些' nghĩa là 'Những cái này'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '杯子' (bēizi) có nghĩa là gì?",
-            "options": [
-                "Cái cốc",
-                "Rẻ",
-                "Cân",
-                "Hoa quả"
-            ],
-            "answer": "Cái cốc",
-            "explanation": "'杯子' nghĩa là 'Cái cốc'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '这儿' (zhèr) có nghĩa là gì?",
-            "options": [
-                "Ở đây",
-                "Tiền",
-                "Cân",
-                "Nhân viên bán hàng"
-            ],
-            "answer": "Ở đây",
-            "explanation": "'这儿' nghĩa là 'Ở đây'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '水果' (shuǐguǒ) có nghĩa là gì?",
-            "options": [
-                "Cân",
-                "Tiền",
-                "Hoa quả",
-                "Cái cốc"
-            ],
-            "answer": "Hoa quả",
-            "explanation": "'水果' nghĩa là 'Hoa quả'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '售货员' (shòuhuòyuán) có nghĩa là gì?",
-            "options": [
-                "Táo",
-                "Những cái kia",
-                "Cân",
-                "Nhân viên bán hàng"
-            ],
-            "answer": "Nhân viên bán hàng",
-            "explanation": "'售货员' nghĩa là 'Nhân viên bán hàng'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '钱' (qián) có nghĩa là gì?",
-            "options": [
-                "Những cái kia",
-                "Táo",
-                "Ở đây",
-                "Tiền"
-            ],
-            "answer": "Tiền",
-            "explanation": "'钱' nghĩa là 'Tiền'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '斤' (jīn) có nghĩa là gì?",
-            "options": [
-                "Đồng (tiền)",
-                "Tiền",
-                "Ít",
-                "Cân"
-            ],
-            "answer": "Cân",
-            "explanation": "'斤' nghĩa là 'Cân'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '那些' (nàxiē) có nghĩa là gì?",
-            "options": [
-                "Những cái kia",
-                "Những cái này",
-                "Cân",
-                "Hoa quả"
-            ],
-            "answer": "Những cái kia",
-            "explanation": "'那些' nghĩa là 'Những cái kia'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '苹果' (píngguǒ) có nghĩa là gì?",
-            "options": [
-                "Rẻ",
-                "Táo",
-                "Cái cốc",
-                "Nhân viên bán hàng"
-            ],
-            "answer": "Táo",
-            "explanation": "'苹果' nghĩa là 'Táo'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '那些' (nàxiē) có nghĩa là gì?",
-            "options": [
-                "Cái cốc",
-                "Đồng (tiền)",
-                "Rẻ",
-                "Những cái kia"
-            ],
-            "answer": "Những cái kia",
-            "explanation": "'那些' nghĩa là 'Những cái kia'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '斤' (jīn) có nghĩa là gì?",
-            "options": [
-                "Cân",
-                "Cái cốc",
-                "Những cái này",
-                "Tiền"
-            ],
-            "answer": "Cân",
-            "explanation": "'斤' nghĩa là 'Cân'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '块' (kuài) có nghĩa là gì?",
-            "options": [
-                "Rẻ",
-                "Ít",
-                "Đồng (tiền)",
-                "Cái cốc"
-            ],
-            "answer": "Đồng (tiền)",
-            "explanation": "'块' nghĩa là 'Đồng (tiền)'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '杯子' (bēizi) có nghĩa là gì?",
-            "options": [
-                "Ít",
-                "Những cái này",
-                "Nhân viên bán hàng",
-                "Cái cốc"
-            ],
-            "answer": "Cái cốc",
-            "explanation": "'杯子' nghĩa là 'Cái cốc'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '这儿' (zhèr) có nghĩa là gì?",
-            "options": [
-                "Hoa quả",
-                "Ở đây",
-                "Nhân viên bán hàng",
-                "Những cái kia"
-            ],
-            "answer": "Ở đây",
-            "explanation": "'这儿' nghĩa là 'Ở đây'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '少' (shǎo) có nghĩa là gì?",
-            "options": [
-                "Táo",
-                "Ít",
-                "Cân",
-                "Ở đây"
-            ],
-            "answer": "Ít",
-            "explanation": "'少' nghĩa là 'Ít'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '水果' (shuǐguǒ) có nghĩa là gì?",
-            "options": [
-                "Táo",
-                "Đồng (tiền)",
-                "Hoa quả",
-                "Những cái kia"
-            ],
-            "answer": "Hoa quả",
-            "explanation": "'水果' nghĩa là 'Hoa quả'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '售货员' (shòuhuòyuán) có nghĩa là gì?",
-            "options": [
-                "Cái cốc",
-                "Tiền",
-                "Nhân viên bán hàng",
-                "Những cái này"
-            ],
-            "answer": "Nhân viên bán hàng",
-            "explanation": "'售货员' nghĩa là 'Nhân viên bán hàng'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '便宜' (piányi) có nghĩa là gì?",
-            "options": [
-                "Cân",
-                "Ít",
-                "Rẻ",
-                "Ở đây"
-            ],
-            "answer": "Rẻ",
-            "explanation": "'便宜' nghĩa là 'Rẻ'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '钱' (qián) có nghĩa là gì?",
-            "options": [
-                "Táo",
-                "Cân",
-                "Tiền",
-                "Hoa quả"
-            ],
-            "answer": "Tiền",
-            "explanation": "'钱' nghĩa là 'Tiền'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '这些' (zhèxiē) có nghĩa là gì?",
-            "options": [
-                "Tiền",
-                "Những cái này",
-                "Ít",
-                "Cân"
-            ],
-            "answer": "Những cái này",
-            "explanation": "'这些' nghĩa là 'Những cái này'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '少' (shǎo) có nghĩa là gì?",
-            "options": [
-                "Nhân viên bán hàng",
-                "Ít",
-                "Những cái này",
-                "Những cái kia"
-            ],
-            "answer": "Ít",
-            "explanation": "'少' nghĩa là 'Ít'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '便宜' (piányi) có nghĩa là gì?",
-            "options": [
-                "Rẻ",
-                "Ít",
-                "Hoa quả",
-                "Đồng (tiền)"
-            ],
-            "answer": "Rẻ",
-            "explanation": "'便宜' nghĩa là 'Rẻ'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '售货员' (shòuhuòyuán) có nghĩa là gì?",
-            "options": [
-                "Ở đây",
-                "Hoa quả",
-                "Nhân viên bán hàng",
-                "Tiền"
-            ],
-            "answer": "Nhân viên bán hàng",
-            "explanation": "'售货员' nghĩa là 'Nhân viên bán hàng'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '那些' (nàxiē) có nghĩa là gì?",
-            "options": [
-                "Những cái kia",
-                "Táo",
-                "Đồng (tiền)",
-                "Ở đây"
-            ],
-            "answer": "Những cái kia",
-            "explanation": "'那些' nghĩa là 'Những cái kia'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '这些' (zhèxiē) có nghĩa là gì?",
-            "options": [
-                "Cái cốc",
-                "Tiền",
-                "Những cái này",
-                "Cân"
-            ],
-            "answer": "Những cái này",
-            "explanation": "'这些' nghĩa là 'Những cái này'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '钱' (qián) có nghĩa là gì?",
-            "options": [
-                "Những cái kia",
-                "Những cái này",
-                "Rẻ",
-                "Tiền"
-            ],
-            "answer": "Tiền",
-            "explanation": "'钱' nghĩa là 'Tiền'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '杯子' là:",
-            "options": [
-                "bēizi",
-                "bēizi2",
-                "bēizi8",
-                "bēìzì"
-            ],
-            "answer": "bēizi",
-            "explanation": "'杯子' đọc là bēizi."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '斤' là:",
-            "options": [
-                "jīn6",
-                "jīn2",
-                "jīn",
-                "jīm"
-            ],
-            "answer": "jīn",
-            "explanation": "'斤' đọc là jīn."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '这儿' là:",
-            "options": [
-                "zhèr2",
-                "zhèr",
-                "zhèr7",
-                "zhèr2"
-            ],
-            "answer": "zhèr",
-            "explanation": "'这儿' đọc là zhèr."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '块' là:",
-            "options": [
-                "kuài3",
-                "kuàì",
-                "kuài",
-                "kùài"
-            ],
-            "answer": "kuài",
-            "explanation": "'块' đọc là kuài."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '苹果' là:",
-            "options": [
-                "pímgguǒ",
-                "píngguǒ",
-                "píngguǒ3",
-                "pínggùǒ"
-            ],
-            "answer": "píngguǒ",
-            "explanation": "'苹果' đọc là píngguǒ."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '水果' là:",
-            "options": [
-                "shuǐguǒ7",
-                "shuǐguǒ",
-                "shùǐgùǒ",
-                "shuǐguǒ9"
-            ],
-            "answer": "shuǐguǒ",
-            "explanation": "'水果' đọc là shuǐguǒ."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '便宜' là:",
-            "options": [
-                "piányi9",
-                "piámyi",
-                "piányi",
-                "pìányì"
-            ],
-            "answer": "piányi",
-            "explanation": "'便宜' đọc là piányi."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '这儿' là:",
-            "options": [
-                "zhèr",
-                "zhèr3",
-                "zhèr2",
-                "zhèr3"
-            ],
-            "answer": "zhèr",
-            "explanation": "'这儿' đọc là zhèr."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '斤' là:",
-            "options": [
-                "jīm",
-                "jīn",
-                "jīn4",
-                "jīn5"
-            ],
-            "answer": "jīn",
-            "explanation": "'斤' đọc là jīn."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '那些' là:",
-            "options": [
-                "màxiē",
-                "nàxiē3",
-                "nàxìē",
-                "nàxiē"
-            ],
-            "answer": "nàxiē",
-            "explanation": "'那些' đọc là nàxiē."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '苹果' là:",
-            "options": [
-                "pínggùǒ",
-                "pímgguǒ",
-                "píngguǒ",
-                "píngguǒ6"
-            ],
-            "answer": "píngguǒ",
-            "explanation": "'苹果' đọc là píngguǒ."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '少' là:",
-            "options": [
-                "shǎo",
-                "shǎo8",
-                "shǎo9",
-                "shǎó"
-            ],
-            "answer": "shǎo",
-            "explanation": "'少' đọc là shǎo."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '杯子' là:",
-            "options": [
-                "bēizi7",
-                "bēizi2",
-                "bēizi",
-                "bēìzì"
-            ],
-            "answer": "bēizi",
-            "explanation": "'杯子' đọc là bēizi."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '钱' là:",
-            "options": [
-                "qiám",
-                "qián8",
-                "qìán",
-                "qián"
-            ],
-            "answer": "qián",
-            "explanation": "'钱' đọc là qián."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '售货员' là:",
-            "options": [
-                "shòuhuòyuán4",
-                "shòùhùòyùán",
-                "shòuhuòyuám",
-                "shòuhuòyuán"
-            ],
-            "answer": "shòuhuòyuán",
-            "explanation": "'售货员' đọc là shòuhuòyuán."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '块' là:",
-            "options": [
-                "kuài6",
-                "kùài",
-                "kuàì",
-                "kuài"
-            ],
-            "answer": "kuài",
-            "explanation": "'块' đọc là kuài."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '水果' là:",
-            "options": [
-                "shuǐguǒ",
-                "shùǐgùǒ",
-                "shuǐguǒ4",
-                "shuǐguǒ3"
-            ],
-            "answer": "shuǐguǒ",
-            "explanation": "'水果' đọc là shuǐguǒ."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '这些' là:",
-            "options": [
-                "zhèxiē1",
-                "zhèxiē8",
-                "zhèxìē",
-                "zhèxiē"
-            ],
-            "answer": "zhèxiē",
-            "explanation": "'这些' đọc là zhèxiē."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '钱' là:",
-            "options": [
-                "qiám",
-                "qián2",
-                "qián",
-                "qìán"
-            ],
-            "answer": "qián",
-            "explanation": "'钱' đọc là qián."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '少' là:",
-            "options": [
-                "shǎo",
-                "shǎo6",
-                "shǎó",
-                "shǎo4"
-            ],
-            "answer": "shǎo",
-            "explanation": "'少' đọc là shǎo."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '杯子' là:",
-            "options": [
-                "bēizi6",
-                "bēizi6",
-                "bēizi",
-                "bēìzì"
-            ],
-            "answer": "bēizi",
-            "explanation": "'杯子' đọc là bēizi."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '那些' là:",
-            "options": [
-                "nàxiē7",
-                "nàxìē",
-                "nàxiē",
-                "màxiē"
-            ],
-            "answer": "nàxiē",
-            "explanation": "'那些' đọc là nàxiē."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '售货员' là:",
-            "options": [
-                "shòuhuòyuán",
-                "shòuhuòyuán1",
-                "shòuhuòyuám",
-                "shòùhùòyùán"
-            ],
-            "answer": "shòuhuòyuán",
-            "explanation": "'售货员' đọc là shòuhuòyuán."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '块' là:",
-            "options": [
-                "kuài",
-                "kuài9",
-                "kuàì",
-                "kùài"
-            ],
-            "answer": "kuài",
-            "explanation": "'块' đọc là kuài."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '这儿' là:",
-            "options": [
-                "zhèr5",
-                "zhèr",
-                "zhèr7",
-                "zhèr4"
-            ],
-            "answer": "zhèr",
-            "explanation": "'这儿' đọc là zhèr."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Những cái này' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
             "options": [
-                "苹果",
+                "杯子",
+                "水果",
                 "售货员",
-                "这些",
-                "斤"
-            ],
-            "answer": "这些",
-            "explanation": "Từ cần điền là '这些'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Rẻ' vào chỗ trống: ______",
-            "options": [
-                "便宜",
-                "块",
-                "钱",
-                "杯子"
-            ],
-            "answer": "便宜",
-            "explanation": "Từ cần điền là '便宜'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cân' vào chỗ trống: ______",
-            "options": [
-                "售货员",
-                "斤",
-                "钱",
-                "水果"
-            ],
-            "answer": "斤",
-            "explanation": "Từ cần điền là '斤'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Táo' vào chỗ trống: ______",
-            "options": [
-                "这儿",
-                "苹果",
-                "杯子",
-                "块"
-            ],
-            "answer": "苹果",
-            "explanation": "Từ cần điền là '苹果'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Hoa quả' vào chỗ trống: ______",
-            "options": [
-                "这些",
-                "水果",
-                "少",
-                "那些"
-            ],
-            "answer": "水果",
-            "explanation": "Từ cần điền là '水果'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cân' vào chỗ trống: ______",
-            "options": [
-                "便宜",
-                "斤",
-                "杯子",
-                "少"
-            ],
-            "answer": "斤",
-            "explanation": "Từ cần điền là '斤'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Những cái kia' vào chỗ trống: ______",
-            "options": [
-                "水果",
-                "那些",
-                "苹果",
-                "钱"
-            ],
-            "answer": "那些",
-            "explanation": "Từ cần điền là '那些'."
-        },
-        {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Hoa quả' vào chỗ trống: ______",
-            "options": [
-                "钱",
-                "水果",
-                "那些",
-                "便宜"
-            ],
-            "answer": "水果",
-            "explanation": "Từ cần điền là '水果'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ở đây' vào chỗ trống: ______",
-            "options": [
-                "杯子",
-                "块",
-                "这儿",
-                "水果"
-            ],
-            "answer": "这儿",
-            "explanation": "Từ cần điền là '这儿'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Những cái này' vào chỗ trống: ______",
-            "options": [
-                "苹果",
-                "少",
-                "这些",
-                "水果"
-            ],
-            "answer": "这些",
-            "explanation": "Từ cần điền là '这些'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhân viên bán hàng' vào chỗ trống: ______",
-            "options": [
-                "钱",
-                "这些",
-                "杯子",
-                "售货员"
-            ],
-            "answer": "售货员",
-            "explanation": "Từ cần điền là '售货员'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Táo' vào chỗ trống: ______",
-            "options": [
-                "水果",
-                "便宜",
-                "苹果",
-                "杯子"
-            ],
-            "answer": "苹果",
-            "explanation": "Từ cần điền là '苹果'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ít' vào chỗ trống: ______",
-            "options": [
-                "少",
-                "钱",
-                "杯子",
-                "售货员"
-            ],
-            "answer": "少",
-            "explanation": "Từ cần điền là '少'."
-        },
-        {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tiền' vào chỗ trống: ______",
-            "options": [
-                "杯子",
-                "钱",
-                "那些",
-                "水果"
-            ],
-            "answer": "钱",
-            "explanation": "Từ cần điền là '钱'."
-        },
-        {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Rẻ' vào chỗ trống: ______",
-            "options": [
-                "斤",
-                "少",
-                "这儿",
-                "便宜"
-            ],
-            "answer": "便宜",
-            "explanation": "Từ cần điền là '便宜'."
-        },
-        {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đồng (tiền)' vào chỗ trống: ______",
-            "options": [
-                "这儿",
-                "苹果",
-                "斤",
-                "块"
-            ],
-            "answer": "块",
-            "explanation": "Từ cần điền là '块'."
-        },
-        {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cái cốc' vào chỗ trống: ______",
-            "options": [
-                "块",
-                "这儿",
-                "斤",
-                "杯子"
+                "这儿"
             ],
             "answer": "杯子",
-            "explanation": "Từ cần điền là '杯子'."
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 3
         },
         {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đồng (tiền)' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 4
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “售货员” (shòuhuòyuán) có nghĩa là gì?",
+            "options": [
+                "Cái cốc",
+                "Những cái này",
+                "Tiền",
+                "Nhân viên"
+            ],
+            "answer": "Nhân viên",
+            "explanation": "“售货员” nghĩa là “Nhân viên”.",
+            "id": 5
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Động từ + Chủ ngữ + Tân ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 6
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "你好",
+                "你好了",
+                "好你",
+                "我好"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 7
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “这些” (zhèxiē) có nghĩa là gì?",
+            "options": [
+                "Ở đây",
+                "Những cái này",
+                "Tiền",
+                "Đồng"
+            ],
+            "answer": "Những cái này",
+            "explanation": "“这些” nghĩa là “Những cái này”.",
+            "id": 8
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
+            "options": [
+                "见再",
+                "再见",
+                "Đáp án sai",
+                "再见了"
+            ],
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 9
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
+            "options": [
+                "这儿",
+                "那些",
+                "杯子",
+                "这些"
+            ],
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 10
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Đồng”?",
+            "options": [
+                "块 (kuài)",
+                "钱 (qián)",
+                "杯子 (bēizi)",
+                "售货员 (shòuhuòyuán)"
+            ],
+            "answer": "块 (kuài)",
+            "explanation": "“Đồng” là “块” (kuài).",
+            "id": 11
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “钱” (qián) có nghĩa là gì?",
+            "options": [
+                "Tiền",
+                "Đồng",
+                "Nhân viên",
+                "Cái cốc"
+            ],
+            "answer": "Tiền",
+            "explanation": "“钱” nghĩa là “Tiền”.",
+            "id": 12
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
+            "options": [
+                "果苹吃欢喜我",
+                "他喜欢吃苹果",
+                "我喜欢吃苹果了",
+                "我喜欢吃苹果"
+            ],
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 13
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "不",
+                "无",
+                "别",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 14
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
+            "options": [
+                "这儿",
                 "杯子",
                 "块",
-                "售货员",
-                "钱"
-            ],
-            "answer": "块",
-            "explanation": "Từ cần điền là '块'."
-        },
-        {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhân viên bán hàng' vào chỗ trống: ______",
-            "options": [
-                "这些",
-                "杯子",
-                "斤",
                 "售货员"
             ],
-            "answer": "售货员",
-            "explanation": "Từ cần điền là '售货员'."
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 15
         },
         {
-            "id": 75,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ít' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ “杯子” (bēizi) có nghĩa là gì?",
             "options": [
-                "苹果",
-                "少",
+                "Ở đây",
+                "Đồng",
+                "Tiền",
+                "Cái cốc"
+            ],
+            "answer": "Cái cốc",
+            "explanation": "“杯子” nghĩa là “Cái cốc”.",
+            "id": 16
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "我是学生",
+                "他是学生",
+                "生学是我",
+                "我是学生了"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 17
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "没",
+                "不",
+                "别",
+                "无"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 18
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
+            "options": [
+                "那些",
+                "块",
+                "杯子",
+                "这儿"
+            ],
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 19
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
+            "options": [
+                "售货员",
                 "这儿",
+                "杯子",
                 "水果"
             ],
-            "answer": "少",
-            "explanation": "Từ cần điền là '少'."
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 20
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Những cái kia'",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
             "options": [
-                "这那些是",
-                "我那些是",
-                "是那些我",
-                "我是那些"
+                "那些",
+                "杯子",
+                "这些",
+                "水果"
             ],
-            "answer": "我是那些",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是那些"
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 21
         },
         {
-            "id": 77,
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cân'",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
             "options": [
-                "这斤是",
-                "我斤是",
-                "我是斤",
-                "是斤我"
+                "这是我的书了",
+                "这是我的书",
+                "书的我是这",
+                "这是他的书"
             ],
-            "answer": "我是斤",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是斤"
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 22
         },
         {
-            "id": 78,
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
+                "杯子",
+                "水果",
+                "这些",
+                "这儿"
+            ],
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 23
+        },
+        {
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cái cốc'",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "我杯子是",
-                "这是杯子",
-                "这杯子是",
-                "是杯子我"
+                "Đáp án sai",
+                "谢谢了",
+                "Đáp án sai",
+                "谢谢"
             ],
-            "answer": "这是杯子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是杯子"
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 24
         },
         {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Những cái này'",
-            "options": [
-                "这是这些",
-                "我这些是",
-                "是这些我",
-                "这这些是"
-            ],
-            "answer": "这是这些",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是这些"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Táo'",
-            "options": [
-                "这苹果是",
-                "我是苹果",
-                "我苹果是",
-                "是苹果我"
-            ],
-            "answer": "我是苹果",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是苹果"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Hoa quả'",
-            "options": [
-                "我水果是",
-                "这水果是",
-                "是水果我",
-                "我是水果"
-            ],
-            "answer": "我是水果",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是水果"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Ở đây'",
-            "options": [
-                "我这儿是",
-                "是这儿我",
-                "这这儿是",
-                "我是这儿"
-            ],
-            "answer": "我是这儿",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是这儿"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tiền'",
-            "options": [
-                "我是钱",
-                "是钱我",
-                "这钱是",
-                "我钱是"
-            ],
-            "answer": "我是钱",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是钱"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Rẻ'",
-            "options": [
-                "这便宜是",
-                "我便宜是",
-                "我是便宜",
-                "是便宜我"
-            ],
-            "answer": "我是便宜",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是便宜"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nhân viên bán hàng'",
-            "options": [
-                "我是售货员",
-                "是售货员我",
-                "这售货员是",
-                "我售货员是"
-            ],
-            "answer": "我是售货员",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是售货员"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Những cái này'",
-            "options": [
-                "这这些是",
-                "我是这些",
-                "是这些我",
-                "我这些是"
-            ],
-            "answer": "我是这些",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是这些"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cân'",
-            "options": [
-                "是斤我",
-                "这斤是",
-                "这是斤",
-                "我斤是"
-            ],
-            "answer": "这是斤",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是斤"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tiền'",
-            "options": [
-                "我钱是",
-                "是钱我",
-                "这是钱",
-                "这钱是"
-            ],
-            "answer": "这是钱",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是钱"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cái cốc'",
-            "options": [
-                "这是杯子",
-                "这杯子是",
-                "是杯子我",
-                "我杯子是"
-            ],
-            "answer": "这是杯子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是杯子"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đồng (tiền)'",
-            "options": [
-                "是块我",
-                "这块是",
-                "我是块",
-                "我块是"
-            ],
-            "answer": "我是块",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是块"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 少。 (Một Ít)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "别",
+                "无",
+                "没",
+                "不"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 25
         },
         {
-            "id": 92,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 水果。 (Một Hoa quả)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Ở đây”?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "这儿 (zhèr)",
+                "售货员 (shòuhuòyuán)",
+                "杯子 (bēizi)",
+                "水果 (shuǐguǒ)"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "这儿 (zhèr)",
+            "explanation": "“Ở đây” là “这儿” (zhèr).",
+            "id": 26
         },
         {
-            "id": 93,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 苹果。 (Một Táo)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "无",
+                "没",
+                "别",
+                "不"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 27
         },
         {
-            "id": 94,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 便宜。 (Một Rẻ)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "今天星期几？",
+                "？几期星天今",
+                "Đáp án sai",
+                "今天星期几？了"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 28
         },
         {
-            "id": 95,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 这儿。 (Một Ở đây)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Hoa quả”?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "那些 (nàxiē)",
+                "钱 (qián)",
+                "块 (kuài)",
+                "水果 (shuǐguǒ)"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "水果 (shuǐguǒ)",
+            "explanation": "“Hoa quả” là “水果” (shuǐguǒ).",
+            "id": 29
         },
         {
-            "id": 96,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 那些。 (Một Những cái kia)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 30
         },
         {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 水果。 (Một Hoa quả)",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "这儿",
+                "杯子",
+                "那些",
+                "售货员"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "杯子",
+            "explanation": "Đáp án đúng là “杯子” (Cái cốc).",
+            "id": 31
         },
         {
-            "id": 98,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 那些。 (Một Những cái kia)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 99,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 这儿。 (Một Ở đây)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 斤。 (Một Cân)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 32
         }
     ]
 }

@@ -1,0 +1,423 @@
+{
+    "lessonId": 5,
+    "lessonTitle": "Bài 5: HSK 2 - Ôn tập",
+    "totalQuestions": 32,
+    "questions": [
+        {
+            "type": "meaning",
+            "question": "Từ “接” (jiē) có nghĩa là gì?",
+            "options": [
+                "Đã rồi",
+                "Đón",
+                "Chính là",
+                "Cho"
+            ],
+            "answer": "Đón",
+            "explanation": "“接” nghĩa là “Đón”.",
+            "id": 1
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这个多少钱？ (Nghĩa: Cái này bao nhiêu tiền?)",
+            "options": [
+                "就",
+                "次",
+                "旅游",
+                "让"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 2
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想请你帮个忙",
+                "我想你帮忙",
+                "你帮我个忙想",
+                "我请你帮个忙吗"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 3
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n他是中国人 (Nghĩa: Anh ấy là người Trung Quốc)",
+            "options": [
+                "接",
+                "就",
+                "给",
+                "已经"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 4
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích uống cà phê”",
+            "options": [
+                "我喜欢喝咖啡了",
+                "啡咖喝欢喜我",
+                "我喜欢喝咖啡",
+                "他喜欢喝咖啡"
+            ],
+            "answer": "我喜欢喝咖啡",
+            "explanation": "Câu đúng là: 我喜欢喝咖啡",
+            "id": 5
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay trời rất đẹp”",
+            "options": [
+                "Đáp án sai",
+                "今天天气很好",
+                "好很气天天今",
+                "今天天气很好了"
+            ],
+            "answer": "今天天气很好",
+            "explanation": "Câu đúng là: 今天天气很好",
+            "id": 6
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我请你帮个忙吗",
+                "你帮我个忙想",
+                "我想你帮忙",
+                "我想请你帮个忙"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 7
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想请你帮个忙",
+                "我想你帮忙",
+                "你帮我个忙想",
+                "我请你帮个忙吗"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 8
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Đã rồi”?",
+            "options": [
+                "帮忙 (bāngmáng)",
+                "就 (jiù)",
+                "让 (ràng)",
+                "已经 (yǐjīng)"
+            ],
+            "answer": "已经 (yǐjīng)",
+            "explanation": "“Đã rồi” là “已经” (yǐjīng).",
+            "id": 9
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想你帮忙",
+                "我请你帮个忙吗",
+                "你帮我个忙想",
+                "我想请你帮个忙"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 10
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Lần”?",
+            "options": [
+                "给 (gěi)",
+                "旅游 (lǚyóu)",
+                "就 (jiù)",
+                "次 (cì)"
+            ],
+            "answer": "次 (cì)",
+            "explanation": "“Lần” là “次” (cì).",
+            "id": 11
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我们是来______的 (Nghĩa: Chúng tôi đến du lịch)",
+            "options": [
+                "就",
+                "给",
+                "已经",
+                "旅游"
+            ],
+            "answer": "旅游",
+            "explanation": "Đáp án đúng là “旅游” (Du lịch).",
+            "id": 12
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想你帮忙",
+                "你帮我个忙想",
+                "我想请你帮个忙",
+                "我请你帮个忙吗"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 13
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Anh ấy là người Trung Quốc”",
+            "options": [
+                "他是中国人",
+                "人国中是他",
+                "他是中国人了",
+                "Đáp án sai"
+            ],
+            "answer": "他是中国人",
+            "explanation": "Câu đúng là: 他是中国人",
+            "id": 14
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我想请你帮个忙 (Nghĩa: Tôi muốn nhờ bạn giúp)",
+            "options": [
+                "已经",
+                "就",
+                "帮忙",
+                "次"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 15
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢喝咖啡 (Nghĩa: Tôi thích uống cà phê)",
+            "options": [
+                "给",
+                "就",
+                "接",
+                "让"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 16
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我看电影了 (Nghĩa: Tôi đã xem phim rồi)",
+            "options": [
+                "已经",
+                "旅游",
+                "就",
+                "接"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 17
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Giúp đỡ”?",
+            "options": [
+                "已经 (yǐjīng)",
+                "接 (jiē)",
+                "帮忙 (bāngmáng)",
+                "让 (ràng)"
+            ],
+            "answer": "帮忙 (bāngmáng)",
+            "explanation": "“Giúp đỡ” là “帮忙” (bāngmáng).",
+            "id": 18
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想请你帮个忙",
+                "我想你帮忙",
+                "你帮我个忙想",
+                "我请你帮个忙吗"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 19
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi muốn nhờ bạn giúp”",
+            "options": [
+                "忙个帮你请想我",
+                "我想请你帮个忙",
+                "他想请你帮个忙",
+                "我想请你帮个忙了"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Câu đúng là: 我想请你帮个忙",
+            "id": 20
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想你帮忙",
+                "你帮我个忙想",
+                "我请你帮个忙吗",
+                "我想请你帮个忙"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 21
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “让” (ràng) có nghĩa là gì?",
+            "options": [
+                "Cho",
+                "Du lịch",
+                "Chính là",
+                "Để"
+            ],
+            "answer": "Để",
+            "explanation": "“让” nghĩa là “Để”.",
+            "id": 22
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “就” (jiù) có nghĩa là gì?",
+            "options": [
+                "Đã rồi",
+                "Chính là",
+                "Giúp đỡ",
+                "Đón"
+            ],
+            "answer": "Chính là",
+            "explanation": "“就” nghĩa là “Chính là”.",
+            "id": 23
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天天气很好 (Nghĩa: Hôm nay trời rất đẹp)",
+            "options": [
+                "就",
+                "给",
+                "帮忙",
+                "次"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 24
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cái này bao nhiêu tiền?”",
+            "options": [
+                "？钱少多个这",
+                "这个多少钱？",
+                "Đáp án sai",
+                "这个多少钱？了"
+            ],
+            "answer": "这个多少钱？",
+            "explanation": "Câu đúng là: 这个多少钱？",
+            "id": 25
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “给” (gěi) có nghĩa là gì?",
+            "options": [
+                "Giúp đỡ",
+                "Đón",
+                "Chính là",
+                "Cho"
+            ],
+            "answer": "Cho",
+            "explanation": "“给” nghĩa là “Cho”.",
+            "id": 26
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Câu kiêm ngữ\nCâu nào đúng?",
+            "options": [
+                "我想请你帮个忙",
+                "我请你帮个忙吗",
+                "你帮我个忙想",
+                "我想你帮忙"
+            ],
+            "answer": "我想请你帮个忙",
+            "explanation": "Cấu trúc S + 请/让/叫 + O + V.",
+            "id": 27
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我们去超市吧 (Nghĩa: Chúng ta đi siêu thị nhé)",
+            "options": [
+                "帮忙",
+                "就",
+                "旅游",
+                "给"
+            ],
+            "answer": "就",
+            "explanation": "Đáp án đúng là “就” (Chính là).",
+            "id": 28
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Chúng ta đi siêu thị nhé”",
+            "options": [
+                "我们去超市吧",
+                "吧市超去们我",
+                "他们去超市吧",
+                "我们去超市吧了"
+            ],
+            "answer": "我们去超市吧",
+            "explanation": "Câu đúng là: 我们去超市吧",
+            "id": 29
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Du lịch”?",
+            "options": [
+                "帮忙 (bāngmáng)",
+                "旅游 (lǚyóu)",
+                "让 (ràng)",
+                "次 (cì)"
+            ],
+            "answer": "旅游 (lǚyóu)",
+            "explanation": "“Du lịch” là “旅游” (lǚyóu).",
+            "id": 30
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Chúng tôi đến du lịch”",
+            "options": [
+                "的游旅来是们我",
+                "我们是来旅游的",
+                "他们是来旅游的",
+                "我们是来旅游的了"
+            ],
+            "answer": "我们是来旅游的",
+            "explanation": "Câu đúng là: 我们是来旅游的",
+            "id": 31
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi đã xem phim rồi”",
+            "options": [
+                "我看电影了了",
+                "我看电影了",
+                "他看电影了",
+                "了影电看我"
+            ],
+            "answer": "我看电影了",
+            "explanation": "Câu đúng là: 我看电影了",
+            "id": 32
+        }
+    ]
+}

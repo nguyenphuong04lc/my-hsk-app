@@ -1,1307 +1,423 @@
 {
     "lessonId": 4,
-    "lessonTitle": "Bài 4: 我有两个孩子",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 4: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
-            "type": "meaning",
-            "question": "Từ '妹妹' (mèimei) có nghĩa là gì?",
-            "options": [
-                "Năm nay",
-                "Em gái",
-                "Có",
-                "Cái (lượng từ)"
-            ],
-            "answer": "Em gái",
-            "explanation": "'妹妹' nghĩa là 'Em gái'."
-        },
-        {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '女儿' (nǚ'ér) có nghĩa là gì?",
-            "options": [
-                "Đứa trẻ",
-                "Trợ từ nghi vấn",
-                "Con gái",
-                "Có"
-            ],
-            "answer": "Con gái",
-            "explanation": "'女儿' nghĩa là 'Con gái'."
-        },
-        {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '呢' (ne) có nghĩa là gì?",
-            "options": [
-                "Cái (lượng từ)",
-                "Mấy",
-                "Con trai",
-                "Trợ từ nghi vấn"
-            ],
-            "answer": "Trợ từ nghi vấn",
-            "explanation": "'呢' nghĩa là 'Trợ từ nghi vấn'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '多少' (duōshao) có nghĩa là gì?",
-            "options": [
-                "Mấy",
-                "Và",
-                "Đứa trẻ",
-                "Bao nhiêu"
-            ],
-            "answer": "Bao nhiêu",
-            "explanation": "'多少' nghĩa là 'Bao nhiêu'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '和' (hé) có nghĩa là gì?",
-            "options": [
-                "Và",
-                "Có",
-                "Khẩu (lượng từ)",
-                "Cái (lượng từ)"
-            ],
-            "answer": "Và",
-            "explanation": "'和' nghĩa là 'Và'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '岁' (suì) có nghĩa là gì?",
-            "options": [
-                "Và",
-                "Bao nhiêu",
-                "Tuổi",
-                "Con trai"
-            ],
-            "answer": "Tuổi",
-            "explanation": "'岁' nghĩa là 'Tuổi'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '孩子' (háizi) có nghĩa là gì?",
-            "options": [
-                "Bố",
-                "Trợ từ nghi vấn",
-                "Không có",
-                "Đứa trẻ"
-            ],
-            "answer": "Đứa trẻ",
-            "explanation": "'孩子' nghĩa là 'Đứa trẻ'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '几' (jǐ) có nghĩa là gì?",
-            "options": [
-                "Không có",
-                "Con gái",
-                "Mấy",
-                "Tuổi"
-            ],
-            "answer": "Mấy",
-            "explanation": "'几' nghĩa là 'Mấy'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '哥哥' (gēge) có nghĩa là gì?",
-            "options": [
-                "Trợ từ nghi vấn",
-                "Có",
-                "Anh trai",
-                "Bao nhiêu"
-            ],
-            "answer": "Anh trai",
-            "explanation": "'哥哥' nghĩa là 'Anh trai'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '儿子' (érzi) có nghĩa là gì?",
-            "options": [
-                "Trợ từ nghi vấn",
-                "Và",
-                "Con gái",
-                "Con trai"
-            ],
-            "answer": "Con trai",
-            "explanation": "'儿子' nghĩa là 'Con trai'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '口' (kǒu) có nghĩa là gì?",
-            "options": [
-                "Con gái",
-                "Khẩu (lượng từ)",
-                "Con trai",
-                "Mấy"
-            ],
-            "answer": "Khẩu (lượng từ)",
-            "explanation": "'口' nghĩa là 'Khẩu (lượng từ)'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '妈妈' (māma) có nghĩa là gì?",
-            "options": [
-                "Em gái",
-                "Cái (lượng từ)",
-                "Mẹ",
-                "Tuổi"
-            ],
-            "answer": "Mẹ",
-            "explanation": "'妈妈' nghĩa là 'Mẹ'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '家' (jiā) có nghĩa là gì?",
-            "options": [
-                "Khẩu (lượng từ)",
-                "Trợ từ nghi vấn",
-                "Nhà",
-                "Con trai"
-            ],
-            "answer": "Nhà",
-            "explanation": "'家' nghĩa là 'Nhà'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '今年' (jīnnián) có nghĩa là gì?",
-            "options": [
-                "Trợ từ nghi vấn",
-                "Em gái",
-                "Không có",
-                "Năm nay"
-            ],
-            "answer": "Năm nay",
-            "explanation": "'今年' nghĩa là 'Năm nay'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '爸爸' (bàba) có nghĩa là gì?",
-            "options": [
-                "Không có",
-                "Và",
-                "Cái (lượng từ)",
-                "Bố"
-            ],
-            "answer": "Bố",
-            "explanation": "'爸爸' nghĩa là 'Bố'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '有' (yǒu) có nghĩa là gì?",
-            "options": [
-                "Khẩu (lượng từ)",
-                "Năm nay",
-                "Bố",
-                "Có"
-            ],
-            "answer": "Có",
-            "explanation": "'有' nghĩa là 'Có'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '没有' (méiyǒu) có nghĩa là gì?",
-            "options": [
-                "Em gái",
-                "Không có",
-                "Anh trai",
-                "Và"
-            ],
-            "answer": "Không có",
-            "explanation": "'没有' nghĩa là 'Không có'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '个' (gè) có nghĩa là gì?",
-            "options": [
-                "Em gái",
-                "Anh trai",
-                "Trợ từ nghi vấn",
-                "Cái (lượng từ)"
-            ],
-            "answer": "Cái (lượng từ)",
-            "explanation": "'个' nghĩa là 'Cái (lượng từ)'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '儿子' (érzi) có nghĩa là gì?",
-            "options": [
-                "Anh trai",
-                "Con gái",
-                "Mấy",
-                "Con trai"
-            ],
-            "answer": "Con trai",
-            "explanation": "'儿子' nghĩa là 'Con trai'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '孩子' (háizi) có nghĩa là gì?",
-            "options": [
-                "Mẹ",
-                "Bao nhiêu",
-                "Con gái",
-                "Đứa trẻ"
-            ],
-            "answer": "Đứa trẻ",
-            "explanation": "'孩子' nghĩa là 'Đứa trẻ'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '家' (jiā) có nghĩa là gì?",
-            "options": [
-                "Cái (lượng từ)",
-                "Con gái",
-                "Nhà",
-                "Trợ từ nghi vấn"
-            ],
-            "answer": "Nhà",
-            "explanation": "'家' nghĩa là 'Nhà'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '口' (kǒu) có nghĩa là gì?",
-            "options": [
-                "Mấy",
-                "Khẩu (lượng từ)",
-                "Đứa trẻ",
-                "Con trai"
-            ],
-            "answer": "Khẩu (lượng từ)",
-            "explanation": "'口' nghĩa là 'Khẩu (lượng từ)'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '和' (hé) có nghĩa là gì?",
-            "options": [
-                "Và",
-                "Tuổi",
-                "Anh trai",
-                "Bao nhiêu"
-            ],
-            "answer": "Và",
-            "explanation": "'和' nghĩa là 'Và'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '妈妈' (māma) có nghĩa là gì?",
-            "options": [
-                "Mẹ",
-                "Bao nhiêu",
-                "Không có",
-                "Cái (lượng từ)"
-            ],
-            "answer": "Mẹ",
-            "explanation": "'妈妈' nghĩa là 'Mẹ'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '哥哥' (gēge) có nghĩa là gì?",
-            "options": [
-                "Có",
-                "Anh trai",
-                "Năm nay",
-                "Đứa trẻ"
-            ],
-            "answer": "Anh trai",
-            "explanation": "'哥哥' nghĩa là 'Anh trai'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '今年' (jīnnián) có nghĩa là gì?",
-            "options": [
-                "Tuổi",
-                "Anh trai",
-                "Năm nay",
-                "Có"
-            ],
-            "answer": "Năm nay",
-            "explanation": "'今年' nghĩa là 'Năm nay'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '没有' (méiyǒu) có nghĩa là gì?",
-            "options": [
-                "Không có",
-                "Con gái",
-                "Và",
-                "Khẩu (lượng từ)"
-            ],
-            "answer": "Không có",
-            "explanation": "'没有' nghĩa là 'Không có'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '几' (jǐ) có nghĩa là gì?",
-            "options": [
-                "Con gái",
-                "Anh trai",
-                "Khẩu (lượng từ)",
-                "Mấy"
-            ],
-            "answer": "Mấy",
-            "explanation": "'几' nghĩa là 'Mấy'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '呢' (ne) có nghĩa là gì?",
-            "options": [
-                "Khẩu (lượng từ)",
-                "Mấy",
-                "Không có",
-                "Trợ từ nghi vấn"
-            ],
-            "answer": "Trợ từ nghi vấn",
-            "explanation": "'呢' nghĩa là 'Trợ từ nghi vấn'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '多少' (duōshao) có nghĩa là gì?",
-            "options": [
-                "Bao nhiêu",
-                "Mấy",
-                "Cái (lượng từ)",
-                "Tuổi"
-            ],
-            "answer": "Bao nhiêu",
-            "explanation": "'多少' nghĩa là 'Bao nhiêu'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '有' là:",
-            "options": [
-                "yǒu9",
-                "yǒu3",
-                "yǒù",
-                "yǒu"
-            ],
-            "answer": "yǒu",
-            "explanation": "'有' đọc là yǒu."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '个' là:",
-            "options": [
-                "gè2",
-                "gè1",
-                "gè",
-                "gè2"
-            ],
-            "answer": "gè",
-            "explanation": "'个' đọc là gè."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '爸爸' là:",
-            "options": [
-                "bàba",
-                "bàba3",
-                "bàbà",
-                "bàba9"
-            ],
-            "answer": "bàba",
-            "explanation": "'爸爸' đọc là bàba."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '妹妹' là:",
-            "options": [
-                "mèìmeì",
-                "mèimei8",
-                "mèimei",
-                "mèimei4"
-            ],
-            "answer": "mèimei",
-            "explanation": "'妹妹' đọc là mèimei."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '女儿' là:",
-            "options": [
-                "nǚ'ér9",
-                "nǚ'ér3",
-                "mǚ'ér",
-                "nǚ'ér"
-            ],
-            "answer": "nǚ'ér",
-            "explanation": "'女儿' đọc là nǚ'ér."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '岁' là:",
-            "options": [
-                "suì",
-                "sùì",
-                "suì4",
-                "suì1"
-            ],
-            "answer": "suì",
-            "explanation": "'岁' đọc là suì."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '多少' là:",
-            "options": [
-                "duōshào",
-                "duōshao4",
-                "dùōshaó",
-                "duōshao"
-            ],
-            "answer": "duōshao",
-            "explanation": "'多少' đọc là duōshao."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '没有' là:",
-            "options": [
-                "méiyǒu2",
-                "méiyǒu",
-                "méiyǒù",
-                "méìyǒu"
-            ],
-            "answer": "méiyǒu",
-            "explanation": "'没有' đọc là méiyǒu."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '今年' là:",
-            "options": [
-                "jīnnián7",
-                "jīnnián",
-                "jīmmiám",
-                "jīnnìán"
-            ],
-            "answer": "jīnnián",
-            "explanation": "'今年' đọc là jīnnián."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '和' là:",
-            "options": [
-                "hé2",
-                "hé1",
-                "hé5",
-                "hé"
-            ],
-            "answer": "hé",
-            "explanation": "'和' đọc là hé."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '岁' là:",
-            "options": [
-                "suì",
-                "suì7",
-                "sùì",
-                "suì3"
-            ],
-            "answer": "suì",
-            "explanation": "'岁' đọc là suì."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '口' là:",
-            "options": [
-                "kǒù",
-                "kǒu4",
-                "kǒu1",
-                "kǒu"
-            ],
-            "answer": "kǒu",
-            "explanation": "'口' đọc là kǒu."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '哥哥' là:",
-            "options": [
-                "gēge2",
-                "gēge",
-                "gēge1",
-                "gēge4"
-            ],
-            "answer": "gēge",
-            "explanation": "'哥哥' đọc là gēge."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '儿子' là:",
-            "options": [
-                "érzi2",
-                "érzi5",
-                "érzì",
-                "érzi"
-            ],
-            "answer": "érzi",
-            "explanation": "'儿子' đọc là érzi."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '爸爸' là:",
-            "options": [
-                "bàba2",
-                "bàbà",
-                "bàba",
-                "bàba5"
-            ],
-            "answer": "bàba",
-            "explanation": "'爸爸' đọc là bàba."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '家' là:",
-            "options": [
-                "jiā3",
-                "jiā3",
-                "jiā",
-                "jìā"
-            ],
-            "answer": "jiā",
-            "explanation": "'家' đọc là jiā."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '有' là:",
-            "options": [
-                "yǒu",
-                "yǒu5",
-                "yǒu5",
-                "yǒù"
-            ],
-            "answer": "yǒu",
-            "explanation": "'有' đọc là yǒu."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '妈妈' là:",
-            "options": [
-                "māmà",
-                "māma3",
-                "māma4",
-                "māma"
-            ],
-            "answer": "māma",
-            "explanation": "'妈妈' đọc là māma."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '几' là:",
-            "options": [
-                "jǐ6",
-                "jǐ9",
-                "jǐ1",
-                "jǐ"
-            ],
-            "answer": "jǐ",
-            "explanation": "'几' đọc là jǐ."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '呢' là:",
-            "options": [
-                "ne4",
-                "ne1",
-                "me",
-                "ne"
-            ],
-            "answer": "ne",
-            "explanation": "'呢' đọc là ne."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '妹妹' là:",
-            "options": [
-                "mèìmeì",
-                "mèimei1",
-                "mèimei8",
-                "mèimei"
-            ],
-            "answer": "mèimei",
-            "explanation": "'妹妹' đọc là mèimei."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '个' là:",
-            "options": [
-                "gè9",
-                "gè7",
-                "gè9",
-                "gè"
-            ],
-            "answer": "gè",
-            "explanation": "'个' đọc là gè."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '女儿' là:",
-            "options": [
-                "nǚ'ér",
-                "mǚ'ér",
-                "nǚ'ér2",
-                "nǚ'ér3"
-            ],
-            "answer": "nǚ'ér",
-            "explanation": "'女儿' đọc là nǚ'ér."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '孩子' là:",
-            "options": [
-                "háìzì",
-                "háizi5",
-                "háizi",
-                "háizi3"
-            ],
-            "answer": "háizi",
-            "explanation": "'孩子' đọc là háizi."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '没有' là:",
-            "options": [
-                "méiyǒu3",
-                "méiyǒù",
-                "méìyǒu",
-                "méiyǒu"
-            ],
-            "answer": "méiyǒu",
-            "explanation": "'没有' đọc là méiyǒu."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Và' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
             "options": [
-                "和",
-                "孩子",
-                "口",
-                "爸爸"
-            ],
-            "answer": "和",
-            "explanation": "Từ cần điền là '和'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cái (lượng từ)' vào chỗ trống: ______",
-            "options": [
-                "个",
-                "今年",
-                "妈妈",
-                "家"
-            ],
-            "answer": "个",
-            "explanation": "Từ cần điền là '个'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trợ từ nghi vấn' vào chỗ trống: ______",
-            "options": [
-                "孩子",
-                "呢",
-                "儿子",
-                "家"
-            ],
-            "answer": "呢",
-            "explanation": "Từ cần điền là '呢'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bố' vào chỗ trống: ______",
-            "options": [
-                "哥哥",
-                "今年",
-                "爸爸",
-                "有"
-            ],
-            "answer": "爸爸",
-            "explanation": "Từ cần điền là '爸爸'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Em gái' vào chỗ trống: ______",
-            "options": [
-                "儿子",
-                "妹妹",
-                "多少",
-                "岁"
-            ],
-            "answer": "妹妹",
-            "explanation": "Từ cần điền là '妹妹'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Có' vào chỗ trống: ______",
-            "options": [
-                "女儿",
-                "家",
-                "有",
-                "岁"
-            ],
-            "answer": "有",
-            "explanation": "Từ cần điền là '有'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Con trai' vào chỗ trống: ______",
-            "options": [
-                "女儿",
-                "哥哥",
-                "儿子",
-                "和"
-            ],
-            "answer": "儿子",
-            "explanation": "Từ cần điền là '儿子'."
-        },
-        {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đứa trẻ' vào chỗ trống: ______",
-            "options": [
-                "女儿",
-                "多少",
-                "儿子",
-                "孩子"
-            ],
-            "answer": "孩子",
-            "explanation": "Từ cần điền là '孩子'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mấy' vào chỗ trống: ______",
-            "options": [
-                "多少",
-                "个",
                 "几",
-                "妈妈"
-            ],
-            "answer": "几",
-            "explanation": "Từ cần điền là '几'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Con gái' vào chỗ trống: ______",
-            "options": [
-                "爸爸",
-                "今年",
-                "和",
-                "女儿"
-            ],
-            "answer": "女儿",
-            "explanation": "Từ cần điền là '女儿'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tuổi' vào chỗ trống: ______",
-            "options": [
-                "岁",
-                "孩子",
-                "没有",
-                "女儿"
-            ],
-            "answer": "岁",
-            "explanation": "Từ cần điền là '岁'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mẹ' vào chỗ trống: ______",
-            "options": [
-                "妹妹",
-                "今年",
-                "和",
-                "妈妈"
-            ],
-            "answer": "妈妈",
-            "explanation": "Từ cần điền là '妈妈'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Khẩu (lượng từ)' vào chỗ trống: ______",
-            "options": [
-                "没有",
-                "口",
-                "岁",
+                "有",
+                "多少",
                 "个"
             ],
-            "answer": "口",
-            "explanation": "Từ cần điền là '口'."
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 1
         },
         {
-            "id": 69,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bao nhiêu' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
             "options": [
-                "和",
-                "女儿",
+                "呢",
                 "哥哥",
+                "有",
                 "多少"
             ],
-            "answer": "多少",
-            "explanation": "Từ cần điền là '多少'."
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 2
         },
         {
-            "id": 70,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Năm nay' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
             "options": [
-                "今年",
-                "和",
-                "呢",
-                "家"
-            ],
-            "answer": "今年",
-            "explanation": "Từ cần điền là '今年'."
-        },
-        {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Anh trai' vào chỗ trống: ______",
-            "options": [
-                "岁",
-                "妈妈",
-                "呢",
-                "哥哥"
-            ],
-            "answer": "哥哥",
-            "explanation": "Từ cần điền là '哥哥'."
-        },
-        {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhà' vào chỗ trống: ______",
-            "options": [
-                "口",
-                "妈妈",
-                "有",
-                "家"
-            ],
-            "answer": "家",
-            "explanation": "Từ cần điền là '家'."
-        },
-        {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Em gái' vào chỗ trống: ______",
-            "options": [
-                "呢",
                 "没有",
-                "口",
-                "妹妹"
-            ],
-            "answer": "妹妹",
-            "explanation": "Từ cần điền là '妹妹'."
-        },
-        {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Con gái' vào chỗ trống: ______",
-            "options": [
-                "几",
-                "女儿",
-                "儿子",
-                "没有"
-            ],
-            "answer": "女儿",
-            "explanation": "Từ cần điền là '女儿'."
-        },
-        {
-            "id": 75,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Năm nay' vào chỗ trống: ______",
-            "options": [
-                "妈妈",
                 "哥哥",
                 "几",
-                "今年"
+                "有"
             ],
-            "answer": "今年",
-            "explanation": "Từ cần điền là '今年'."
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 3
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Anh trai'",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Không có”?",
             "options": [
-                "我哥哥是",
-                "这哥哥是",
-                "是哥哥我",
-                "我是哥哥"
+                "家 (jiā)",
+                "没有 (méiyǒu)",
+                "几 (jǐ)",
+                "多少 (duōshao)"
             ],
-            "answer": "我是哥哥",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是哥哥"
+            "answer": "没有 (méiyǒu)",
+            "explanation": "“Không có” là “没有” (méiyǒu).",
+            "id": 4
         },
         {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Bố'",
-            "options": [
-                "我爸爸是",
-                "是爸爸我",
-                "这爸爸是",
-                "这是爸爸"
-            ],
-            "answer": "这是爸爸",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是爸爸"
-        },
-        {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Không có'",
-            "options": [
-                "这没有是",
-                "我没有是",
-                "我是没有",
-                "是没有我"
-            ],
-            "answer": "我是没有",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是没有"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Con trai'",
-            "options": [
-                "是儿子我",
-                "我儿子是",
-                "这是儿子",
-                "这儿子是"
-            ],
-            "answer": "这是儿子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是儿子"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Mẹ'",
-            "options": [
-                "这是妈妈",
-                "是妈妈我",
-                "这妈妈是",
-                "我妈妈是"
-            ],
-            "answer": "这是妈妈",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是妈妈"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trợ từ nghi vấn'",
-            "options": [
-                "这是呢",
-                "我呢是",
-                "是呢我",
-                "这呢是"
-            ],
-            "answer": "这是呢",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是呢"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Mấy'",
-            "options": [
-                "这几是",
-                "是几我",
-                "我是几",
-                "我几是"
-            ],
-            "answer": "我是几",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是几"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Khẩu (lượng từ)'",
-            "options": [
-                "这是口",
-                "我口是",
-                "这口是",
-                "是口我"
-            ],
-            "answer": "这是口",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是口"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bao nhiêu'",
-            "options": [
-                "我是多少",
-                "我多少是",
-                "这多少是",
-                "是多少我"
-            ],
-            "answer": "我是多少",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是多少"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nhà'",
-            "options": [
-                "我是家",
-                "是家我",
-                "这家是",
-                "我家是"
-            ],
-            "answer": "我是家",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是家"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cái (lượng từ)'",
-            "options": [
-                "这个是",
-                "我个是",
-                "是个我",
-                "我是个"
-            ],
-            "answer": "我是个",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是个"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Có'",
-            "options": [
-                "是有我",
-                "我有是",
-                "这有是",
-                "我是有"
-            ],
-            "answer": "我是有",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是有"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Và'",
-            "options": [
-                "我和是",
-                "是和我",
-                "这和是",
-                "我是和"
-            ],
-            "answer": "我是和",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是和"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tuổi'",
-            "options": [
-                "我岁是",
-                "这是岁",
-                "这岁是",
-                "是岁我"
-            ],
-            "answer": "这是岁",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是岁"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đứa trẻ'",
-            "options": [
-                "是孩子我",
-                "这是孩子",
-                "这孩子是",
-                "我孩子是"
-            ],
-            "answer": "这是孩子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是孩子"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 哥哥。 (Tôi là Anh trai)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "是",
+                "别",
                 "不",
-                "的",
-                "了"
+                "无",
+                "没"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 5
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 妹妹。 (Tôi là Em gái)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 6
         },
         {
-            "id": 93,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 没有。 (Tôi là Không có)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Nhà”?",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "有 (yǒu)",
+                "呢 (ne)",
+                "多少 (duōshao)",
+                "家 (jiā)"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "家 (jiā)",
+            "explanation": "“Nhà” là “家” (jiā).",
+            "id": 7
         },
         {
-            "id": 94,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 岁。 (Tôi là Tuổi)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 8
         },
         {
-            "id": 95,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 妈妈。 (Tôi là Mẹ)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Trợ từ”?",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "多少 (duōshao)",
+                "个 (gè)",
+                "几 (jǐ)",
+                "呢 (ne)"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "呢 (ne)",
+            "explanation": "“Trợ từ” là “呢” (ne).",
+            "id": 9
         },
         {
-            "id": 96,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 和。 (Tôi là Và)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "你好吗？了",
+                "我好吗？",
+                "你好吗？",
+                "？吗好你"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 10
         },
         {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 女儿。 (Tôi là Con gái)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "我喜欢吃苹果了",
+                "他喜欢吃苹果",
+                "我喜欢吃苹果",
+                "果苹吃欢喜我"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 11
         },
         {
-            "id": 98,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 个。 (Tôi là Cái (lượng từ))",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "见再",
+                "Đáp án sai",
+                "再见",
+                "再见了"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 12
         },
         {
-            "id": 99,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 今年。 (Tôi là Năm nay)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "谢谢",
+                "Đáp án sai",
+                "Đáp án sai",
+                "谢谢了"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 13
         },
         {
-            "id": 100,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 几。 (Tôi là Mấy)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "是",
                 "不",
-                "的",
-                "了"
+                "别",
+                "无",
+                "没"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 14
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 15
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
+            "options": [
+                "这是我的书了",
+                "这是他的书",
+                "书的我是这",
+                "这是我的书"
+            ],
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 16
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "他是学生",
+                "生学是我",
+                "我是学生",
+                "我是学生了"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 17
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “个” (gè) có nghĩa là gì?",
+            "options": [
+                "Cái",
+                "Trợ từ",
+                "Không có",
+                "Mấy"
+            ],
+            "answer": "Cái",
+            "explanation": "“个” nghĩa là “Cái”.",
+            "id": 18
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 19
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
+                "呢",
+                "有",
+                "没有",
+                "个"
+            ],
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 20
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "好你",
+                "你好",
+                "你好了",
+                "我好"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 21
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
+            "options": [
+                "有",
+                "个",
+                "没有",
+                "呢"
+            ],
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 22
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
+            "options": [
+                "有",
+                "个",
+                "几",
+                "呢"
+            ],
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 23
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "别",
+                "没",
+                "不",
+                "无"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 24
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
+            "options": [
+                "今天星期几？",
+                "？几期星天今",
+                "Đáp án sai",
+                "今天星期几？了"
+            ],
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 25
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
+            "options": [
+                "有",
+                "哥哥",
+                "几",
+                "呢"
+            ],
+            "answer": "有",
+            "explanation": "Đáp án đúng là “有” (Có).",
+            "id": 26
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “哥哥” (gēge) có nghĩa là gì?",
+            "options": [
+                "Bao nhiêu",
+                "Có",
+                "Nhà",
+                "Anh trai"
+            ],
+            "answer": "Anh trai",
+            "explanation": "“哥哥” nghĩa là “Anh trai”.",
+            "id": 27
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “有” (yǒu) có nghĩa là gì?",
+            "options": [
+                "Có",
+                "Cái",
+                "Nhà",
+                "Trợ từ"
+            ],
+            "answer": "Có",
+            "explanation": "“有” nghĩa là “Có”.",
+            "id": 28
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Mấy”?",
+            "options": [
+                "没有 (méiyǒu)",
+                "几 (jǐ)",
+                "有 (yǒu)",
+                "多少 (duōshao)"
+            ],
+            "answer": "几 (jǐ)",
+            "explanation": "“Mấy” là “几” (jǐ).",
+            "id": 29
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “多少” (duōshao) có nghĩa là gì?",
+            "options": [
+                "Mấy",
+                "Có",
+                "Bao nhiêu",
+                "Không có"
+            ],
+            "answer": "Bao nhiêu",
+            "explanation": "“多少” nghĩa là “Bao nhiêu”.",
+            "id": 30
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "无",
+                "不",
+                "别",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 31
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期______？ (Nghĩa: Hôm nay là thứ mấy?)",
+            "options": [
+                "家",
+                "多少",
+                "没有",
+                "几"
+            ],
+            "answer": "几",
+            "explanation": "Đáp án đúng là “几” (Mấy).",
+            "id": 32
         }
     ]
 }

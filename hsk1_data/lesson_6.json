@@ -1,1307 +1,423 @@
 {
     "lessonId": 6,
-    "lessonTitle": "Bài 6: 你的手机号是多少",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 6: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
             "type": "meaning",
-            "question": "Từ '晚上' (wǎnshang) có nghĩa là gì?",
+            "question": "Từ nào có nghĩa là “Siêu thị”?",
             "options": [
-                "Một ít",
-                "Điện thoại",
-                "Buổi tối",
-                "Ngày mai"
+                "电话 (diànhuà)",
+                "哪儿 (nǎr)",
+                "超市 (chāoshì)",
+                "手机 (shǒujī)"
             ],
-            "answer": "Buổi tối",
-            "explanation": "'晚上' nghĩa là 'Buổi tối'."
+            "answer": "超市 (chāoshì)",
+            "explanation": "“Siêu thị” là “超市” (chāoshì).",
+            "id": 1
         },
         {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '事' (shì) có nghĩa là gì?",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "Lên lớp",
-                "Buổi tối",
-                "Đi",
-                "Việc"
+                "Đáp án sai",
+                "谢谢",
+                "Đáp án sai",
+                "谢谢了"
             ],
-            "answer": "Việc",
-            "explanation": "'事' nghĩa là 'Việc'."
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 2
         },
         {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '超市' (chāoshì) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "Sữa",
-                "Siêu thị",
-                "Rưỡi",
-                "Điện thoại"
+                "无",
+                "没",
+                "别",
+                "不"
             ],
-            "answer": "Siêu thị",
-            "explanation": "'超市' nghĩa là 'Siêu thị'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 3
         },
         {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '想' (xiǎng) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "Ngày mai",
-                "Phim",
-                "Buổi tối",
-                "Muốn"
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "Muốn",
-            "explanation": "'想' nghĩa là 'Muốn'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 4
         },
         {
-            "id": 5,
             "type": "meaning",
-            "question": "Từ '明天' (míngtiān) có nghĩa là gì?",
+            "question": "Từ “电话” (diànhuà) có nghĩa là gì?",
             "options": [
-                "Ngày mai",
-                "Phim",
-                "Rạp chiếu phim",
-                "Nhà"
-            ],
-            "answer": "Ngày mai",
-            "explanation": "'明天' nghĩa là 'Ngày mai'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '牛奶' (niúnǎi) có nghĩa là gì?",
-            "options": [
-                "Xem",
-                "Rạp chiếu phim",
-                "Sữa",
-                "Đi"
-            ],
-            "answer": "Sữa",
-            "explanation": "'牛奶' nghĩa là 'Sữa'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '上课' (shàngkè) có nghĩa là gì?",
-            "options": [
-                "Lên lớp",
-                "Ngày mai",
-                "Sữa",
-                "Muốn"
-            ],
-            "answer": "Lên lớp",
-            "explanation": "'上课' nghĩa là 'Lên lớp'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '东西' (dōngxi) có nghĩa là gì?",
-            "options": [
-                "Muốn",
-                "Điện thoại",
-                "Phim",
-                "Đồ vật"
-            ],
-            "answer": "Đồ vật",
-            "explanation": "'东西' nghĩa là 'Đồ vật'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '些' (xiē) có nghĩa là gì?",
-            "options": [
-                "Một ít",
-                "Mua",
-                "Lên lớp",
-                "Phim"
-            ],
-            "answer": "Một ít",
-            "explanation": "'些' nghĩa là 'Một ít'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '买' (mǎi) có nghĩa là gì?",
-            "options": [
-                "Ngày mai",
-                "Nhà",
-                "Buổi tối",
-                "Mua"
-            ],
-            "answer": "Mua",
-            "explanation": "'买' nghĩa là 'Mua'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '电话' (diànhuà) có nghĩa là gì?",
-            "options": [
-                "Phim",
-                "Ở đâu",
-                "Việc",
-                "Điện thoại"
-            ],
-            "answer": "Điện thoại",
-            "explanation": "'电话' nghĩa là 'Điện thoại'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '电影院' (diànyǐngyuàn) có nghĩa là gì?",
-            "options": [
-                "Rạp chiếu phim",
-                "Ở đâu",
-                "Phim",
-                "Ngày mai"
-            ],
-            "answer": "Rạp chiếu phim",
-            "explanation": "'电影院' nghĩa là 'Rạp chiếu phim'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '哪儿' (nǎr) có nghĩa là gì?",
-            "options": [
-                "Mua",
-                "Điện thoại",
-                "Rạp chiếu phim",
-                "Ở đâu"
-            ],
-            "answer": "Ở đâu",
-            "explanation": "'哪儿' nghĩa là 'Ở đâu'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '去' (qù) có nghĩa là gì?",
-            "options": [
-                "Nhà",
-                "Siêu thị",
-                "Đi",
-                "Đồ vật"
-            ],
-            "answer": "Đi",
-            "explanation": "'去' nghĩa là 'Đi'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '电影' (diànyǐng) có nghĩa là gì?",
-            "options": [
-                "Lên lớp",
-                "Đi",
-                "Buổi tối",
-                "Phim"
-            ],
-            "answer": "Phim",
-            "explanation": "'电影' nghĩa là 'Phim'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '半' (bàn) có nghĩa là gì?",
-            "options": [
-                "Rưỡi",
                 "Ở đâu",
                 "Muốn",
-                "Tan học"
-            ],
-            "answer": "Rưỡi",
-            "explanation": "'半' nghĩa là 'Rưỡi'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '下课' (xiàkè) có nghĩa là gì?",
-            "options": [
-                "Tan học",
-                "Sữa",
-                "Mua",
-                "Ở đâu"
-            ],
-            "answer": "Tan học",
-            "explanation": "'下课' nghĩa là 'Tan học'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '手机' (shǒujī) có nghĩa là gì?",
-            "options": [
-                "Đi",
-                "Một ít",
-                "Rạp chiếu phim",
+                "Siêu thị",
                 "Điện thoại"
             ],
             "answer": "Điện thoại",
-            "explanation": "'手机' nghĩa là 'Điện thoại'."
+            "explanation": "“电话” nghĩa là “Điện thoại”.",
+            "id": 5
         },
         {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '看' (kàn) có nghĩa là gì?",
-            "options": [
-                "Rạp chiếu phim",
-                "Ngày mai",
-                "Phim",
-                "Xem"
-            ],
-            "answer": "Xem",
-            "explanation": "'看' nghĩa là 'Xem'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '家' (jiā) có nghĩa là gì?",
-            "options": [
-                "Điện thoại",
-                "Buổi tối",
-                "Nhà",
-                "Tan học"
-            ],
-            "answer": "Nhà",
-            "explanation": "'家' nghĩa là 'Nhà'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '看' (kàn) có nghĩa là gì?",
-            "options": [
-                "Xem",
-                "Sữa",
-                "Phim",
-                "Một ít"
-            ],
-            "answer": "Xem",
-            "explanation": "'看' nghĩa là 'Xem'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '牛奶' (niúnǎi) có nghĩa là gì?",
-            "options": [
-                "Rạp chiếu phim",
-                "Việc",
-                "Nhà",
-                "Sữa"
-            ],
-            "answer": "Sữa",
-            "explanation": "'牛奶' nghĩa là 'Sữa'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '些' (xiē) có nghĩa là gì?",
-            "options": [
-                "Mua",
-                "Đồ vật",
-                "Một ít",
-                "Điện thoại"
-            ],
-            "answer": "Một ít",
-            "explanation": "'些' nghĩa là 'Một ít'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '半' (bàn) có nghĩa là gì?",
-            "options": [
-                "Rưỡi",
-                "Điện thoại",
-                "Xem",
-                "Sữa"
-            ],
-            "answer": "Rưỡi",
-            "explanation": "'半' nghĩa là 'Rưỡi'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '晚上' (wǎnshang) có nghĩa là gì?",
-            "options": [
-                "Đồ vật",
-                "Rưỡi",
-                "Buổi tối",
-                "Muốn"
-            ],
-            "answer": "Buổi tối",
-            "explanation": "'晚上' nghĩa là 'Buổi tối'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '手机' (shǒujī) có nghĩa là gì?",
-            "options": [
-                "Xem",
-                "Đồ vật",
-                "Mua",
-                "Điện thoại"
-            ],
-            "answer": "Điện thoại",
-            "explanation": "'手机' nghĩa là 'Điện thoại'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '买' (mǎi) có nghĩa là gì?",
-            "options": [
-                "Mua",
-                "Xem",
-                "Ở đâu",
-                "Lên lớp"
-            ],
-            "answer": "Mua",
-            "explanation": "'买' nghĩa là 'Mua'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '电影' (diànyǐng) có nghĩa là gì?",
-            "options": [
-                "Sữa",
-                "Tan học",
-                "Phim",
-                "Buổi tối"
-            ],
-            "answer": "Phim",
-            "explanation": "'电影' nghĩa là 'Phim'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '明天' (míngtiān) có nghĩa là gì?",
-            "options": [
-                "Sữa",
-                "Việc",
-                "Ngày mai",
-                "Buổi tối"
-            ],
-            "answer": "Ngày mai",
-            "explanation": "'明天' nghĩa là 'Ngày mai'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '哪儿' (nǎr) có nghĩa là gì?",
-            "options": [
-                "Đồ vật",
-                "Ở đâu",
-                "Tan học",
-                "Mua"
-            ],
-            "answer": "Ở đâu",
-            "explanation": "'哪儿' nghĩa là 'Ở đâu'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '去' là:",
-            "options": [
-                "qù",
-                "qù8",
-                "qù9",
-                "qù1"
-            ],
-            "answer": "qù",
-            "explanation": "'去' đọc là qù."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电话' là:",
-            "options": [
-                "diànhùà",
-                "diànhuà",
-                "dìànhuà",
-                "diàmhuà"
-            ],
-            "answer": "diànhuà",
-            "explanation": "'电话' đọc là diànhuà."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电影院' là:",
-            "options": [
-                "diànyǐngyuàn",
-                "diànyǐngyùàn",
-                "diàmyǐmgyuàm",
-                "dìànyǐngyuàn"
-            ],
-            "answer": "diànyǐngyuàn",
-            "explanation": "'电影院' đọc là diànyǐngyuàn."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '家' là:",
-            "options": [
-                "jiā1",
-                "jìā",
-                "jiā",
-                "jiā3"
-            ],
-            "answer": "jiā",
-            "explanation": "'家' đọc là jiā."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '事' là:",
-            "options": [
-                "shì7",
-                "shì",
-                "shì2",
-                "shì7"
-            ],
-            "answer": "shì",
-            "explanation": "'事' đọc là shì."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '超市' là:",
-            "options": [
-                "chāoshì1",
-                "chāoshì",
-                "chāóshì",
-                "chāoshì9"
-            ],
-            "answer": "chāoshì",
-            "explanation": "'超市' đọc là chāoshì."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '想' là:",
-            "options": [
-                "xiǎmg",
-                "xiǎng8",
-                "xiǎng",
-                "xìǎng"
-            ],
-            "answer": "xiǎng",
-            "explanation": "'想' đọc là xiǎng."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '东西' là:",
-            "options": [
-                "dōngxi",
-                "dōngxì",
-                "dōngxi9",
-                "dōmgxi"
-            ],
-            "answer": "dōngxi",
-            "explanation": "'东西' đọc là dōngxi."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上课' là:",
-            "options": [
-                "shàmgkè",
-                "shàngkè6",
-                "shàngkè1",
-                "shàngkè"
-            ],
-            "answer": "shàngkè",
-            "explanation": "'上课' đọc là shàngkè."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '下课' là:",
-            "options": [
-                "xiàkè6",
-                "xiàkè8",
-                "xìàkè",
-                "xiàkè"
-            ],
-            "answer": "xiàkè",
-            "explanation": "'下课' đọc là xiàkè."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '想' là:",
-            "options": [
-                "xiǎmg",
-                "xiǎng",
-                "xìǎng",
-                "xiǎng6"
-            ],
-            "answer": "xiǎng",
-            "explanation": "'想' đọc là xiǎng."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '晚上' là:",
-            "options": [
-                "wǎmshamg",
-                "wǎnshàng",
-                "wǎnshang4",
-                "wǎnshang"
-            ],
-            "answer": "wǎnshang",
-            "explanation": "'晚上' đọc là wǎnshang."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '明天' là:",
-            "options": [
-                "míngtiān",
-                "mímgtiām",
-                "míngtìān",
-                "míngtiān2"
-            ],
-            "answer": "míngtiān",
-            "explanation": "'明天' đọc là míngtiān."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '买' là:",
-            "options": [
-                "mǎi3",
-                "mǎì",
-                "mǎi",
-                "mǎi7"
-            ],
-            "answer": "mǎi",
-            "explanation": "'买' đọc là mǎi."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '家' là:",
-            "options": [
-                "jìā",
-                "jiā1",
-                "jiā8",
-                "jiā"
-            ],
-            "answer": "jiā",
-            "explanation": "'家' đọc là jiā."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '下课' là:",
-            "options": [
-                "xìàkè",
-                "xiàkè1",
-                "xiàkè",
-                "xiàkè4"
-            ],
-            "answer": "xiàkè",
-            "explanation": "'下课' đọc là xiàkè."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '手机' là:",
-            "options": [
-                "shǒujī4",
-                "shǒùjī",
-                "shǒujī5",
-                "shǒujī"
-            ],
-            "answer": "shǒujī",
-            "explanation": "'手机' đọc là shǒujī."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '超市' là:",
-            "options": [
-                "chāoshì6",
-                "chāoshì8",
-                "chāóshì",
-                "chāoshì"
-            ],
-            "answer": "chāoshì",
-            "explanation": "'超市' đọc là chāoshì."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '牛奶' là:",
-            "options": [
-                "miúmǎi",
-                "niúnǎi1",
-                "niúnǎi",
-                "nìúnǎì"
-            ],
-            "answer": "niúnǎi",
-            "explanation": "'牛奶' đọc là niúnǎi."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '事' là:",
-            "options": [
-                "shì3",
-                "shì",
-                "shì5",
-                "shì5"
-            ],
-            "answer": "shì",
-            "explanation": "'事' đọc là shì."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电话' là:",
-            "options": [
-                "dìànhuà",
-                "diànhuà",
-                "diànhùà",
-                "diàmhuà"
-            ],
-            "answer": "diànhuà",
-            "explanation": "'电话' đọc là diànhuà."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '哪儿' là:",
-            "options": [
-                "nǎr2",
-                "mǎr",
-                "nǎr",
-                "nǎr9"
-            ],
-            "answer": "nǎr",
-            "explanation": "'哪儿' đọc là nǎr."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电影院' là:",
-            "options": [
-                "dìànyǐngyuàn",
-                "diàmyǐmgyuàm",
-                "diànyǐngyùàn",
-                "diànyǐngyuàn"
-            ],
-            "answer": "diànyǐngyuàn",
-            "explanation": "'电影院' đọc là diànyǐngyuàn."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '去' là:",
-            "options": [
-                "qù",
-                "qù7",
-                "qù7",
-                "qù7"
-            ],
-            "answer": "qù",
-            "explanation": "'去' đọc là qù."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '些' là:",
-            "options": [
-                "xiē9",
-                "xiē",
-                "xiē8",
-                "xìē"
-            ],
-            "answer": "xiē",
-            "explanation": "'些' đọc là xiē."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phim' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
             "options": [
-                "去",
-                "电影",
-                "些",
-                "电影院"
-            ],
-            "answer": "电影",
-            "explanation": "Từ cần điền là '电影'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Lên lớp' vào chỗ trống: ______",
-            "options": [
-                "哪儿",
-                "上课",
-                "牛奶",
-                "电话"
-            ],
-            "answer": "上课",
-            "explanation": "Từ cần điền là '上课'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đồ vật' vào chỗ trống: ______",
-            "options": [
-                "明天",
-                "东西",
-                "电影",
-                "超市"
-            ],
-            "answer": "东西",
-            "explanation": "Từ cần điền là '东西'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Rưỡi' vào chỗ trống: ______",
-            "options": [
-                "半",
-                "明天",
-                "东西",
-                "哪儿"
-            ],
-            "answer": "半",
-            "explanation": "Từ cần điền là '半'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Xem' vào chỗ trống: ______",
-            "options": [
-                "看",
-                "上课",
-                "东西",
+                "手机",
+                "超市",
+                "想",
                 "明天"
             ],
-            "answer": "看",
-            "explanation": "Từ cần điền là '看'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Muốn' vào chỗ trống: ______",
-            "options": [
-                "去",
-                "想",
-                "下课",
-                "事"
-            ],
-            "answer": "想",
-            "explanation": "Từ cần điền là '想'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Điện thoại' vào chỗ trống: ______",
-            "options": [
-                "东西",
-                "下课",
-                "手机",
-                "半"
-            ],
             "answer": "手机",
-            "explanation": "Từ cần điền là '手机'."
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 6
         },
         {
-            "id": 63,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "我是学生了",
+                "生学是我",
+                "我是学生",
+                "他是学生"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 7
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
+            "options": [
+                "他喜欢吃苹果",
+                "我喜欢吃苹果",
+                "我喜欢吃苹果了",
+                "果苹吃欢喜我"
+            ],
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 8
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Siêu thị' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
             "options": [
                 "超市",
-                "电话",
-                "事",
-                "电影院"
-            ],
-            "answer": "超市",
-            "explanation": "Từ cần điền là '超市'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhà' vào chỗ trống: ______",
-            "options": [
-                "牛奶",
-                "家",
-                "事",
-                "超市"
-            ],
-            "answer": "家",
-            "explanation": "Từ cần điền là '家'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Xem' vào chỗ trống: ______",
-            "options": [
-                "些",
-                "牛奶",
-                "电影",
-                "看"
-            ],
-            "answer": "看",
-            "explanation": "Từ cần điền là '看'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đi' vào chỗ trống: ______",
-            "options": [
-                "看",
-                "超市",
-                "些",
-                "去"
-            ],
-            "answer": "去",
-            "explanation": "Từ cần điền là '去'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mua' vào chỗ trống: ______",
-            "options": [
-                "明天",
+                "手机",
                 "去",
-                "买",
-                "哪儿"
-            ],
-            "answer": "买",
-            "explanation": "Từ cần điền là '买'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Rưỡi' vào chỗ trống: ______",
-            "options": [
-                "半",
-                "电影院",
-                "电影",
                 "电话"
             ],
-            "answer": "半",
-            "explanation": "Từ cần điền là '半'."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 9
         },
         {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Việc' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Muốn”?",
             "options": [
+                "想 (xiǎng)",
+                "手机 (shǒujī)",
+                "明天 (míngtiān)",
+                "超市 (chāoshì)"
+            ],
+            "answer": "想 (xiǎng)",
+            "explanation": "“Muốn” là “想” (xiǎng).",
+            "id": 10
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
+            "options": [
+                "哪儿",
+                "想",
+                "超市",
+                "手机"
+            ],
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 11
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
+            "options": [
+                "哪儿",
                 "手机",
-                "晚上",
-                "半",
-                "事"
-            ],
-            "answer": "事",
-            "explanation": "Từ cần điền là '事'."
-        },
-        {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phim' vào chỗ trống: ______",
-            "options": [
-                "晚上",
-                "半",
-                "电影",
-                "上课"
-            ],
-            "answer": "电影",
-            "explanation": "Từ cần điền là '电影'."
-        },
-        {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ở đâu' vào chỗ trống: ______",
-            "options": [
                 "明天",
-                "哪儿",
-                "电话",
-                "上课"
+                "电话"
             ],
-            "answer": "哪儿",
-            "explanation": "Từ cần điền là '哪儿'."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 12
         },
         {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tan học' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
             "options": [
-                "电影",
-                "牛奶",
-                "东西",
-                "下课"
+                "你好吗？",
+                "我好吗？",
+                "？吗好你",
+                "你好吗？了"
             ],
-            "answer": "下课",
-            "explanation": "Từ cần điền là '下课'."
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 13
         },
         {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi tối' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Ở đâu”?",
             "options": [
-                "晚上",
-                "明天",
-                "电影",
-                "看"
+                "买 (mǎi)",
+                "去 (qù)",
+                "哪儿 (nǎr)",
+                "电话 (diànhuà)"
             ],
-            "answer": "晚上",
-            "explanation": "Từ cần điền là '晚上'."
+            "answer": "哪儿 (nǎr)",
+            "explanation": "“Ở đâu” là “哪儿” (nǎr).",
+            "id": 14
         },
         {
-            "id": 74,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Sữa' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
             "options": [
-                "牛奶",
-                "电影院",
-                "下课",
-                "看"
+                "买",
+                "手机",
+                "超市",
+                "明天"
             ],
-            "answer": "牛奶",
-            "explanation": "Từ cần điền là '牛奶'."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 15
         },
         {
-            "id": 75,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Một ít' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "哪儿",
+                "无",
+                "别",
+                "没",
+                "不"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 16
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "别",
+                "无",
+                "没",
+                "不"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 17
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
+            "options": [
+                "见再",
+                "再见",
+                "Đáp án sai",
+                "再见了"
+            ],
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 18
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “手机” (shǒujī) có nghĩa là gì?",
+            "options": [
+                "Ngày mai",
+                "Muốn",
+                "Siêu thị",
+                "Điện thoại"
+            ],
+            "answer": "Điện thoại",
+            "explanation": "“手机” nghĩa là “Điện thoại”.",
+            "id": 19
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
+            "options": [
+                "这是我的书",
+                "这是我的书了",
+                "这是他的书",
+                "书的我是这"
+            ],
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 20
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
+                "想",
                 "去",
-                "些",
-                "下课"
+                "手机",
+                "超市"
             ],
-            "answer": "些",
-            "explanation": "Từ cần điền là '些'."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 21
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Rạp chiếu phim'",
+            "type": "meaning",
+            "question": "Từ “明天” (míngtiān) có nghĩa là gì?",
             "options": [
-                "我电影院是",
-                "这是电影院",
-                "是电影院我",
-                "这电影院是"
+                "Muốn",
+                "Siêu thị",
+                "Ngày mai",
+                "Ở đâu"
             ],
-            "answer": "这是电影院",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是电影院"
+            "answer": "Ngày mai",
+            "explanation": "“明天” nghĩa là “Ngày mai”.",
+            "id": 22
         },
         {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Ngày mai'",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Mua”?",
             "options": [
-                "我明天是",
-                "这是明天",
-                "这明天是",
-                "是明天我"
+                "去 (qù)",
+                "买 (mǎi)",
+                "超市 (chāoshì)",
+                "手机 (shǒujī)"
             ],
-            "answer": "这是明天",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是明天"
+            "answer": "买 (mǎi)",
+            "explanation": "“Mua” là “买” (mǎi).",
+            "id": 23
         },
         {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Lên lớp'",
-            "options": [
-                "这上课是",
-                "我上课是",
-                "我是上课",
-                "是上课我"
-            ],
-            "answer": "我是上课",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是上课"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Điện thoại'",
-            "options": [
-                "是电话我",
-                "这电话是",
-                "我电话是",
-                "我是电话"
-            ],
-            "answer": "我是电话",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是电话"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đồ vật'",
-            "options": [
-                "这是东西",
-                "是东西我",
-                "我东西是",
-                "这东西是"
-            ],
-            "answer": "这是东西",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是东西"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Ở đâu'",
-            "options": [
-                "我哪儿是",
-                "这哪儿是",
-                "这是哪儿",
-                "是哪儿我"
-            ],
-            "answer": "这是哪儿",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是哪儿"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Lên lớp'",
-            "options": [
-                "是上课我",
-                "这上课是",
-                "我是上课",
-                "我上课是"
-            ],
-            "answer": "我是上课",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是上课"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Muốn'",
-            "options": [
-                "我想是",
-                "是想我",
-                "这想是",
-                "这是想"
-            ],
-            "answer": "这是想",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是想"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đi'",
-            "options": [
-                "是去我",
-                "这去是",
-                "我去是",
-                "这是去"
-            ],
-            "answer": "这是去",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是去"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Mua'",
-            "options": [
-                "是买我",
-                "我买是",
-                "我是买",
-                "这买是"
-            ],
-            "answer": "我是买",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是买"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Rưỡi'",
-            "options": [
-                "这是半",
-                "我半是",
-                "这半是",
-                "是半我"
-            ],
-            "answer": "这是半",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是半"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tan học'",
-            "options": [
-                "我下课是",
-                "是下课我",
-                "这是下课",
-                "这下课是"
-            ],
-            "answer": "这是下课",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是下课"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đồ vật'",
-            "options": [
-                "我是东西",
-                "这东西是",
-                "我东西是",
-                "是东西我"
-            ],
-            "answer": "我是东西",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是东西"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Điện thoại'",
-            "options": [
-                "是手机我",
-                "我手机是",
-                "这是手机",
-                "这手机是"
-            ],
-            "answer": "这是手机",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是手机"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Rạp chiếu phim'",
-            "options": [
-                "我电影院是",
-                "是电影院我",
-                "我是电影院",
-                "这电影院是"
-            ],
-            "answer": "我是电影院",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是电影院"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 电影。 (Một Phim)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 24
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 电话。 (Một Điện thoại)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "无",
+                "别",
+                "不",
+                "没"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 25
         },
         {
-            "id": 93,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 牛奶。 (Một Sữa)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "我好",
+                "你好",
+                "你好了",
+                "好你"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 26
         },
         {
-            "id": 94,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 事。 (Một Việc)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Động từ + Chủ ngữ + Tân ngữ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 27
         },
         {
-            "id": 95,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 超市。 (Một Siêu thị)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 28
         },
         {
-            "id": 96,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 明天。 (Một Ngày mai)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Đáp án sai",
+                "今天星期几？了",
+                "？几期星天今",
+                "今天星期几？"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 29
         },
         {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 晚上。 (Một Buổi tối)",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "电话",
+                "超市",
+                "手机",
+                "明天"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 30
         },
         {
-            "id": 98,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 看。 (Một Xem)",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "买",
+                "手机",
+                "电话",
+                "去"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "手机",
+            "explanation": "Đáp án đúng là “手机” (Điện thoại).",
+            "id": 31
         },
         {
-            "id": 99,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 家。 (Một Nhà)",
+            "type": "meaning",
+            "question": "Từ “去” (qù) có nghĩa là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Muốn",
+                "Đi",
+                "Điện thoại",
+                "Điện thoại"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 些。 (Một Một ít)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Đi",
+            "explanation": "“去” nghĩa là “Đi”.",
+            "id": 32
         }
     ]
 }

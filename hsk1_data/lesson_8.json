@@ -1,1307 +1,423 @@
 {
     "lessonId": 8,
-    "lessonTitle": "Bài 8: 我爸爸也在医院工作",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 8: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
-            "type": "meaning",
-            "question": "Từ '桌子' (zhuōzi) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "Ngoài",
-                "Cái bàn",
-                "Hiệu sách",
-                "Xinh đẹp"
-            ],
-            "answer": "Cái bàn",
-            "explanation": "'桌子' nghĩa là 'Cái bàn'."
-        },
-        {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '前' (qián) có nghĩa là gì?",
-            "options": [
-                "Nhỏ",
-                "Nhìn thấy",
-                "Trước",
-                "Căn phòng"
-            ],
-            "answer": "Trước",
-            "explanation": "'前' nghĩa là 'Trước'."
-        },
-        {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '午饭' (wǔfàn) có nghĩa là gì?",
-            "options": [
-                "Bữa trưa",
-                "Đến",
-                "Cái bàn",
-                "Xinh đẹp"
-            ],
-            "answer": "Bữa trưa",
-            "explanation": "'午饭' nghĩa là 'Bữa trưa'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '到' (dào) có nghĩa là gì?",
-            "options": [
-                "Đến",
-                "Bữa trưa",
-                "Con (lượng từ)",
-                "Nhìn thấy"
-            ],
-            "answer": "Đến",
-            "explanation": "'到' nghĩa là 'Đến'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '外' (wài) có nghĩa là gì?",
-            "options": [
-                "Xinh đẹp",
-                "Con (lượng từ)",
-                "Ngoài",
-                "Trước"
-            ],
-            "answer": "Ngoài",
-            "explanation": "'外' nghĩa là 'Ngoài'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '下' (xià) có nghĩa là gì?",
-            "options": [
-                "Không",
-                "Ngoài",
-                "Dưới",
-                "Bữa trưa"
-            ],
-            "answer": "Dưới",
-            "explanation": "'下' nghĩa là 'Dưới'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '书店' (shūdiàn) có nghĩa là gì?",
-            "options": [
-                "Mèo",
-                "Hiệu sách",
-                "Ngoài",
-                "Căn phòng"
-            ],
-            "answer": "Hiệu sách",
-            "explanation": "'书店' nghĩa là 'Hiệu sách'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '学校' (xuéxiào) có nghĩa là gì?",
-            "options": [
-                "Không",
-                "Xinh đẹp",
-                "Trường học",
-                "Nhìn thấy"
-            ],
-            "answer": "Trường học",
-            "explanation": "'学校' nghĩa là 'Trường học'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '猫' (māo) có nghĩa là gì?",
-            "options": [
-                "Không",
-                "Trường học",
-                "Trước",
-                "Mèo"
-            ],
-            "answer": "Mèo",
-            "explanation": "'猫' nghĩa là 'Mèo'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '小' (xiǎo) có nghĩa là gì?",
-            "options": [
-                "Bữa trưa",
-                "Nhỏ",
-                "Mèo",
-                "Xinh đẹp"
-            ],
-            "answer": "Nhỏ",
-            "explanation": "'小' nghĩa là 'Nhỏ'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '没' (méi) có nghĩa là gì?",
-            "options": [
-                "Không",
-                "Xinh đẹp",
-                "Trước",
-                "Nhỏ"
-            ],
-            "answer": "Không",
-            "explanation": "'没' nghĩa là 'Không'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '看见' (kànjiàn) có nghĩa là gì?",
-            "options": [
-                "Trường học",
-                "Dưới",
-                "Căn phòng",
-                "Nhìn thấy"
-            ],
-            "answer": "Nhìn thấy",
-            "explanation": "'看见' nghĩa là 'Nhìn thấy'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '能' (néng) có nghĩa là gì?",
-            "options": [
-                "Trước",
-                "Có thể",
-                "Không",
-                "Nhìn thấy"
-            ],
-            "answer": "Có thể",
-            "explanation": "'能' nghĩa là 'Có thể'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '漂亮' (piàoliang) có nghĩa là gì?",
-            "options": [
-                "Mèo",
-                "Đến",
-                "Xinh đẹp",
-                "Hiệu sách"
-            ],
-            "answer": "Xinh đẹp",
-            "explanation": "'漂亮' nghĩa là 'Xinh đẹp'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '只' (zhī) có nghĩa là gì?",
-            "options": [
-                "Nhìn thấy",
-                "Con (lượng từ)",
-                "Ngoài",
-                "Bữa trưa"
-            ],
-            "answer": "Con (lượng từ)",
-            "explanation": "'只' nghĩa là 'Con (lượng từ)'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '房间' (fángjiān) có nghĩa là gì?",
-            "options": [
-                "Trước",
-                "Có thể",
-                "Căn phòng",
-                "Trường học"
-            ],
-            "answer": "Căn phòng",
-            "explanation": "'房间' nghĩa là 'Căn phòng'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '猫' (māo) có nghĩa là gì?",
-            "options": [
-                "Mèo",
-                "Nhìn thấy",
-                "Ngoài",
-                "Trường học"
-            ],
-            "answer": "Mèo",
-            "explanation": "'猫' nghĩa là 'Mèo'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '学校' (xuéxiào) có nghĩa là gì?",
-            "options": [
-                "Con (lượng từ)",
-                "Trường học",
-                "Bữa trưa",
-                "Đến"
-            ],
-            "answer": "Trường học",
-            "explanation": "'学校' nghĩa là 'Trường học'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '桌子' (zhuōzi) có nghĩa là gì?",
-            "options": [
-                "Trường học",
-                "Bữa trưa",
-                "Hiệu sách",
-                "Cái bàn"
-            ],
-            "answer": "Cái bàn",
-            "explanation": "'桌子' nghĩa là 'Cái bàn'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '前' (qián) có nghĩa là gì?",
-            "options": [
-                "Có thể",
-                "Cái bàn",
-                "Trường học",
-                "Trước"
-            ],
-            "answer": "Trước",
-            "explanation": "'前' nghĩa là 'Trước'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '外' (wài) có nghĩa là gì?",
-            "options": [
-                "Mèo",
-                "Ngoài",
-                "Nhìn thấy",
-                "Cái bàn"
-            ],
-            "answer": "Ngoài",
-            "explanation": "'外' nghĩa là 'Ngoài'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '小' (xiǎo) có nghĩa là gì?",
-            "options": [
-                "Bữa trưa",
-                "Nhỏ",
-                "Đến",
-                "Ngoài"
-            ],
-            "answer": "Nhỏ",
-            "explanation": "'小' nghĩa là 'Nhỏ'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '只' (zhī) có nghĩa là gì?",
-            "options": [
-                "Cái bàn",
-                "Con (lượng từ)",
-                "Nhỏ",
-                "Xinh đẹp"
-            ],
-            "answer": "Con (lượng từ)",
-            "explanation": "'只' nghĩa là 'Con (lượng từ)'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '下' (xià) có nghĩa là gì?",
-            "options": [
-                "Đến",
-                "Nhìn thấy",
-                "Không",
-                "Dưới"
-            ],
-            "answer": "Dưới",
-            "explanation": "'下' nghĩa là 'Dưới'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '能' (néng) có nghĩa là gì?",
-            "options": [
-                "Hiệu sách",
-                "Nhìn thấy",
-                "Trước",
-                "Có thể"
-            ],
-            "answer": "Có thể",
-            "explanation": "'能' nghĩa là 'Có thể'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '书店' (shūdiàn) có nghĩa là gì?",
-            "options": [
-                "Trường học",
-                "Hiệu sách",
-                "Có thể",
-                "Mèo"
-            ],
-            "answer": "Hiệu sách",
-            "explanation": "'书店' nghĩa là 'Hiệu sách'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '漂亮' (piàoliang) có nghĩa là gì?",
-            "options": [
-                "Xinh đẹp",
-                "Con (lượng từ)",
-                "Mèo",
-                "Bữa trưa"
-            ],
-            "answer": "Xinh đẹp",
-            "explanation": "'漂亮' nghĩa là 'Xinh đẹp'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '没' (méi) có nghĩa là gì?",
-            "options": [
-                "Căn phòng",
-                "Bữa trưa",
-                "Đến",
-                "Không"
-            ],
-            "answer": "Không",
-            "explanation": "'没' nghĩa là 'Không'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '房间' (fángjiān) có nghĩa là gì?",
-            "options": [
-                "Nhìn thấy",
-                "Xinh đẹp",
-                "Căn phòng",
-                "Ngoài"
-            ],
-            "answer": "Căn phòng",
-            "explanation": "'房间' nghĩa là 'Căn phòng'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '看见' (kànjiàn) có nghĩa là gì?",
-            "options": [
-                "Bữa trưa",
-                "Con (lượng từ)",
-                "Nhìn thấy",
-                "Cái bàn"
-            ],
-            "answer": "Nhìn thấy",
-            "explanation": "'看见' nghĩa là 'Nhìn thấy'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '到' là:",
-            "options": [
-                "dàó",
-                "dào",
-                "dào5",
-                "dào9"
-            ],
-            "answer": "dào",
-            "explanation": "'到' đọc là dào."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '午饭' là:",
-            "options": [
-                "wǔfàn3",
-                "wǔfàn1",
-                "wǔfàn",
-                "wǔfàm"
-            ],
-            "answer": "wǔfàn",
-            "explanation": "'午饭' đọc là wǔfàn."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '猫' là:",
-            "options": [
-                "māo9",
-                "māo3",
-                "māo",
-                "māó"
-            ],
-            "answer": "māo",
-            "explanation": "'猫' đọc là māo."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '小' là:",
-            "options": [
-                "xìǎo",
-                "xiǎo",
-                "xiǎó",
-                "xiǎo5"
-            ],
-            "answer": "xiǎo",
-            "explanation": "'小' đọc là xiǎo."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '下' là:",
-            "options": [
-                "xià",
-                "xìà",
-                "xià8",
-                "xià2"
-            ],
-            "answer": "xià",
-            "explanation": "'下' đọc là xià."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '书店' là:",
-            "options": [
-                "shūdiàn3",
-                "shūdiàn",
-                "shūdiàm",
-                "shūdìàn"
-            ],
-            "answer": "shūdiàn",
-            "explanation": "'书店' đọc là shūdiàn."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '到' là:",
-            "options": [
-                "dào8",
-                "dào",
-                "dào1",
-                "dàó"
-            ],
-            "answer": "dào",
-            "explanation": "'到' đọc là dào."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '前' là:",
-            "options": [
-                "qián",
-                "qìán",
-                "qián6",
-                "qiám"
-            ],
-            "answer": "qián",
-            "explanation": "'前' đọc là qián."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '只' là:",
-            "options": [
-                "zhī5",
-                "zhī7",
-                "zhī4",
-                "zhī"
-            ],
-            "answer": "zhī",
-            "explanation": "'只' đọc là zhī."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '学校' là:",
-            "options": [
-                "xuéxìào",
-                "xuéxiào3",
-                "xuéxiào",
-                "xùéxiàó"
-            ],
-            "answer": "xuéxiào",
-            "explanation": "'学校' đọc là xuéxiào."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '房间' là:",
-            "options": [
-                "fángjìān",
-                "fángjiān2",
-                "fángjiān",
-                "fámgjiām"
-            ],
-            "answer": "fángjiān",
-            "explanation": "'房间' đọc là fángjiān."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '能' là:",
-            "options": [
-                "néng7",
-                "néng",
-                "mémg",
-                "néng2"
-            ],
-            "answer": "néng",
-            "explanation": "'能' đọc là néng."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '没' là:",
-            "options": [
-                "méi4",
-                "méi",
-                "méi9",
-                "méì"
-            ],
-            "answer": "méi",
-            "explanation": "'没' đọc là méi."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '午饭' là:",
-            "options": [
-                "wǔfàn9",
-                "wǔfàn2",
-                "wǔfàn",
-                "wǔfàm"
-            ],
-            "answer": "wǔfàn",
-            "explanation": "'午饭' đọc là wǔfàn."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '看见' là:",
-            "options": [
-                "kànjiàn",
-                "kànjiàn9",
-                "kàmjiàm",
-                "kànjìàn"
-            ],
-            "answer": "kànjiàn",
-            "explanation": "'看见' đọc là kànjiàn."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '漂亮' là:",
-            "options": [
-                "pìàolìàng",
-                "piàoliamg",
-                "piàoliang",
-                "piàóliang"
-            ],
-            "answer": "piàoliang",
-            "explanation": "'漂亮' đọc là piàoliang."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '外' là:",
-            "options": [
-                "wài3",
-                "wài",
-                "wài3",
-                "wàì"
-            ],
-            "answer": "wài",
-            "explanation": "'外' đọc là wài."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '桌子' là:",
-            "options": [
-                "zhùōzi",
-                "zhuōzi",
-                "zhuōzi5",
-                "zhuōzì"
-            ],
-            "answer": "zhuōzi",
-            "explanation": "'桌子' đọc là zhuōzi."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '外' là:",
-            "options": [
-                "wài",
-                "wài8",
-                "wàì",
-                "wài2"
-            ],
-            "answer": "wài",
-            "explanation": "'外' đọc là wài."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '房间' là:",
-            "options": [
-                "fángjiān1",
-                "fámgjiām",
-                "fángjìān",
-                "fángjiān"
-            ],
-            "answer": "fángjiān",
-            "explanation": "'房间' đọc là fángjiān."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '漂亮' là:",
-            "options": [
-                "pìàolìàng",
-                "piàoliamg",
-                "piàóliang",
-                "piàoliang"
-            ],
-            "answer": "piàoliang",
-            "explanation": "'漂亮' đọc là piàoliang."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '书店' là:",
-            "options": [
-                "shūdiàn5",
-                "shūdìàn",
-                "shūdiàn",
-                "shūdiàm"
-            ],
-            "answer": "shūdiàn",
-            "explanation": "'书店' đọc là shūdiàn."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '桌子' là:",
-            "options": [
-                "zhuōzi5",
-                "zhuōzì",
-                "zhuōzi",
-                "zhùōzi"
-            ],
-            "answer": "zhuōzi",
-            "explanation": "'桌子' đọc là zhuōzi."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '没' là:",
-            "options": [
-                "méi",
-                "méi2",
-                "méì",
-                "méi2"
-            ],
-            "answer": "méi",
-            "explanation": "'没' đọc là méi."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '只' là:",
-            "options": [
-                "zhī3",
-                "zhī",
-                "zhī2",
-                "zhī7"
-            ],
-            "answer": "zhī",
-            "explanation": "'只' đọc là zhī."
-        },
-        {
-            "id": 56,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Có thể' vào chỗ trống: ______",
-            "options": [
-                "到",
-                "书店",
-                "午饭",
-                "能"
-            ],
-            "answer": "能",
-            "explanation": "Từ cần điền là '能'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mèo' vào chỗ trống: ______",
-            "options": [
-                "下",
-                "书店",
-                "猫",
-                "漂亮"
-            ],
-            "answer": "猫",
-            "explanation": "Từ cần điền là '猫'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trước' vào chỗ trống: ______",
-            "options": [
-                "到",
-                "前",
-                "没",
-                "下"
-            ],
-            "answer": "前",
-            "explanation": "Từ cần điền là '前'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bữa trưa' vào chỗ trống: ______",
-            "options": [
-                "午饭",
-                "外",
-                "小",
-                "下"
-            ],
-            "answer": "午饭",
-            "explanation": "Từ cần điền là '午饭'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhìn thấy' vào chỗ trống: ______",
-            "options": [
-                "看见",
-                "前",
-                "桌子",
+                "无",
+                "别",
+                "不",
                 "没"
             ],
-            "answer": "看见",
-            "explanation": "Từ cần điền là '看见'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 1
         },
         {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhỏ' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "没",
-                "书店",
-                "漂亮",
-                "小"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Động từ + Chủ ngữ + Tân ngữ"
             ],
-            "answer": "小",
-            "explanation": "Từ cần điền là '小'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 2
         },
         {
-            "id": 62,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trường học' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
             "options": [
-                "下",
-                "学校",
-                "桌子",
-                "小"
-            ],
-            "answer": "学校",
-            "explanation": "Từ cần điền là '学校'."
-        },
-        {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đến' vào chỗ trống: ______",
-            "options": [
-                "漂亮",
-                "午饭",
                 "外",
-                "到"
-            ],
-            "answer": "到",
-            "explanation": "Từ cần điền là '到'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Dưới' vào chỗ trống: ______",
-            "options": [
-                "下",
-                "学校",
-                "没",
-                "桌子"
-            ],
-            "answer": "下",
-            "explanation": "Từ cần điền là '下'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trước' vào chỗ trống: ______",
-            "options": [
-                "桌子",
-                "外",
-                "前",
-                "没"
-            ],
-            "answer": "前",
-            "explanation": "Từ cần điền là '前'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đến' vào chỗ trống: ______",
-            "options": [
-                "书店",
-                "午饭",
-                "到",
-                "前"
-            ],
-            "answer": "到",
-            "explanation": "Từ cần điền là '到'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cái bàn' vào chỗ trống: ______",
-            "options": [
-                "下",
-                "外",
-                "桌子",
-                "午饭"
-            ],
-            "answer": "桌子",
-            "explanation": "Từ cần điền là '桌子'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Hiệu sách' vào chỗ trống: ______",
-            "options": [
-                "前",
-                "书店",
                 "只",
-                "外"
+                "房间",
+                "看见"
             ],
-            "answer": "书店",
-            "explanation": "Từ cần điền là '书店'."
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 3
         },
         {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Có thể' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Mèo”?",
             "options": [
-                "能",
-                "前",
-                "到",
-                "猫"
+                "外 (wài)",
+                "只 (zhī)",
+                "猫 (māo)",
+                "桌子 (zhuōzi)"
             ],
-            "answer": "能",
-            "explanation": "Từ cần điền là '能'."
+            "answer": "猫 (māo)",
+            "explanation": "“Mèo” là “猫” (māo).",
+            "id": 4
         },
         {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bữa trưa' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
             "options": [
-                "书店",
-                "外",
-                "午饭",
-                "能"
+                "再见了",
+                "见再",
+                "Đáp án sai",
+                "再见"
             ],
-            "answer": "午饭",
-            "explanation": "Từ cần điền là '午饭'."
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 5
         },
         {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngoài' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ “房间” (fángjiān) có nghĩa là gì?",
             "options": [
-                "学校",
+                "Nhỏ",
+                "Nhìn thấy",
+                "Con",
+                "Căn phòng"
+            ],
+            "answer": "Căn phòng",
+            "explanation": "“房间” nghĩa là “Căn phòng”.",
+            "id": 6
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
                 "看见",
-                "外",
-                "下"
-            ],
-            "answer": "外",
-            "explanation": "Từ cần điền là '外'."
-        },
-        {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Căn phòng' vào chỗ trống: ______",
-            "options": [
-                "书店",
-                "学校",
-                "小",
+                "桌子",
+                "猫",
                 "房间"
             ],
             "answer": "房间",
-            "explanation": "Từ cần điền là '房间'."
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 7
         },
         {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Xinh đẹp' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "能",
-                "看见",
-                "漂亮",
+                "Đáp án sai",
+                "谢谢了",
+                "谢谢",
+                "Đáp án sai"
+            ],
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 8
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “外” (wài) có nghĩa là gì?",
+            "options": [
+                "Mèo",
+                "Con",
+                "Không",
+                "Ngoài"
+            ],
+            "answer": "Ngoài",
+            "explanation": "“外” nghĩa là “Ngoài”.",
+            "id": 9
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "不",
+                "无",
+                "别",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 10
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Cái bàn”?",
+            "options": [
+                "桌子 (zhuōzi)",
+                "小 (xiǎo)",
+                "房间 (fángjiān)",
+                "外 (wài)"
+            ],
+            "answer": "桌子 (zhuōzi)",
+            "explanation": "“Cái bàn” là “桌子” (zhuōzi).",
+            "id": 11
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Không”?",
+            "options": [
+                "猫 (māo)",
+                "没 (méi)",
+                "小 (xiǎo)",
+                "桌子 (zhuōzi)"
+            ],
+            "answer": "没 (méi)",
+            "explanation": "“Không” là “没” (méi).",
+            "id": 12
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
+            "options": [
+                "桌子",
+                "房间",
+                "没",
                 "猫"
             ],
-            "answer": "漂亮",
-            "explanation": "Từ cần điền là '漂亮'."
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 13
         },
         {
-            "id": 74,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mèo' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
+            "options": [
+                "只",
+                "房间",
+                "没",
+                "猫"
+            ],
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 14
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
+            "options": [
+                "房间",
+                "没",
+                "桌子",
+                "看见"
+            ],
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 15
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
             "options": [
                 "小",
-                "外",
-                "只",
-                "猫"
-            ],
-            "answer": "猫",
-            "explanation": "Từ cần điền là '猫'."
-        },
-        {
-            "id": 75,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nhìn thấy' vào chỗ trống: ______",
-            "options": [
-                "书店",
                 "看见",
-                "能",
-                "午饭"
+                "外",
+                "房间"
             ],
-            "answer": "看见",
-            "explanation": "Từ cần điền là '看见'."
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 16
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nhỏ'",
-            "options": [
-                "这小是",
-                "我小是",
-                "这是小",
-                "是小我"
-            ],
-            "answer": "这是小",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是小"
-        },
-        {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Trường học'",
-            "options": [
-                "我是学校",
-                "这学校是",
-                "我学校是",
-                "是学校我"
-            ],
-            "answer": "我是学校",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是学校"
-        },
-        {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Con (lượng từ)'",
-            "options": [
-                "我是只",
-                "这只是",
-                "我只是",
-                "是只我"
-            ],
-            "answer": "我是只",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是只"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Không'",
-            "options": [
-                "我没是",
-                "这是没",
-                "这没是",
-                "是没我"
-            ],
-            "answer": "这是没",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是没"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Dưới'",
-            "options": [
-                "我下是",
-                "是下我",
-                "这是下",
-                "这下是"
-            ],
-            "answer": "这是下",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是下"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Hiệu sách'",
-            "options": [
-                "我书店是",
-                "是书店我",
-                "这书店是",
-                "这是书店"
-            ],
-            "answer": "这是书店",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是书店"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cái bàn'",
-            "options": [
-                "这桌子是",
-                "我是桌子",
-                "我桌子是",
-                "是桌子我"
-            ],
-            "answer": "我是桌子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是桌子"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Có thể'",
-            "options": [
-                "这能是",
-                "我能是",
-                "是能我",
-                "我是能"
-            ],
-            "answer": "我是能",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是能"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Trước'",
-            "options": [
-                "是前我",
-                "我前是",
-                "这前是",
-                "我是前"
-            ],
-            "answer": "我是前",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是前"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Không'",
-            "options": [
-                "这没是",
-                "我是没",
-                "我没是",
-                "是没我"
-            ],
-            "answer": "我是没",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是没"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trường học'",
-            "options": [
-                "这学校是",
-                "我学校是",
-                "这是学校",
-                "是学校我"
-            ],
-            "answer": "这是学校",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是学校"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Dưới'",
-            "options": [
-                "我下是",
-                "我是下",
-                "是下我",
-                "这下是"
-            ],
-            "answer": "我是下",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是下"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Căn phòng'",
-            "options": [
-                "这是房间",
-                "这房间是",
-                "我房间是",
-                "是房间我"
-            ],
-            "answer": "这是房间",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是房间"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Xinh đẹp'",
-            "options": [
-                "我漂亮是",
-                "这漂亮是",
-                "我是漂亮",
-                "是漂亮我"
-            ],
-            "answer": "我是漂亮",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是漂亮"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Mèo'",
-            "options": [
-                "是猫我",
-                "我猫是",
-                "这是猫",
-                "这猫是"
-            ],
-            "answer": "这是猫",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是猫"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 外。 (Một Ngoài)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "无",
+                "没",
+                "不",
+                "别"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 17
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 午饭。 (Một Bữa trưa)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 18
         },
         {
-            "id": 93,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 看见。 (Một Nhìn thấy)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "这是我的书了",
+                "书的我是这",
+                "这是他的书",
+                "这是我的书"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 19
         },
         {
-            "id": 94,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 只。 (Một Con (lượng từ))",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "你好吗？",
+                "？吗好你",
+                "你好吗？了",
+                "我好吗？"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 20
         },
         {
-            "id": 95,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 小。 (Một Nhỏ)",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "看见",
+                "小",
+                "房间",
+                "只"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 21
         },
         {
-            "id": 96,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 到。 (Một Đến)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "你好了",
+                "你好",
+                "好你",
+                "我好"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 22
         },
         {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 没。 (Một Không)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Đáp án sai",
+                "今天星期几？",
+                "？几期星天今",
+                "今天星期几？了"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 23
         },
         {
-            "id": 98,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 外。 (Một Ngoài)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Nhìn thấy”?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "看见 (kànjiàn)",
+                "桌子 (zhuōzi)",
+                "房间 (fángjiān)",
+                "没 (méi)"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "看见 (kànjiàn)",
+            "explanation": "“Nhìn thấy” là “看见” (kànjiàn).",
+            "id": 24
         },
         {
-            "id": 99,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 看见。 (Một Nhìn thấy)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 25
         },
         {
-            "id": 100,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 能。 (Một Có thể)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "我喜欢吃苹果了",
+                "果苹吃欢喜我",
+                "他喜欢吃苹果",
+                "我喜欢吃苹果"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 26
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “只” (zhī) có nghĩa là gì?",
+            "options": [
+                "Nhỏ",
+                "Căn phòng",
+                "Không",
+                "Con"
+            ],
+            "answer": "Con",
+            "explanation": "“只” nghĩa là “Con”.",
+            "id": 27
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “小” (xiǎo) có nghĩa là gì?",
+            "options": [
+                "Cái bàn",
+                "Mèo",
+                "Không",
+                "Nhỏ"
+            ],
+            "answer": "Nhỏ",
+            "explanation": "“小” nghĩa là “Nhỏ”.",
+            "id": 28
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "别",
+                "无",
+                "不",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 29
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
+            "options": [
+                "没",
+                "房间",
+                "小",
+                "外"
+            ],
+            "answer": "房间",
+            "explanation": "Đáp án đúng là “房间” (Căn phòng).",
+            "id": 30
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 31
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "我是学生",
+                "生学是我",
+                "他是学生",
+                "我是学生了"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 32
         }
     ]
 }

@@ -1,1307 +1,397 @@
 {
     "lessonId": 1,
     "lessonTitle": "Bài 1: AI小语，你好",
-    "totalQuestions": 100,
+    "totalQuestions": 30,
     "questions": [
         {
-            "id": 1,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '再见' là:",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "zàìjìàn",
-                "zàijiàn",
-                "zàijiàn8",
-                "zàijiàm"
+                "Đáp án sai",
+                "谢谢了",
+                "Đáp án sai",
+                "谢谢"
             ],
-            "answer": "zàijiàn",
-            "explanation": "'再见' đọc là zàijiàn."
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 1
         },
         {
-            "id": 2,
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
+            "question": "Dịch câu sau sang tiếng Trung: “Rất vui được gặp bạn”",
+            "options": [
+                "很高兴认识我",
+                "很高兴认识你",
+                "很高兴认识你了",
+                "你识认兴高很"
+            ],
+            "answer": "很高兴认识你",
+            "explanation": "Câu đúng là: 很高兴认识你",
+            "id": 2
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi tên là Lý Văn”",
+            "options": [
+                "文李叫我",
+                "他叫李文",
+                "我叫李文",
+                "我叫李文了"
+            ],
+            "answer": "我叫李文",
+            "explanation": "Câu đúng là: 我叫李文",
+            "id": 3
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Giới thiệu tên\nCấu trúc để giới thiệu tên là gì?",
+            "options": [
+                "我在...",
+                "我有...",
+                "我叫...",
+                "我是..."
+            ],
+            "answer": "我叫...",
+            "explanation": "我叫 + Tên (Tôi tên là...)",
+            "id": 4
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “你们” (nǐmen) có nghĩa là gì?",
+            "options": [
+                "Học sinh",
+                "Giáo viên",
+                "Cảm ơn",
+                "Các bạn"
+            ],
+            "answer": "Các bạn",
+            "explanation": "“你们” nghĩa là “Các bạn”.",
+            "id": 5
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “老师” (lǎoshī) có nghĩa là gì?",
+            "options": [
+                "Giáo viên",
+                "Không sao",
+                "Ngài",
+                "Cảm ơn"
+            ],
+            "answer": "Giáo viên",
+            "explanation": "“老师” nghĩa là “Giáo viên”.",
+            "id": 6
+        },
+        {
+            "type": "pinyin",
+            "question": "Cách đọc đúng của “学生” là:",
+            "options": [
+                "xuéshēng1",
+                "xuéshēng2",
+                "xuéshēmg",
+                "xuéshēng"
+            ],
+            "answer": "xuéshēng",
+            "explanation": "“学生” đọc là xuéshēng.",
+            "id": 7
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “没关系” (méi guānxi) có nghĩa là gì?",
+            "options": [
+                "Các bạn",
+                "Không sao",
+                "Xin chào",
+                "Mọi người"
+            ],
+            "answer": "Không sao",
+            "explanation": "“没关系” nghĩa là “Không sao”.",
+            "id": 8
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin lỗi”",
+            "options": [
+                "对不起",
+                "Đáp án sai",
+                "起不对",
+                "对不起了"
+            ],
+            "answer": "对不起",
+            "explanation": "Câu đúng là: 对不起",
+            "id": 9
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
+            "options": [
+                "Đáp án sai",
+                "再见了",
+                "再见",
+                "见再"
+            ],
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 10
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Không có gì”",
             "options": [
                 "不客气",
-                "是客气",
-                "我是不客气",
+                "Đáp án sai",
+                "不客气了",
                 "气客不"
             ],
             "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
+            "explanation": "Câu đúng là: 不客气",
+            "id": 11
         },
         {
-            "id": 3,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 你们 ______ 老师。 (Nghĩa: Các bạn Các bạn Giáo viên)",
-            "options": [
-                "你好",
-                "谢谢",
-                "你们",
-                "再见"
-            ],
-            "answer": "你们",
-            "explanation": "Đáp án đúng là '你们'."
-        },
-        {
-            "id": 4,
             "type": "meaning",
-            "question": "Từ '你好' (nǐ hǎo) có nghĩa là gì?",
+            "question": "Từ “谢谢” (xièxie) có nghĩa là gì?",
             "options": [
-                "Xin chào",
-                "Cảm ơn",
-                "Không có gì",
-                "Tạm biệt"
-            ],
-            "answer": "Xin chào",
-            "explanation": "'你好' nghĩa là 'Xin chào'."
-        },
-        {
-            "id": 5,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '您' là:",
-            "options": [
-                "nín",
-                "nín9",
-                "mím",
-                "nín3"
-            ],
-            "answer": "nín",
-            "explanation": "'您' đọc là nín."
-        },
-        {
-            "id": 6,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Ngài)",
-            "options": [
-                "你好",
-                "您",
-                "再见",
-                "谢谢"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là '您'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '你好' (nǐ hǎo) có nghĩa là gì?",
-            "options": [
-                "Cảm ơn",
+                "Học sinh",
                 "Tạm biệt",
-                "Không có gì",
-                "Xin chào"
+                "Cảm ơn",
+                "Xin lỗi"
             ],
-            "answer": "Xin chào",
-            "explanation": "'你好' nghĩa là 'Xin chào'."
+            "answer": "Cảm ơn",
+            "explanation": "“谢谢” nghĩa là “Cảm ơn”.",
+            "id": 12
         },
         {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '再见' (zàijiàn) có nghĩa là gì?",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
             "options": [
+                "他是学生",
+                "生学是我",
+                "我是学生",
+                "我是学生了"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 13
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “再见” (zàijiàn) có nghĩa là gì?",
+            "options": [
+                "Không sao",
+                "Là",
                 "Tạm biệt",
-                "Không có gì",
-                "Xin chào",
-                "Cảm ơn"
+                "Xin lỗi"
             ],
             "answer": "Tạm biệt",
-            "explanation": "'再见' nghĩa là 'Tạm biệt'."
+            "explanation": "“再见” nghĩa là “Tạm biệt”.",
+            "id": 14
         },
         {
-            "id": 9,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 10,
             "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Giáo viên)",
+            "question": "Điền từ thích hợp vào chỗ trống:\n______ (nín)",
             "options": [
                 "老师",
-                "再见",
+                "不客气",
                 "你好",
-                "谢谢"
-            ],
-            "answer": "老师",
-            "explanation": "Đáp án đúng là '老师'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Xin chào",
-                "Cảm ơn",
-                "Ngài"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 12,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
+                "您"
             ],
             "answer": "您",
-            "explanation": "Đáp án đúng là 您."
+            "explanation": "Đáp án đúng là “您” (Ngài).",
+            "id": 15
         },
         {
-            "id": 13,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "我是不客气",
-                "是客气",
-                "气客不",
-                "不客气"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 14,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 ______ 老师。 (Nghĩa: Ngài Tạm biệt Giáo viên)",
-            "options": [
-                "再见",
-                "谢谢",
-                "你好",
-                "不客气"
-            ],
-            "answer": "再见",
-            "explanation": "Đáp án đúng là '再见'."
-        },
-        {
-            "id": 15,
             "type": "meaning",
-            "question": "Từ '你们' (nǐmen) có nghĩa là gì?",
+            "question": "Từ “你好” (nǐ hǎo) có nghĩa là gì?",
             "options": [
-                "Cảm ơn",
-                "Xin chào",
-                "Các bạn",
-                "Tạm biệt"
-            ],
-            "answer": "Các bạn",
-            "explanation": "'你们' nghĩa là 'Các bạn'."
-        },
-        {
-            "id": 16,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 ______ 老师。 (Nghĩa: Mọi người Tạm biệt Giáo viên)",
-            "options": [
-                "再见",
-                "你好",
-                "谢谢",
-                "不客气"
-            ],
-            "answer": "再见",
-            "explanation": "Đáp án đúng là '再见'."
-        },
-        {
-            "id": 17,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '你们' là:",
-            "options": [
-                "nǐmen3",
-                "mǐmem",
-                "nǐmen1",
-                "nǐmen"
-            ],
-            "answer": "nǐmen",
-            "explanation": "'你们' đọc là nǐmen."
-        },
-        {
-            "id": 18,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 你们 很 ______。 (Nghĩa: Các bạn rất Mọi người)",
-            "options": [
-                "你好",
-                "谢谢",
-                "再见",
-                "大家"
-            ],
-            "answer": "大家",
-            "explanation": "Đáp án đúng là '大家'."
-        },
-        {
-            "id": 19,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "是客气",
-                "我是不客气",
-                "不客气",
-                "气客不"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
                 "Ngài",
-                "Cảm ơn",
-                "Xin chào"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 21,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Cảm ơn'",
-            "options": [
-                "谢谢",
-                "我是不谢",
-                "是谢",
-                "谢谢。"
-            ],
-            "answer": "谢谢",
-            "explanation": "Câu đúng là: 谢谢"
-        },
-        {
-            "id": 22,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '不客气' là:",
-            "options": [
-                "bú kèqi1",
-                "bú kèqi",
-                "bú kèqì",
-                "bú kèqi3"
-            ],
-            "answer": "bú kèqi",
-            "explanation": "'不客气' đọc là bú kèqi."
-        },
-        {
-            "id": 23,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '您' là:",
-            "options": [
-                "nín7",
-                "nín",
-                "mím",
-                "nín7"
-            ],
-            "answer": "nín",
-            "explanation": "'您' đọc là nín."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '你们' (nǐmen) có nghĩa là gì?",
-            "options": [
-                "Các bạn",
-                "Cảm ơn",
-                "Tạm biệt",
-                "Xin chào"
-            ],
-            "answer": "Các bạn",
-            "explanation": "'你们' nghĩa là 'Các bạn'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '不客气' (bú kèqi) có nghĩa là gì?",
-            "options": [
                 "Xin chào",
-                "Cảm ơn",
-                "Không có gì",
-                "Tạm biệt"
-            ],
-            "answer": "Không có gì",
-            "explanation": "'不客气' nghĩa là 'Không có gì'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '再见' (zàijiàn) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Không có gì",
-                "Cảm ơn",
-                "Xin chào"
-            ],
-            "answer": "Tạm biệt",
-            "explanation": "'再见' nghĩa là 'Tạm biệt'."
-        },
-        {
-            "id": 27,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Xin chào)",
-            "options": [
-                "你好",
-                "不客气",
-                "再见",
-                "谢谢"
-            ],
-            "answer": "你好",
-            "explanation": "Đáp án đúng là '你好'."
-        },
-        {
-            "id": 28,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Cảm ơn'",
-            "options": [
-                "谢谢。",
-                "我是不谢",
-                "谢谢",
-                "是谢"
-            ],
-            "answer": "谢谢",
-            "explanation": "Câu đúng là: 谢谢"
-        },
-        {
-            "id": 29,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '不客气' (bú kèqi) có nghĩa là gì?",
-            "options": [
-                "Không có gì",
-                "Cảm ơn",
-                "Xin chào",
-                "Tạm biệt"
-            ],
-            "answer": "Không có gì",
-            "explanation": "'不客气' nghĩa là 'Không có gì'."
-        },
-        {
-            "id": 31,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Cảm ơn'",
-            "options": [
-                "谢谢。",
-                "是谢",
-                "我是不谢",
-                "谢谢"
-            ],
-            "answer": "谢谢",
-            "explanation": "Câu đúng là: 谢谢"
-        },
-        {
-            "id": 32,
-            "type": "meaning",
-            "question": "Từ '学生' (xuéshēng) có nghĩa là gì?",
-            "options": [
-                "Xin chào",
-                "Tạm biệt",
-                "Cảm ơn",
-                "Học sinh"
-            ],
-            "answer": "Học sinh",
-            "explanation": "'学生' nghĩa là 'Học sinh'."
-        },
-        {
-            "id": 33,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 ______ 老师。 (Nghĩa: Mọi người là Giáo viên)",
-            "options": [
-                "不",
-                "有",
-                "叫",
-                "是"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 34,
-            "type": "meaning",
-            "question": "Từ '谢谢' (xièxie) có nghĩa là gì?",
-            "options": [
-                "Cảm ơn",
-                "Tạm biệt",
-                "Không có gì",
-                "Xin chào"
-            ],
-            "answer": "Cảm ơn",
-            "explanation": "'谢谢' nghĩa là 'Cảm ơn'."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '大家' là:",
-            "options": [
-                "dàjiā6",
-                "dàjiā6",
-                "dàjiā",
-                "dàjìā"
-            ],
-            "answer": "dàjiā",
-            "explanation": "'大家' đọc là dàjiā."
-        },
-        {
-            "id": 36,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 ______ 学生。 (Nghĩa: Mọi người Không có gì Học sinh)",
-            "options": [
-                "你好",
-                "不客气",
-                "谢谢",
-                "再见"
-            ],
-            "answer": "不客气",
-            "explanation": "Đáp án đúng là '不客气'."
-        },
-        {
-            "id": 37,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "我是不客气",
-                "是客气",
-                "不客气",
-                "气客不"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 38,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Xin chào",
-                "Tạm biệt",
-                "Cảm ơn",
-                "Ngài"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '你们' là:",
-            "options": [
-                "mǐmem",
-                "nǐmen3",
-                "nǐmen",
-                "nǐmen7"
-            ],
-            "answer": "nǐmen",
-            "explanation": "'你们' đọc là nǐmen."
-        },
-        {
-            "id": 40,
-            "type": "meaning",
-            "question": "Từ '老师' (lǎoshī) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
                 "Giáo viên",
-                "Xin chào",
-                "Cảm ơn"
+                "Các bạn"
             ],
-            "answer": "Giáo viên",
-            "explanation": "'老师' nghĩa là 'Giáo viên'."
+            "answer": "Xin chào",
+            "explanation": "“你好” nghĩa là “Xin chào”.",
+            "id": 16
         },
         {
-            "id": 41,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
+            "type": "grammar",
+            "question": "Ngữ pháp: Xin lỗi\nĐáp lại lời xin lỗi, ta dùng:",
             "options": [
-                "不客气",
-                "是客气",
-                "气客不",
-                "我是不客气"
+                "谢谢 (xièxie)",
+                "你好 (nǐ hǎo)",
+                "不客气 (bú kèqi)",
+                "没关系 (méi guānxi)"
             ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
+            "answer": "没关系 (méi guānxi)",
+            "explanation": "没关系 nghĩa là 'Không sao đâu'.",
+            "id": 17
         },
         {
-            "id": 42,
             "type": "meaning",
-            "question": "Từ '你们' (nǐmen) có nghĩa là gì?",
+            "question": "Từ “对不起” (duìbuqǐ) có nghĩa là gì?",
             "options": [
                 "Các bạn",
-                "Cảm ơn",
+                "Xin lỗi",
                 "Xin chào",
                 "Tạm biệt"
             ],
-            "answer": "Các bạn",
-            "explanation": "'你们' nghĩa là 'Các bạn'."
+            "answer": "Xin lỗi",
+            "explanation": "“对不起” nghĩa là “Xin lỗi”.",
+            "id": 18
         },
         {
-            "id": 43,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Xin chào'",
-            "options": [
-                "你好",
-                "是好",
-                "我是不好",
-                "好你"
-            ],
-            "answer": "你好",
-            "explanation": "Câu đúng là: 你好"
-        },
-        {
-            "id": 44,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 很 ______。 (Nghĩa: Ngài rất Tạm biệt)",
-            "options": [
-                "你好",
-                "谢谢",
-                "再见",
-                "不客气"
-            ],
-            "answer": "再见",
-            "explanation": "Đáp án đúng là '再见'."
-        },
-        {
-            "id": 45,
             "type": "pinyin",
-            "question": "Cách đọc đúng của '再见' là:",
+            "question": "Cách đọc đúng của “大家” là:",
             "options": [
-                "zàijiàm",
-                "zàijiàn",
-                "zàìjìàn",
-                "zàijiàn8"
-            ],
-            "answer": "zàijiàn",
-            "explanation": "'再见' đọc là zàijiàn."
-        },
-        {
-            "id": 46,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "气客不",
-                "我是不客气",
-                "是客气",
-                "不客气"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 47,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 48,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "气客不",
-                "是客气",
-                "不客气",
-                "我是不客气"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '大家' là:",
-            "options": [
-                "dàjiā8",
+                "dàjiā2",
+                "dàjiā",
                 "dàjiā1",
-                "dàjìā",
-                "dàjiā"
-            ],
-            "answer": "dàjiā",
-            "explanation": "'大家' đọc là dàjiā."
-        },
-        {
-            "id": 50,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 51,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 52,
-            "type": "meaning",
-            "question": "Từ '你好' (nǐ hǎo) có nghĩa là gì?",
-            "options": [
-                "Cảm ơn",
-                "Tạm biệt",
-                "Xin chào",
-                "Không có gì"
-            ],
-            "answer": "Xin chào",
-            "explanation": "'你好' nghĩa là 'Xin chào'."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '谢谢' là:",
-            "options": [
-                "xièxie3",
-                "xièxie",
-                "xièxie7",
-                "xìèxìe"
-            ],
-            "answer": "xièxie",
-            "explanation": "'谢谢' đọc là xièxie."
-        },
-        {
-            "id": 54,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
-            "options": [
-                "气客不",
-                "我是不客气",
-                "不客气",
-                "是客气"
-            ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
-        },
-        {
-            "id": 55,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Mọi người)",
-            "options": [
-                "再见",
-                "你好",
-                "谢谢",
-                "大家"
-            ],
-            "answer": "大家",
-            "explanation": "Đáp án đúng là '大家'."
-        },
-        {
-            "id": 56,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 ______ 学生。 (Nghĩa: Mọi người Mọi người Học sinh)",
-            "options": [
-                "你好",
-                "再见",
-                "谢谢",
-                "大家"
-            ],
-            "answer": "大家",
-            "explanation": "Đáp án đúng là '大家'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 ______ 老师。 (Nghĩa: Ngài là Giáo viên)",
-            "options": [
-                "有",
-                "不",
-                "是",
-                "叫"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 58,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 59,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '您' là:",
-            "options": [
-                "nín3",
-                "nín7",
-                "mím",
-                "nín"
-            ],
-            "answer": "nín",
-            "explanation": "'您' đọc là nín."
-        },
-        {
-            "id": 60,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '你们' là:",
-            "options": [
-                "mǐmem",
-                "nǐmen2",
-                "nǐmen",
-                "nǐmen2"
-            ],
-            "answer": "nǐmen",
-            "explanation": "'你们' đọc là nǐmen."
-        },
-        {
-            "id": 61,
-            "type": "meaning",
-            "question": "Từ '老师' (lǎoshī) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Giáo viên",
-                "Cảm ơn",
-                "Xin chào"
-            ],
-            "answer": "Giáo viên",
-            "explanation": "'老师' nghĩa là 'Giáo viên'."
-        },
-        {
-            "id": 62,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 63,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Ngài",
-                "Tạm biệt",
-                "Xin chào",
-                "Cảm ơn"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 64,
-            "type": "meaning",
-            "question": "Từ '学生' (xuéshēng) có nghĩa là gì?",
-            "options": [
-                "Học sinh",
-                "Xin chào",
-                "Cảm ơn",
-                "Tạm biệt"
-            ],
-            "answer": "Học sinh",
-            "explanation": "'学生' nghĩa là 'Học sinh'."
-        },
-        {
-            "id": 65,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tạm biệt'",
-            "options": [
-                "见再",
-                "是见",
-                "我是不见",
-                "再见"
-            ],
-            "answer": "再见",
-            "explanation": "Câu đúng là: 再见"
-        },
-        {
-            "id": 66,
-            "type": "meaning",
-            "question": "Từ '不客气' (bú kèqi) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Xin chào",
-                "Không có gì",
-                "Cảm ơn"
-            ],
-            "answer": "Không có gì",
-            "explanation": "'不客气' nghĩa là 'Không có gì'."
-        },
-        {
-            "id": 67,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '学生' là:",
-            "options": [
-                "xuéshēng",
-                "xùéshēng",
-                "xuéshēmg",
-                "xuéshēng1"
-            ],
-            "answer": "xuéshēng",
-            "explanation": "'学生' đọc là xuéshēng."
-        },
-        {
-            "id": 68,
-            "type": "meaning",
-            "question": "Từ '谢谢' (xièxie) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Không có gì",
-                "Xin chào",
-                "Cảm ơn"
-            ],
-            "answer": "Cảm ơn",
-            "explanation": "'谢谢' nghĩa là 'Cảm ơn'."
-        },
-        {
-            "id": 69,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Ngài",
-                "Xin chào",
-                "Tạm biệt",
-                "Cảm ơn"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 70,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '大家' là:",
-            "options": [
-                "dàjiā4",
-                "dàjiā3",
-                "dàjiā",
                 "dàjìā"
             ],
             "answer": "dàjiā",
-            "explanation": "'大家' đọc là dàjiā."
+            "explanation": "“大家” đọc là dàjiā.",
+            "id": 19
         },
         {
-            "id": 71,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '学生' là:",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n______ (méi guānxi)",
             "options": [
-                "xùéshēng",
-                "xuéshēng",
-                "xuéshēmg",
-                "xuéshēng1"
+                "你们",
+                "没关系",
+                "谢谢",
+                "您"
             ],
-            "answer": "xuéshēng",
-            "explanation": "'学生' đọc là xuéshēng."
+            "answer": "没关系",
+            "explanation": "Đáp án đúng là “没关系” (Không sao).",
+            "id": 20
         },
         {
-            "id": 72,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '不客气' là:",
-            "options": [
-                "bú kèqì",
-                "bú kèqi6",
-                "bú kèqi5",
-                "bú kèqi"
-            ],
-            "answer": "bú kèqi",
-            "explanation": "'不客气' đọc là bú kèqi."
-        },
-        {
-            "id": 73,
             "type": "meaning",
-            "question": "Từ '你好' (nǐ hǎo) có nghĩa là gì?",
+            "question": "Từ “大家” (dàjiā) có nghĩa là gì?",
             "options": [
-                "Cảm ơn",
-                "Không có gì",
+                "Các bạn",
                 "Xin chào",
-                "Tạm biệt"
-            ],
-            "answer": "Xin chào",
-            "explanation": "'你好' nghĩa là 'Xin chào'."
-        },
-        {
-            "id": 74,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '老师' là:",
-            "options": [
-                "lǎóshī",
-                "lǎoshī7",
-                "lǎoshī",
-                "lǎoshī9"
-            ],
-            "answer": "lǎoshī",
-            "explanation": "'老师' đọc là lǎoshī."
-        },
-        {
-            "id": 75,
-            "type": "meaning",
-            "question": "Từ '大家' (dàjiā) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Xin chào",
-                "Mọi người",
-                "Cảm ơn"
+                "Xin lỗi",
+                "Mọi người"
             ],
             "answer": "Mọi người",
-            "explanation": "'大家' nghĩa là 'Mọi người'."
+            "explanation": "“大家” nghĩa là “Mọi người”.",
+            "id": 21
         },
         {
-            "id": 76,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Xin chào)",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
             "options": [
-                "再见",
-                "谢谢",
+                "我好",
                 "你好",
-                "不客气"
+                "好你",
+                "你好了"
             ],
             "answer": "你好",
-            "explanation": "Đáp án đúng là '你好'."
+            "explanation": "Câu đúng là: 你好",
+            "id": 22
         },
         {
-            "id": 77,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '不客气' là:",
-            "options": [
-                "bú kèqì",
-                "bú kèqi4",
-                "bú kèqi",
-                "bú kèqi6"
-            ],
-            "answer": "bú kèqi",
-            "explanation": "'不客气' đọc là bú kèqi."
-        },
-        {
-            "id": 78,
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Không có gì'",
+            "question": "Dịch câu sau sang tiếng Trung: “Không sao”",
             "options": [
-                "气客不",
-                "我是不客气",
-                "不客气",
-                "是客气"
+                "系关没",
+                "Đáp án sai",
+                "没关系",
+                "没关系了"
             ],
-            "answer": "不客气",
-            "explanation": "Câu đúng là: 不客气"
+            "answer": "没关系",
+            "explanation": "Câu đúng là: 没关系",
+            "id": 23
         },
         {
-            "id": 79,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '学生' là:",
-            "options": [
-                "xùéshēng",
-                "xuéshēng6",
-                "xuéshēng",
-                "xuéshēmg"
-            ],
-            "answer": "xuéshēng",
-            "explanation": "'学生' đọc là xuéshēng."
-        },
-        {
-            "id": 80,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '不客气' là:",
-            "options": [
-                "bú kèqì",
-                "bú kèqi",
-                "bú kèqi6",
-                "bú kèqi8"
-            ],
-            "answer": "bú kèqi",
-            "explanation": "'不客气' đọc là bú kèqi."
-        },
-        {
-            "id": 81,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 ______ 学生。 (Nghĩa: Ngài là Học sinh)",
-            "options": [
-                "叫",
-                "不",
-                "是",
-                "有"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 82,
             "type": "meaning",
-            "question": "Từ '你们' (nǐmen) có nghĩa là gì?",
+            "question": "Từ “学生” (xuéshēng) có nghĩa là gì?",
             "options": [
-                "Tạm biệt",
-                "Các bạn",
-                "Cảm ơn",
-                "Xin chào"
-            ],
-            "answer": "Các bạn",
-            "explanation": "'你们' nghĩa là 'Các bạn'."
-        },
-        {
-            "id": 83,
-            "type": "meaning",
-            "question": "Từ '不客气' (bú kèqi) có nghĩa là gì?",
-            "options": [
-                "Xin chào",
-                "Cảm ơn",
-                "Tạm biệt",
-                "Không có gì"
-            ],
-            "answer": "Không có gì",
-            "explanation": "'不客气' nghĩa là 'Không có gì'."
-        },
-        {
-            "id": 84,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 你们 ______ 老师。 (Nghĩa: Các bạn là Giáo viên)",
-            "options": [
-                "叫",
-                "是",
-                "不",
-                "有"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 85,
-            "type": "meaning",
-            "question": "Từ '老师' (lǎoshī) có nghĩa là gì?",
-            "options": [
-                "Cảm ơn",
-                "Xin chào",
-                "Giáo viên",
-                "Tạm biệt"
-            ],
-            "answer": "Giáo viên",
-            "explanation": "'老师' nghĩa là 'Giáo viên'."
-        },
-        {
-            "id": 86,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 87,
-            "type": "meaning",
-            "question": "Từ '你好' (nǐ hǎo) có nghĩa là gì?",
-            "options": [
-                "Cảm ơn",
-                "Xin chào",
-                "Tạm biệt",
-                "Không có gì"
-            ],
-            "answer": "Xin chào",
-            "explanation": "'你好' nghĩa là 'Xin chào'."
-        },
-        {
-            "id": 88,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '大家' là:",
-            "options": [
-                "dàjiā5",
-                "dàjiā2",
-                "dàjìā",
-                "dàjiā"
-            ],
-            "answer": "dàjiā",
-            "explanation": "'大家' đọc là dàjiā."
-        },
-        {
-            "id": 89,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 ______ 老师。 (Nghĩa: Mọi người là Giáo viên)",
-            "options": [
-                "有",
-                "叫",
-                "不",
-                "是"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tạm biệt'",
-            "options": [
-                "是见",
-                "见再",
-                "再见",
-                "我是不见"
-            ],
-            "answer": "再见",
-            "explanation": "Câu đúng là: 再见"
-        },
-        {
-            "id": 91,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '谢谢' là:",
-            "options": [
-                "xìèxìe",
-                "xièxie2",
-                "xièxie9",
-                "xièxie"
-            ],
-            "answer": "xièxie",
-            "explanation": "'谢谢' đọc là xièxie."
-        },
-        {
-            "id": 92,
-            "type": "meaning",
-            "question": "Từ '您' (nín) có nghĩa là gì?",
-            "options": [
-                "Tạm biệt",
-                "Ngài",
-                "Xin chào",
-                "Cảm ơn"
-            ],
-            "answer": "Ngài",
-            "explanation": "'您' nghĩa là 'Ngài'."
-        },
-        {
-            "id": 93,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 ______ 学生。 (Nghĩa: Ngài là Học sinh)",
-            "options": [
-                "不",
-                "是",
-                "叫",
-                "有"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là '是'."
-        },
-        {
-            "id": 94,
-            "type": "grammar",
-            "question": "Chọn đại từ nhân xưng phù hợp để chào hỏi lịch sự: ______ 好！(Chào ngài)",
-            "options": [
-                "您",
-                "你",
-                "我",
-                "他"
-            ],
-            "answer": "您",
-            "explanation": "Đáp án đúng là 您."
-        },
-        {
-            "id": 95,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '不客气' là:",
-            "options": [
-                "bú kèqi",
-                "bú kèqì",
-                "bú kèqi4",
-                "bú kèqi4"
-            ],
-            "answer": "bú kèqi",
-            "explanation": "'不客气' đọc là bú kèqi."
-        },
-        {
-            "id": 96,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '大家' là:",
-            "options": [
-                "dàjiā",
-                "dàjiā2",
-                "dàjiā9",
-                "dàjìā"
-            ],
-            "answer": "dàjiā",
-            "explanation": "'大家' đọc là dàjiā."
-        },
-        {
-            "id": 97,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 大家 很 ______。 (Nghĩa: Mọi người rất Xin chào)",
-            "options": [
-                "再见",
-                "你好",
-                "不客气",
-                "谢谢"
-            ],
-            "answer": "你好",
-            "explanation": "Đáp án đúng là '你好'."
-        },
-        {
-            "id": 98,
-            "type": "fill_blank",
-            "question": "Điền từ thích hợp: 您 很 ______。 (Nghĩa: Ngài rất Không có gì)",
-            "options": [
-                "再见",
-                "你好",
-                "谢谢",
-                "不客气"
-            ],
-            "answer": "不客气",
-            "explanation": "Đáp án đúng là '不客气'."
-        },
-        {
-            "id": 99,
-            "type": "meaning",
-            "question": "Từ '学生' (xuéshēng) có nghĩa là gì?",
-            "options": [
+                "Mọi người",
                 "Học sinh",
                 "Tạm biệt",
-                "Xin chào",
-                "Cảm ơn"
+                "Giáo viên"
             ],
             "answer": "Học sinh",
-            "explanation": "'学生' nghĩa là 'Học sinh'."
+            "explanation": "“学生” nghĩa là “Học sinh”.",
+            "id": 24
         },
         {
-            "id": 100,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '谢谢' là:",
+            "type": "meaning",
+            "question": "Từ “您” (nín) có nghĩa là gì?",
             "options": [
-                "xièxie4",
-                "xièxie",
-                "xièxie4",
-                "xìèxìe"
+                "Giáo viên",
+                "Tạm biệt",
+                "Không có gì",
+                "Ngài"
             ],
-            "answer": "xièxie",
-            "explanation": "'谢谢' đọc là xièxie."
+            "answer": "Ngài",
+            "explanation": "“您” nghĩa là “Ngài”.",
+            "id": 25
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “不客气” (bú kèqi) có nghĩa là gì?",
+            "options": [
+                "Không có gì",
+                "Ngài",
+                "Học sinh",
+                "Các bạn"
+            ],
+            "answer": "Không có gì",
+            "explanation": "“不客气” nghĩa là “Không có gì”.",
+            "id": 26
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Đại từ nhân xưng\nĐại từ nào dùng để chào hỏi lịch sự với người lớn tuổi?",
+            "options": [
+                "我 (wǒ)",
+                "您 (nín)",
+                "你 (nǐ)",
+                "他 (tā)"
+            ],
+            "answer": "您 (nín)",
+            "explanation": "您 là kính ngữ của 你.",
+            "id": 27
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n______ (bú kèqi)",
+            "options": [
+                "是",
+                "对不起",
+                "不客气",
+                "你好"
+            ],
+            "answer": "不客气",
+            "explanation": "Đáp án đúng là “不客气” (Không có gì).",
+            "id": 28
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “是” (shì) có nghĩa là gì?",
+            "options": [
+                "Không có gì",
+                "Xin chào",
+                "Là",
+                "Tạm biệt"
+            ],
+            "answer": "Là",
+            "explanation": "“是” nghĩa là “Là”.",
+            "id": 29
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Chào hỏi\nCách đáp lại lời 'Cảm ơn' là gì?",
+            "options": [
+                "再见 (zàijiàn)",
+                "不客气 (bú kèqi)",
+                "你好 (nǐ hǎo)",
+                "对不起 (duìbuqǐ)"
+            ],
+            "answer": "不客气 (bú kèqi)",
+            "explanation": "不客气 nghĩa là 'Không có gì'.",
+            "id": 30
         }
     ]
 }

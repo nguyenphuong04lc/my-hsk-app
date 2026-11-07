@@ -1,1307 +1,423 @@
 {
     "lessonId": 13,
-    "lessonTitle": "Bài 13: 请给我一杯茶",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 13: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
-            "type": "meaning",
-            "question": "Từ '茶' (chá) có nghĩa là gì?",
-            "options": [
-                "Trà",
-                "Bán",
-                "Có thể",
-                "Ngồi"
-            ],
-            "answer": "Trà",
-            "explanation": "'茶' nghĩa là 'Trà'."
-        },
-        {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '卖' (mài) có nghĩa là gì?",
-            "options": [
-                "Một chút",
-                "Bữa sáng",
-                "Bán",
-                "Trứng gà"
-            ],
-            "answer": "Bán",
-            "explanation": "'卖' nghĩa là 'Bán'."
-        },
-        {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '坐' (zuò) có nghĩa là gì?",
-            "options": [
-                "Câu hỏi",
-                "Ngồi",
-                "Trứng gà",
-                "Bánh mì"
-            ],
-            "answer": "Ngồi",
-            "explanation": "'坐' nghĩa là 'Ngồi'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '一下' (yīxià) có nghĩa là gì?",
-            "options": [
-                "Có thể",
-                "Cho",
-                "Một chút",
-                "Gọi điện"
-            ],
-            "answer": "Một chút",
-            "explanation": "'一下' nghĩa là 'Một chút'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '可以' (kěyǐ) có nghĩa là gì?",
-            "options": [
-                "Bánh mì",
-                "Phục vụ",
-                "Có thể",
-                "Trà"
-            ],
-            "answer": "Có thể",
-            "explanation": "'可以' nghĩa là 'Có thể'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '给' (gěi) có nghĩa là gì?",
-            "options": [
-                "Bữa sáng",
-                "Có thể",
-                "Cho",
-                "Ngồi"
-            ],
-            "answer": "Cho",
-            "explanation": "'给' nghĩa là 'Cho'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '早饭' (zǎofàn) có nghĩa là gì?",
-            "options": [
-                "Một chút",
-                "Cho",
-                "Bán",
-                "Bữa sáng"
-            ],
-            "answer": "Bữa sáng",
-            "explanation": "'早饭' nghĩa là 'Bữa sáng'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '面包' (miànbāo) có nghĩa là gì?",
-            "options": [
-                "Bánh mì",
-                "Ngồi",
-                "Cốc",
-                "Bán"
-            ],
-            "answer": "Bánh mì",
-            "explanation": "'面包' nghĩa là 'Bánh mì'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '服务员' (fúwùyuán) có nghĩa là gì?",
-            "options": [
-                "Phục vụ",
-                "Trà",
-                "Cốc",
-                "Bánh mì"
-            ],
-            "answer": "Phục vụ",
-            "explanation": "'服务员' nghĩa là 'Phục vụ'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '杯' (bēi) có nghĩa là gì?",
-            "options": [
-                "Cốc",
-                "Trứng gà",
-                "Quý bà",
-                "Bữa sáng"
-            ],
-            "answer": "Cốc",
-            "explanation": "'杯' nghĩa là 'Cốc'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '鸡蛋' (jīdàn) có nghĩa là gì?",
-            "options": [
-                "Cốc",
-                "Bánh mì",
-                "Trứng gà",
-                "Ngồi"
-            ],
-            "answer": "Trứng gà",
-            "explanation": "'鸡蛋' nghĩa là 'Trứng gà'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '女士' (nǚshì) có nghĩa là gì?",
-            "options": [
-                "Cho",
-                "Bánh mì",
-                "Một chút",
-                "Quý bà"
-            ],
-            "answer": "Quý bà",
-            "explanation": "'女士' nghĩa là 'Quý bà'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '问题' (wèntí) có nghĩa là gì?",
-            "options": [
-                "Ngồi",
-                "Câu hỏi",
-                "Bánh mì",
-                "Trà"
-            ],
-            "answer": "Câu hỏi",
-            "explanation": "'问题' nghĩa là 'Câu hỏi'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '打电话' (dǎ diànhuà) có nghĩa là gì?",
-            "options": [
-                "Một chút",
-                "Ngồi",
-                "Gọi điện",
-                "Quý bà"
-            ],
-            "answer": "Gọi điện",
-            "explanation": "'打电话' nghĩa là 'Gọi điện'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '服务员' (fúwùyuán) có nghĩa là gì?",
-            "options": [
-                "Phục vụ",
-                "Bữa sáng",
-                "Trà",
-                "Ngồi"
-            ],
-            "answer": "Phục vụ",
-            "explanation": "'服务员' nghĩa là 'Phục vụ'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '一下' (yīxià) có nghĩa là gì?",
-            "options": [
-                "Bán",
-                "Bánh mì",
-                "Một chút",
-                "Phục vụ"
-            ],
-            "answer": "Một chút",
-            "explanation": "'一下' nghĩa là 'Một chút'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '面包' (miànbāo) có nghĩa là gì?",
-            "options": [
-                "Ngồi",
-                "Có thể",
-                "Bánh mì",
-                "Câu hỏi"
-            ],
-            "answer": "Bánh mì",
-            "explanation": "'面包' nghĩa là 'Bánh mì'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '卖' (mài) có nghĩa là gì?",
-            "options": [
-                "Có thể",
-                "Trà",
-                "Bán",
-                "Cho"
-            ],
-            "answer": "Bán",
-            "explanation": "'卖' nghĩa là 'Bán'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '坐' (zuò) có nghĩa là gì?",
-            "options": [
-                "Ngồi",
-                "Trà",
-                "Gọi điện",
-                "Bữa sáng"
-            ],
-            "answer": "Ngồi",
-            "explanation": "'坐' nghĩa là 'Ngồi'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '女士' (nǚshì) có nghĩa là gì?",
-            "options": [
-                "Trứng gà",
-                "Gọi điện",
-                "Quý bà",
-                "Ngồi"
-            ],
-            "answer": "Quý bà",
-            "explanation": "'女士' nghĩa là 'Quý bà'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '问题' (wèntí) có nghĩa là gì?",
-            "options": [
-                "Một chút",
-                "Ngồi",
-                "Câu hỏi",
-                "Trứng gà"
-            ],
-            "answer": "Câu hỏi",
-            "explanation": "'问题' nghĩa là 'Câu hỏi'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '打电话' (dǎ diànhuà) có nghĩa là gì?",
-            "options": [
-                "Bánh mì",
-                "Ngồi",
-                "Gọi điện",
-                "Bữa sáng"
-            ],
-            "answer": "Gọi điện",
-            "explanation": "'打电话' nghĩa là 'Gọi điện'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '给' (gěi) có nghĩa là gì?",
-            "options": [
-                "Cho",
-                "Phục vụ",
-                "Gọi điện",
-                "Bán"
-            ],
-            "answer": "Cho",
-            "explanation": "'给' nghĩa là 'Cho'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '鸡蛋' (jīdàn) có nghĩa là gì?",
-            "options": [
-                "Trứng gà",
-                "Quý bà",
-                "Gọi điện",
-                "Bánh mì"
-            ],
-            "answer": "Trứng gà",
-            "explanation": "'鸡蛋' nghĩa là 'Trứng gà'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '杯' (bēi) có nghĩa là gì?",
-            "options": [
-                "Phục vụ",
-                "Có thể",
-                "Cốc",
-                "Gọi điện"
-            ],
-            "answer": "Cốc",
-            "explanation": "'杯' nghĩa là 'Cốc'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '可以' (kěyǐ) có nghĩa là gì?",
-            "options": [
-                "Gọi điện",
-                "Có thể",
-                "Bánh mì",
-                "Bữa sáng"
-            ],
-            "answer": "Có thể",
-            "explanation": "'可以' nghĩa là 'Có thể'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '早饭' (zǎofàn) có nghĩa là gì?",
-            "options": [
-                "Ngồi",
-                "Bữa sáng",
-                "Có thể",
-                "Cho"
-            ],
-            "answer": "Bữa sáng",
-            "explanation": "'早饭' nghĩa là 'Bữa sáng'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '茶' (chá) có nghĩa là gì?",
-            "options": [
-                "Cho",
-                "Trứng gà",
-                "Bán",
-                "Trà"
-            ],
-            "answer": "Trà",
-            "explanation": "'茶' nghĩa là 'Trà'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '面包' (miànbāo) có nghĩa là gì?",
-            "options": [
-                "Bánh mì",
-                "Bán",
-                "Bữa sáng",
-                "Cốc"
-            ],
-            "answer": "Bánh mì",
-            "explanation": "'面包' nghĩa là 'Bánh mì'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '早饭' (zǎofàn) có nghĩa là gì?",
-            "options": [
-                "Bữa sáng",
-                "Câu hỏi",
-                "Bánh mì",
-                "Một chút"
-            ],
-            "answer": "Bữa sáng",
-            "explanation": "'早饭' nghĩa là 'Bữa sáng'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '打电话' là:",
-            "options": [
-                "dǎ diànhùà",
-                "dǎ diànhuà",
-                "dǎ dìànhuà",
-                "dǎ diàmhuà"
-            ],
-            "answer": "dǎ diànhuà",
-            "explanation": "'打电话' đọc là dǎ diànhuà."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '卖' là:",
-            "options": [
-                "mài6",
-                "màì",
-                "mài",
-                "mài4"
-            ],
-            "answer": "mài",
-            "explanation": "'卖' đọc là mài."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '女士' là:",
-            "options": [
-                "nǚshì1",
-                "nǚshì",
-                "mǚshì",
-                "nǚshì2"
-            ],
-            "answer": "nǚshì",
-            "explanation": "'女士' đọc là nǚshì."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '杯' là:",
-            "options": [
-                "bēi",
-                "bēi5",
-                "bēì",
-                "bēi9"
-            ],
-            "answer": "bēi",
-            "explanation": "'杯' đọc là bēi."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '服务员' là:",
-            "options": [
-                "fúwùyuán",
-                "fúwùyuán7",
-                "fúwùyuám",
-                "fúwùyùán"
-            ],
-            "answer": "fúwùyuán",
-            "explanation": "'服务员' đọc là fúwùyuán."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '问题' là:",
-            "options": [
-                "wèntí",
-                "wèntí7",
-                "wèntí3",
-                "wèmtí"
-            ],
-            "answer": "wèntí",
-            "explanation": "'问题' đọc là wèntí."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '坐' là:",
-            "options": [
-                "zuò",
-                "zùò",
-                "zuò8",
-                "zuò9"
-            ],
-            "answer": "zuò",
-            "explanation": "'坐' đọc là zuò."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '可以' là:",
-            "options": [
-                "kěyǐ",
-                "kěyǐ9",
-                "kěyǐ8",
-                "kěyǐ3"
-            ],
-            "answer": "kěyǐ",
-            "explanation": "'可以' đọc là kěyǐ."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '给' là:",
-            "options": [
-                "gěi",
-                "gěi6",
-                "gěì",
-                "gěi1"
-            ],
-            "answer": "gěi",
-            "explanation": "'给' đọc là gěi."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '茶' là:",
-            "options": [
-                "chá5",
-                "chá",
-                "chá2",
-                "chá9"
-            ],
-            "answer": "chá",
-            "explanation": "'茶' đọc là chá."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '一下' là:",
-            "options": [
-                "yīxià",
-                "yīxià6",
-                "yīxià5",
-                "yīxìà"
-            ],
-            "answer": "yīxià",
-            "explanation": "'一下' đọc là yīxià."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '鸡蛋' là:",
-            "options": [
-                "jīdàm",
-                "jīdàn8",
-                "jīdàn",
-                "jīdàn6"
-            ],
-            "answer": "jīdàn",
-            "explanation": "'鸡蛋' đọc là jīdàn."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '可以' là:",
-            "options": [
-                "kěyǐ7",
-                "kěyǐ9",
-                "kěyǐ",
-                "kěyǐ4"
-            ],
-            "answer": "kěyǐ",
-            "explanation": "'可以' đọc là kěyǐ."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '给' là:",
-            "options": [
-                "gěi",
-                "gěì",
-                "gěi6",
-                "gěi7"
-            ],
-            "answer": "gěi",
-            "explanation": "'给' đọc là gěi."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '问题' là:",
-            "options": [
-                "wèmtí",
-                "wèntí8",
-                "wèntí",
-                "wèntí4"
-            ],
-            "answer": "wèntí",
-            "explanation": "'问题' đọc là wèntí."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '女士' là:",
-            "options": [
-                "nǚshì3",
-                "mǚshì",
-                "nǚshì",
-                "nǚshì7"
-            ],
-            "answer": "nǚshì",
-            "explanation": "'女士' đọc là nǚshì."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '面包' là:",
-            "options": [
-                "miàmbāo",
-                "mìànbāo",
-                "miànbāó",
-                "miànbāo"
-            ],
-            "answer": "miànbāo",
-            "explanation": "'面包' đọc là miànbāo."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '服务员' là:",
-            "options": [
-                "fúwùyùán",
-                "fúwùyuán",
-                "fúwùyuám",
-                "fúwùyuán5"
-            ],
-            "answer": "fúwùyuán",
-            "explanation": "'服务员' đọc là fúwùyuán."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '杯' là:",
-            "options": [
-                "bēi6",
-                "bēi3",
-                "bēi",
-                "bēì"
-            ],
-            "answer": "bēi",
-            "explanation": "'杯' đọc là bēi."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '一下' là:",
-            "options": [
-                "yīxià",
-                "yīxià6",
-                "yīxià6",
-                "yīxìà"
-            ],
-            "answer": "yīxià",
-            "explanation": "'一下' đọc là yīxià."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '打电话' là:",
-            "options": [
-                "dǎ diànhuà",
-                "dǎ diànhùà",
-                "dǎ diàmhuà",
-                "dǎ dìànhuà"
-            ],
-            "answer": "dǎ diànhuà",
-            "explanation": "'打电话' đọc là dǎ diànhuà."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '卖' là:",
-            "options": [
-                "mài6",
-                "mài",
-                "mài8",
-                "màì"
-            ],
-            "answer": "mài",
-            "explanation": "'卖' đọc là mài."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '鸡蛋' là:",
-            "options": [
-                "jīdàn5",
-                "jīdàn",
-                "jīdàn3",
-                "jīdàm"
-            ],
-            "answer": "jīdàn",
-            "explanation": "'鸡蛋' đọc là jīdàn."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '茶' là:",
-            "options": [
-                "chá",
-                "chá4",
-                "chá7",
-                "chá9"
-            ],
-            "answer": "chá",
-            "explanation": "'茶' đọc là chá."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '早饭' là:",
-            "options": [
-                "zǎofàn",
-                "zǎofàm",
-                "zǎofàn4",
-                "zǎófàn"
-            ],
-            "answer": "zǎofàn",
-            "explanation": "'早饭' đọc là zǎofàn."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngồi' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
             "options": [
-                "给",
-                "茶",
-                "坐",
-                "鸡蛋"
-            ],
-            "answer": "坐",
-            "explanation": "Từ cần điền là '坐'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trà' vào chỗ trống: ______",
-            "options": [
-                "坐",
-                "卖",
-                "茶",
-                "可以"
-            ],
-            "answer": "茶",
-            "explanation": "Từ cần điền là '茶'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Quý bà' vào chỗ trống: ______",
-            "options": [
-                "女士",
-                "茶",
-                "面包",
-                "打电话"
-            ],
-            "answer": "女士",
-            "explanation": "Từ cần điền là '女士'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bán' vào chỗ trống: ______",
-            "options": [
-                "卖",
-                "服务员",
-                "面包",
-                "给"
-            ],
-            "answer": "卖",
-            "explanation": "Từ cần điền là '卖'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bữa sáng' vào chỗ trống: ______",
-            "options": [
-                "女士",
-                "早饭",
-                "面包",
-                "服务员"
-            ],
-            "answer": "早饭",
-            "explanation": "Từ cần điền là '早饭'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Gọi điện' vào chỗ trống: ______",
-            "options": [
-                "杯",
-                "坐",
-                "打电话",
-                "早饭"
-            ],
-            "answer": "打电话",
-            "explanation": "Từ cần điền là '打电话'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trứng gà' vào chỗ trống: ______",
-            "options": [
-                "杯",
                 "女士",
                 "问题",
-                "鸡蛋"
-            ],
-            "answer": "鸡蛋",
-            "explanation": "Từ cần điền là '鸡蛋'."
-        },
-        {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Một chút' vào chỗ trống: ______",
-            "options": [
-                "一下",
-                "早饭",
-                "打电话",
-                "女士"
-            ],
-            "answer": "一下",
-            "explanation": "Từ cần điền là '一下'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bánh mì' vào chỗ trống: ______",
-            "options": [
-                "面包",
-                "打电话",
-                "鸡蛋",
+                "可以",
                 "服务员"
             ],
-            "answer": "面包",
-            "explanation": "Từ cần điền là '面包'."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 1
         },
         {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phục vụ' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ “卖” (mài) có nghĩa là gì?",
             "options": [
-                "一下",
-                "问题",
-                "杯",
-                "服务员"
+                "Một chút",
+                "Bán",
+                "Quý bà",
+                "Ngồi"
             ],
-            "answer": "服务员",
-            "explanation": "Từ cần điền là '服务员'."
+            "answer": "Bán",
+            "explanation": "“卖” nghĩa là “Bán”.",
+            "id": 2
         },
         {
-            "id": 66,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
+            "options": [
+                "Đáp án sai",
+                "再见了",
+                "见再",
+                "再见"
+            ],
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 3
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Phục vụ”?",
+            "options": [
+                "一下 (yīxià)",
+                "可以 (kěyǐ)",
+                "打电话 (dǎ diànhuà)",
+                "服务员 (fúwùyuán)"
+            ],
+            "answer": "服务员 (fúwùyuán)",
+            "explanation": "“Phục vụ” là “服务员” (fúwùyuán).",
+            "id": 4
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Có thể' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
             "options": [
                 "可以",
                 "问题",
-                "鸡蛋",
-                "杯"
+                "打电话",
+                "女士"
             ],
             "answer": "可以",
-            "explanation": "Từ cần điền là '可以'."
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 5
         },
         {
-            "id": 67,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cho' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
             "options": [
-                "给",
-                "杯",
-                "面包",
-                "问题"
-            ],
-            "answer": "给",
-            "explanation": "Từ cần điền là '给'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Câu hỏi' vào chỗ trống: ______",
-            "options": [
-                "问题",
                 "打电话",
-                "卖",
+                "可以",
+                "服务员",
                 "坐"
             ],
-            "answer": "问题",
-            "explanation": "Từ cần điền là '问题'."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 6
         },
         {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngồi' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Một chút”?",
             "options": [
+                "坐 (zuò)",
+                "一下 (yīxià)",
+                "女士 (nǚshì)",
+                "可以 (kěyǐ)"
+            ],
+            "answer": "一下 (yīxià)",
+            "explanation": "“Một chút” là “一下” (yīxià).",
+            "id": 7
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “打电话” (dǎ diànhuà) có nghĩa là gì?",
+            "options": [
+                "Gọi điện",
+                "Ngồi",
+                "Phục vụ",
+                "Quý bà"
+            ],
+            "answer": "Gọi điện",
+            "explanation": "“打电话” nghĩa là “Gọi điện”.",
+            "id": 8
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
+            "options": [
+                "这是他的书",
+                "这是我的书",
+                "书的我是这",
+                "这是我的书了"
+            ],
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 9
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 10
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
+            "options": [
+                "女士",
                 "坐",
-                "给",
+                "打电话",
+                "可以"
+            ],
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 11
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “可以” (kěyǐ) có nghĩa là gì?",
+            "options": [
+                "Có thể",
+                "Một chút",
+                "Gọi điện",
+                "Câu hỏi"
+            ],
+            "answer": "Có thể",
+            "explanation": "“可以” nghĩa là “Có thể”.",
+            "id": 12
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
+            "options": [
+                "他喜欢吃苹果",
+                "我喜欢吃苹果",
+                "我喜欢吃苹果了",
+                "果苹吃欢喜我"
+            ],
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 13
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
+            "options": [
+                "？吗好你",
+                "我好吗？",
+                "你好吗？了",
+                "你好吗？"
+            ],
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 14
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
+            "options": [
+                "卖",
+                "可以",
                 "一下",
                 "服务员"
             ],
-            "answer": "坐",
-            "explanation": "Từ cần điền là '坐'."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 15
         },
         {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cốc' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
             "options": [
-                "面包",
-                "给",
-                "鸡蛋",
-                "杯"
+                "他是学生",
+                "生学是我",
+                "我是学生了",
+                "我是学生"
             ],
-            "answer": "杯",
-            "explanation": "Từ cần điền là '杯'."
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 16
         },
         {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cho' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "女士",
-                "一下",
-                "给",
-                "面包"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ"
             ],
-            "answer": "给",
-            "explanation": "Từ cần điền là '给'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 17
         },
         {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bán' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "女士",
-                "鸡蛋",
+                "今天星期几？",
+                "？几期星天今",
+                "今天星期几？了",
+                "Đáp án sai"
+            ],
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 18
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Quý bà”?",
+            "options": [
+                "打电话 (dǎ diànhuà)",
+                "卖 (mài)",
+                "可以 (kěyǐ)",
+                "女士 (nǚshì)"
+            ],
+            "answer": "女士 (nǚshì)",
+            "explanation": "“Quý bà” là “女士” (nǚshì).",
+            "id": 19
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Ngồi”?",
+            "options": [
+                "问题 (wèntí)",
+                "坐 (zuò)",
+                "卖 (mài)",
+                "一下 (yīxià)"
+            ],
+            "answer": "坐 (zuò)",
+            "explanation": "“Ngồi” là “坐” (zuò).",
+            "id": 20
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "我好",
+                "你好",
+                "你好了",
+                "好你"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 21
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
+            "options": [
                 "卖",
-                "可以"
-            ],
-            "answer": "卖",
-            "explanation": "Từ cần điền là '卖'."
-        },
-        {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngồi' vào chỗ trống: ______",
-            "options": [
-                "坐",
-                "女士",
-                "杯",
-                "早饭"
-            ],
-            "answer": "坐",
-            "explanation": "Từ cần điền là '坐'."
-        },
-        {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bánh mì' vào chỗ trống: ______",
-            "options": [
-                "面包",
+                "可以",
                 "打电话",
-                "一下",
-                "给"
+                "服务员"
             ],
-            "answer": "面包",
-            "explanation": "Từ cần điền là '面包'."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 22
         },
         {
-            "id": 75,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
+            "options": [
+                "谢谢",
+                "Đáp án sai",
+                "Đáp án sai",
+                "谢谢了"
+            ],
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 23
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "别",
+                "不",
+                "无",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 24
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phục vụ' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
             "options": [
-                "问题",
-                "茶",
-                "服务员",
-                "女士"
+                "可以",
+                "一下",
+                "打电话",
+                "问题"
             ],
-            "answer": "服务员",
-            "explanation": "Từ cần điền là '服务员'."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 25
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trà'",
-            "options": [
-                "是茶我",
-                "这是茶",
-                "这茶是",
-                "我茶是"
-            ],
-            "answer": "这是茶",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是茶"
-        },
-        {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Có thể'",
-            "options": [
-                "我可以是",
-                "是可以我",
-                "这是可以",
-                "这可以是"
-            ],
-            "answer": "这是可以",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是可以"
-        },
-        {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Một chút'",
-            "options": [
-                "是一下我",
-                "这一下是",
-                "这是一下",
-                "我一下是"
-            ],
-            "answer": "这是一下",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是一下"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Quý bà'",
-            "options": [
-                "这女士是",
-                "我女士是",
-                "我是女士",
-                "是女士我"
-            ],
-            "answer": "我是女士",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是女士"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Gọi điện'",
-            "options": [
-                "我是打电话",
-                "是打电话我",
-                "这打电话是",
-                "我打电话是"
-            ],
-            "answer": "我是打电话",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是打电话"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cốc'",
-            "options": [
-                "这是杯",
-                "这杯是",
-                "我杯是",
-                "是杯我"
-            ],
-            "answer": "这是杯",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是杯"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bữa sáng'",
-            "options": [
-                "我是早饭",
-                "这早饭是",
-                "我早饭是",
-                "是早饭我"
-            ],
-            "answer": "我是早饭",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是早饭"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Câu hỏi'",
-            "options": [
-                "我问题是",
-                "是问题我",
-                "这是问题",
-                "这问题是"
-            ],
-            "answer": "这是问题",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是问题"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trứng gà'",
-            "options": [
-                "这是鸡蛋",
-                "我鸡蛋是",
-                "这鸡蛋是",
-                "是鸡蛋我"
-            ],
-            "answer": "这是鸡蛋",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是鸡蛋"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bán'",
-            "options": [
-                "这卖是",
-                "我是卖",
-                "我卖是",
-                "是卖我"
-            ],
-            "answer": "我是卖",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是卖"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cho'",
-            "options": [
-                "是给我",
-                "我给是",
-                "这给是",
-                "我是给"
-            ],
-            "answer": "我是给",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是给"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Gọi điện'",
-            "options": [
-                "这是打电话",
-                "我打电话是",
-                "这打电话是",
-                "是打电话我"
-            ],
-            "answer": "这是打电话",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是打电话"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Quý bà'",
-            "options": [
-                "这是女士",
-                "我女士是",
-                "这女士是",
-                "是女士我"
-            ],
-            "answer": "这是女士",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是女士"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Cốc'",
-            "options": [
-                "这是杯",
-                "是杯我",
-                "这杯是",
-                "我杯是"
-            ],
-            "answer": "这是杯",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是杯"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Trứng gà'",
-            "options": [
-                "是鸡蛋我",
-                "这是鸡蛋",
-                "我鸡蛋是",
-                "这鸡蛋是"
-            ],
-            "answer": "这是鸡蛋",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是鸡蛋"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 一下 3. 喜欢",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "不",
+                "无",
+                "别",
+                "没"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 26
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 面包 3. 喜欢",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 27
         },
         {
-            "id": 93,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 茶 3. 喜欢",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "可以",
+                "打电话",
+                "女士",
+                "坐"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "可以",
+            "explanation": "Đáp án đúng là “可以” (Có thể).",
+            "id": 28
         },
         {
-            "id": 94,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 可以 3. 喜欢",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 29
         },
         {
-            "id": 95,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 坐 3. 喜欢",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "没",
+                "别",
+                "不",
+                "无"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 30
         },
         {
-            "id": 96,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 服务员 3. 喜欢",
+            "type": "meaning",
+            "question": "Từ “问题” (wèntí) có nghĩa là gì?",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "Một chút",
+                "Câu hỏi",
+                "Quý bà",
+                "Ngồi"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "Câu hỏi",
+            "explanation": "“问题” nghĩa là “Câu hỏi”.",
+            "id": 31
         },
         {
-            "id": 97,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 问题 3. 喜欢",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "没",
+                "不",
+                "无",
+                "别"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 98,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 早饭 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 99,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 卖 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 一下 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 32
         }
     ]
 }

@@ -1,1307 +1,423 @@
 {
     "lessonId": 14,
-    "lessonTitle": "Bài 14: 我看了一个电影",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 14: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
             "type": "meaning",
-            "question": "Từ '明年' (míngnián) có nghĩa là gì?",
-            "options": [
-                "Viết",
-                "Năm sau",
-                "Đi học",
-                "Chữ Hán"
-            ],
-            "answer": "Năm sau",
-            "explanation": "'明年' nghĩa là 'Năm sau'."
-        },
-        {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '写' (xiě) có nghĩa là gì?",
-            "options": [
-                "Năm sau",
-                "Tiếng Hán",
-                "Viết",
-                "Chữ Hán"
-            ],
-            "answer": "Viết",
-            "explanation": "'写' nghĩa là 'Viết'."
-        },
-        {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '听' (tīng) có nghĩa là gì?",
-            "options": [
-                "Đi học",
-                "Chữ",
-                "Nghe",
-                "Khởi hành"
-            ],
-            "answer": "Nghe",
-            "explanation": "'听' nghĩa là 'Nghe'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '晚' (wǎn) có nghĩa là gì?",
-            "options": [
-                "Chữ",
-                "Trung học",
-                "Một số",
-                "Muộn"
-            ],
-            "answer": "Muộn",
-            "explanation": "'晚' nghĩa là 'Muộn'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '开' (kāi) có nghĩa là gì?",
-            "options": [
-                "Một số",
-                "Khởi hành",
-                "Viết",
-                "Tiếng Hán"
-            ],
-            "answer": "Khởi hành",
-            "explanation": "'开' nghĩa là 'Khởi hành'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '有些' (yǒuxiē) có nghĩa là gì?",
-            "options": [
-                "Tiếng Hán",
-                "Một số",
-                "Nghe",
-                "Muộn"
-            ],
-            "answer": "Một số",
-            "explanation": "'有些' nghĩa là 'Một số'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '都' (dōu) có nghĩa là gì?",
+            "question": "Từ “中午” (zhōngwǔ) có nghĩa là gì?",
             "options": [
                 "Đều",
-                "Nói chuyện",
-                "Chữ Hán",
-                "Nghe"
-            ],
-            "answer": "Đều",
-            "explanation": "'都' nghĩa là 'Đều'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '上学' (shàngxué) có nghĩa là gì?",
-            "options": [
-                "Tiếng Hán",
-                "Một số",
-                "Muộn",
-                "Đi học"
-            ],
-            "answer": "Đi học",
-            "explanation": "'上学' nghĩa là 'Đi học'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '中学' (zhōngxué) có nghĩa là gì?",
-            "options": [
-                "Tiểu học",
-                "Trung học",
-                "Một số",
-                "Tiếng Hán"
-            ],
-            "answer": "Trung học",
-            "explanation": "'中学' nghĩa là 'Trung học'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '火车' (huǒchē) có nghĩa là gì?",
-            "options": [
-                "Tàu hỏa",
-                "Trung học",
                 "Buổi trưa",
-                "Chữ"
-            ],
-            "answer": "Tàu hỏa",
-            "explanation": "'火车' nghĩa là 'Tàu hỏa'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '说话' (shuōhuà) có nghĩa là gì?",
-            "options": [
-                "Tiếng Hán",
-                "Nói chuyện",
-                "Chữ",
-                "Nghe"
-            ],
-            "answer": "Nói chuyện",
-            "explanation": "'说话' nghĩa là 'Nói chuyện'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '中午' (zhōngwǔ) có nghĩa là gì?",
-            "options": [
-                "Nghe thấy",
-                "Năm sau",
-                "Buổi trưa",
-                "Đều"
+                "Khởi hành",
+                "Nghe thấy"
             ],
             "answer": "Buổi trưa",
-            "explanation": "'中午' nghĩa là 'Buổi trưa'."
+            "explanation": "“中午” nghĩa là “Buổi trưa”.",
+            "id": 1
         },
         {
-            "id": 13,
             "type": "meaning",
-            "question": "Từ '听见' (tīngjiàn) có nghĩa là gì?",
+            "question": "Từ nào có nghĩa là “Nói chuyện”?",
             "options": [
-                "Chữ",
-                "Chữ Hán",
-                "Tàu hỏa",
-                "Nghe thấy"
+                "火车 (huǒchē)",
+                "听见 (tīngjiàn)",
+                "写 (xiě)",
+                "说话 (shuōhuà)"
             ],
-            "answer": "Nghe thấy",
-            "explanation": "'听见' nghĩa là 'Nghe thấy'."
+            "answer": "说话 (shuōhuà)",
+            "explanation": "“Nói chuyện” là “说话” (shuōhuà).",
+            "id": 2
         },
         {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '汉字' (Hànzì) có nghĩa là gì?",
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
             "options": [
-                "Một số",
-                "Nói chuyện",
-                "Khởi hành",
-                "Chữ Hán"
+                "火车",
+                "说话",
+                "听见",
+                "开"
             ],
-            "answer": "Chữ Hán",
-            "explanation": "'汉字' nghĩa là 'Chữ Hán'."
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 3
         },
         {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '字' (zì) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "Nói chuyện",
-                "Chữ",
-                "Tiếng Hán",
-                "Nghe thấy"
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "Chữ",
-            "explanation": "'字' nghĩa là 'Chữ'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 4
         },
         {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '小学' (xiǎoxué) có nghĩa là gì?",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
             "options": [
-                "Tiếng Hán",
-                "Buổi trưa",
-                "Tiểu học",
-                "Nghe thấy"
+                "Đáp án sai",
+                "再见了",
+                "再见",
+                "见再"
             ],
-            "answer": "Tiểu học",
-            "explanation": "'小学' nghĩa là 'Tiểu học'."
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 5
         },
         {
-            "id": 17,
             "type": "meaning",
-            "question": "Từ '汉语' (Hànyǔ) có nghĩa là gì?",
-            "options": [
-                "Muộn",
-                "Tiếng Hán",
-                "Khởi hành",
-                "Chữ"
-            ],
-            "answer": "Tiếng Hán",
-            "explanation": "'汉语' nghĩa là 'Tiếng Hán'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '汉字' (Hànzì) có nghĩa là gì?",
-            "options": [
-                "Chữ Hán",
-                "Viết",
-                "Tàu hỏa",
-                "Năm sau"
-            ],
-            "answer": "Chữ Hán",
-            "explanation": "'汉字' nghĩa là 'Chữ Hán'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '写' (xiě) có nghĩa là gì?",
+            "question": "Từ “有些” (yǒuxiē) có nghĩa là gì?",
             "options": [
                 "Viết",
                 "Tàu hỏa",
-                "Muộn",
-                "Trung học"
-            ],
-            "answer": "Viết",
-            "explanation": "'写' nghĩa là 'Viết'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '汉语' (Hànyǔ) có nghĩa là gì?",
-            "options": [
-                "Muộn",
-                "Nghe thấy",
-                "Khởi hành",
-                "Tiếng Hán"
-            ],
-            "answer": "Tiếng Hán",
-            "explanation": "'汉语' nghĩa là 'Tiếng Hán'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '中午' (zhōngwǔ) có nghĩa là gì?",
-            "options": [
-                "Muộn",
-                "Một số",
-                "Đi học",
-                "Buổi trưa"
-            ],
-            "answer": "Buổi trưa",
-            "explanation": "'中午' nghĩa là 'Buổi trưa'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '听' (tīng) có nghĩa là gì?",
-            "options": [
-                "Chữ Hán",
-                "Nghe",
-                "Nghe thấy",
-                "Trung học"
-            ],
-            "answer": "Nghe",
-            "explanation": "'听' nghĩa là 'Nghe'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '明年' (míngnián) có nghĩa là gì?",
-            "options": [
-                "Đi học",
-                "Năm sau",
-                "Trung học",
-                "Nghe"
-            ],
-            "answer": "Năm sau",
-            "explanation": "'明年' nghĩa là 'Năm sau'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '火车' (huǒchē) có nghĩa là gì?",
-            "options": [
-                "Đi học",
-                "Nghe",
-                "Tàu hỏa",
-                "Chữ Hán"
-            ],
-            "answer": "Tàu hỏa",
-            "explanation": "'火车' nghĩa là 'Tàu hỏa'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '说话' (shuōhuà) có nghĩa là gì?",
-            "options": [
-                "Đều",
-                "Chữ Hán",
-                "Khởi hành",
-                "Nói chuyện"
-            ],
-            "answer": "Nói chuyện",
-            "explanation": "'说话' nghĩa là 'Nói chuyện'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '开' (kāi) có nghĩa là gì?",
-            "options": [
-                "Khởi hành",
-                "Buổi trưa",
-                "Chữ Hán",
-                "Nghe thấy"
-            ],
-            "answer": "Khởi hành",
-            "explanation": "'开' nghĩa là 'Khởi hành'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '听见' (tīngjiàn) có nghĩa là gì?",
-            "options": [
-                "Khởi hành",
-                "Năm sau",
-                "Nghe thấy",
-                "Nói chuyện"
-            ],
-            "answer": "Nghe thấy",
-            "explanation": "'听见' nghĩa là 'Nghe thấy'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '有些' (yǒuxiē) có nghĩa là gì?",
-            "options": [
-                "Viết",
-                "Nghe",
                 "Nghe thấy",
                 "Một số"
             ],
             "answer": "Một số",
-            "explanation": "'有些' nghĩa là 'Một số'."
+            "explanation": "“有些” nghĩa là “Một số”.",
+            "id": 6
         },
         {
-            "id": 29,
             "type": "meaning",
-            "question": "Từ '字' (zì) có nghĩa là gì?",
-            "options": [
-                "Tàu hỏa",
-                "Chữ",
-                "Nghe thấy",
-                "Buổi trưa"
-            ],
-            "answer": "Chữ",
-            "explanation": "'字' nghĩa là 'Chữ'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '晚' (wǎn) có nghĩa là gì?",
+            "question": "Từ “开” (kāi) có nghĩa là gì?",
             "options": [
                 "Viết",
-                "Muộn",
-                "Một số",
-                "Năm sau"
+                "Khởi hành",
+                "Tàu hỏa",
+                "Nói chuyện"
             ],
-            "answer": "Muộn",
-            "explanation": "'晚' nghĩa là 'Muộn'."
+            "answer": "Khởi hành",
+            "explanation": "“开” nghĩa là “Khởi hành”.",
+            "id": 7
         },
         {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上学' là:",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Nghe thấy”?",
             "options": [
-                "shàngxué7",
-                "shàngxùé",
-                "shàmgxué",
-                "shàngxué"
+                "都 (dōu)",
+                "听见 (tīngjiàn)",
+                "火车 (huǒchē)",
+                "中午 (zhōngwǔ)"
             ],
-            "answer": "shàngxué",
-            "explanation": "'上学' đọc là shàngxué."
+            "answer": "听见 (tīngjiàn)",
+            "explanation": "“Nghe thấy” là “听见” (tīngjiàn).",
+            "id": 8
         },
         {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '中学' là:",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
             "options": [
-                "zhōmgxué",
-                "zhōngxué",
-                "zhōngxùé",
-                "zhōngxué3"
+                "我是学生了",
+                "我是学生",
+                "他是学生",
+                "生学是我"
             ],
-            "answer": "zhōngxué",
-            "explanation": "'中学' đọc là zhōngxué."
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 9
         },
         {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '都' là:",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "dōu5",
-                "dōù",
-                "dōu",
-                "dōu2"
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "dōu",
-            "explanation": "'都' đọc là dōu."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 10
         },
         {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '小学' là:",
-            "options": [
-                "xiǎóxùé",
-                "xiǎoxué",
-                "xiǎoxué8",
-                "xìǎoxué"
-            ],
-            "answer": "xiǎoxué",
-            "explanation": "'小学' đọc là xiǎoxué."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '小学' là:",
-            "options": [
-                "xiǎóxùé",
-                "xìǎoxué",
-                "xiǎoxué",
-                "xiǎoxué2"
-            ],
-            "answer": "xiǎoxué",
-            "explanation": "'小学' đọc là xiǎoxué."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '晚' là:",
-            "options": [
-                "wǎm",
-                "wǎn2",
-                "wǎn6",
-                "wǎn"
-            ],
-            "answer": "wǎn",
-            "explanation": "'晚' đọc là wǎn."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '汉字' là:",
-            "options": [
-                "Hànzì6",
-                "Hàmzì",
-                "Hànzì3",
-                "Hànzì"
-            ],
-            "answer": "Hànzì",
-            "explanation": "'汉字' đọc là Hànzì."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '汉语' là:",
-            "options": [
-                "Hànyǔ",
-                "Hànyǔ7",
-                "Hàmyǔ",
-                "Hànyǔ6"
-            ],
-            "answer": "Hànyǔ",
-            "explanation": "'汉语' đọc là Hànyǔ."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '开' là:",
-            "options": [
-                "kāì",
-                "kāi",
-                "kāi7",
-                "kāi9"
-            ],
-            "answer": "kāi",
-            "explanation": "'开' đọc là kāi."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '听见' là:",
-            "options": [
-                "tīngjiàn8",
-                "tīngjìàn",
-                "tīngjiàn",
-                "tīmgjiàm"
-            ],
-            "answer": "tīngjiàn",
-            "explanation": "'听见' đọc là tīngjiàn."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '写' là:",
-            "options": [
-                "xiě1",
-                "xiě",
-                "xiě5",
-                "xìě"
-            ],
-            "answer": "xiě",
-            "explanation": "'写' đọc là xiě."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '都' là:",
-            "options": [
-                "dōu6",
-                "dōù",
-                "dōu6",
-                "dōu"
-            ],
-            "answer": "dōu",
-            "explanation": "'都' đọc là dōu."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '说话' là:",
-            "options": [
-                "shuōhuà",
-                "shùōhùà",
-                "shuōhuà8",
-                "shuōhuà4"
-            ],
-            "answer": "shuōhuà",
-            "explanation": "'说话' đọc là shuōhuà."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '明年' là:",
-            "options": [
-                "míngnìán",
-                "mímgmiám",
-                "míngnián",
-                "míngnián6"
-            ],
-            "answer": "míngnián",
-            "explanation": "'明年' đọc là míngnián."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '有些' là:",
-            "options": [
-                "yǒùxiē",
-                "yǒuxiē",
-                "yǒuxiē6",
-                "yǒuxìē"
-            ],
-            "answer": "yǒuxiē",
-            "explanation": "'有些' đọc là yǒuxiē."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '火车' là:",
-            "options": [
-                "huǒchē",
-                "hùǒchē",
-                "huǒchē5",
-                "huǒchē3"
-            ],
-            "answer": "huǒchē",
-            "explanation": "'火车' đọc là huǒchē."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上学' là:",
-            "options": [
-                "shàngxué7",
-                "shàmgxué",
-                "shàngxùé",
-                "shàngxué"
-            ],
-            "answer": "shàngxué",
-            "explanation": "'上学' đọc là shàngxué."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '中午' là:",
-            "options": [
-                "zhōngwǔ",
-                "zhōngwǔ8",
-                "zhōngwǔ7",
-                "zhōmgwǔ"
-            ],
-            "answer": "zhōngwǔ",
-            "explanation": "'中午' đọc là zhōngwǔ."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '字' là:",
-            "options": [
-                "zì5",
-                "zì2",
-                "zì7",
-                "zì"
-            ],
-            "answer": "zì",
-            "explanation": "'字' đọc là zì."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '听' là:",
-            "options": [
-                "tīng5",
-                "tīng5",
-                "tīmg",
-                "tīng"
-            ],
-            "answer": "tīng",
-            "explanation": "'听' đọc là tīng."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '中学' là:",
-            "options": [
-                "zhōngxué6",
-                "zhōngxué",
-                "zhōmgxué",
-                "zhōngxùé"
-            ],
-            "answer": "zhōngxué",
-            "explanation": "'中学' đọc là zhōngxué."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '说话' là:",
-            "options": [
-                "shuōhuà",
-                "shuōhuà9",
-                "shuōhuà8",
-                "shùōhùà"
-            ],
-            "answer": "shuōhuà",
-            "explanation": "'说话' đọc là shuōhuà."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '听见' là:",
-            "options": [
-                "tīngjìàn",
-                "tīngjiàn",
-                "tīngjiàn6",
-                "tīmgjiàm"
-            ],
-            "answer": "tīngjiàn",
-            "explanation": "'听见' đọc là tīngjiàn."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '明年' là:",
-            "options": [
-                "mímgmiám",
-                "míngnián",
-                "míngnián1",
-                "míngnìán"
-            ],
-            "answer": "míngnián",
-            "explanation": "'明年' đọc là míngnián."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '火车' là:",
-            "options": [
-                "huǒchē5",
-                "huǒchē",
-                "huǒchē1",
-                "hùǒchē"
-            ],
-            "answer": "huǒchē",
-            "explanation": "'火车' đọc là huǒchē."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đi học' vào chỗ trống: ______",
-            "options": [
-                "上学",
-                "听见",
-                "晚",
-                "说话"
-            ],
-            "answer": "上学",
-            "explanation": "Từ cần điền là '上学'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Viết' vào chỗ trống: ______",
-            "options": [
-                "晚",
-                "汉语",
-                "说话",
-                "写"
-            ],
-            "answer": "写",
-            "explanation": "Từ cần điền là '写'."
-        },
-        {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Chữ Hán' vào chỗ trống: ______",
-            "options": [
-                "汉字",
-                "中午",
-                "都",
-                "晚"
-            ],
-            "answer": "汉字",
-            "explanation": "Từ cần điền là '汉字'."
-        },
-        {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Chữ' vào chỗ trống: ______",
-            "options": [
-                "晚",
-                "都",
-                "开",
-                "字"
-            ],
-            "answer": "字",
-            "explanation": "Từ cần điền là '字'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nghe' vào chỗ trống: ______",
-            "options": [
-                "说话",
-                "写",
-                "汉语",
-                "听"
-            ],
-            "answer": "听",
-            "explanation": "Từ cần điền là '听'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Một số' vào chỗ trống: ______",
-            "options": [
-                "字",
-                "有些",
-                "中学",
-                "写"
-            ],
-            "answer": "有些",
-            "explanation": "Từ cần điền là '有些'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Khởi hành' vào chỗ trống: ______",
-            "options": [
-                "字",
-                "汉语",
-                "听见",
-                "开"
-            ],
-            "answer": "开",
-            "explanation": "Từ cần điền là '开'."
-        },
-        {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tiếng Hán' vào chỗ trống: ______",
-            "options": [
-                "开",
-                "上学",
-                "汉语",
-                "听"
-            ],
-            "answer": "汉语",
-            "explanation": "Từ cần điền là '汉语'."
-        },
-        {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi trưa' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
             "options": [
                 "有些",
-                "明年",
-                "汉字",
-                "中午"
-            ],
-            "answer": "中午",
-            "explanation": "Từ cần điền là '中午'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Muộn' vào chỗ trống: ______",
-            "options": [
-                "都",
-                "有些",
-                "汉语",
-                "晚"
-            ],
-            "answer": "晚",
-            "explanation": "Từ cần điền là '晚'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Trung học' vào chỗ trống: ______",
-            "options": [
-                "中学",
-                "说话",
-                "汉语",
-                "都"
-            ],
-            "answer": "中学",
-            "explanation": "Từ cần điền là '中学'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đều' vào chỗ trống: ______",
-            "options": [
-                "都",
-                "晚",
-                "上学",
-                "有些"
-            ],
-            "answer": "都",
-            "explanation": "Từ cần điền là '都'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tiểu học' vào chỗ trống: ______",
-            "options": [
-                "汉字",
-                "小学",
-                "有些",
-                "中午"
-            ],
-            "answer": "小学",
-            "explanation": "Từ cần điền là '小学'."
-        },
-        {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi trưa' vào chỗ trống: ______",
-            "options": [
-                "中午",
-                "明年",
-                "小学",
-                "都"
-            ],
-            "answer": "中午",
-            "explanation": "Từ cần điền là '中午'."
-        },
-        {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đi học' vào chỗ trống: ______",
-            "options": [
-                "上学",
                 "火车",
-                "听",
-                "汉语"
-            ],
-            "answer": "上学",
-            "explanation": "Từ cần điền là '上学'."
-        },
-        {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Khởi hành' vào chỗ trống: ______",
-            "options": [
-                "开",
-                "有些",
-                "小学",
-                "汉字"
-            ],
-            "answer": "开",
-            "explanation": "Từ cần điền là '开'."
-        },
-        {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Năm sau' vào chỗ trống: ______",
-            "options": [
-                "明年",
-                "小学",
                 "写",
-                "汉字"
+                "都"
             ],
-            "answer": "明年",
-            "explanation": "Từ cần điền là '明年'."
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 11
         },
         {
-            "id": 73,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
+            "options": [
+                "这是他的书",
+                "这是我的书了",
+                "这是我的书",
+                "书的我是这"
+            ],
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 12
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 13
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "没",
+                "无",
+                "别",
+                "不"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 14
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tàu hỏa' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
             "options": [
                 "开",
-                "字",
-                "汉语",
+                "中午",
+                "说话",
                 "火车"
             ],
             "answer": "火车",
-            "explanation": "Từ cần điền là '火车'."
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 15
         },
         {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nói chuyện' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Viết”?",
             "options": [
-                "汉字",
-                "汉语",
+                "都 (dōu)",
+                "写 (xiě)",
+                "听见 (tīngjiàn)",
+                "中午 (zhōngwǔ)"
+            ],
+            "answer": "写 (xiě)",
+            "explanation": "“Viết” là “写” (xiě).",
+            "id": 16
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “火车” (huǒchē) có nghĩa là gì?",
+            "options": [
+                "Tàu hỏa",
+                "Buổi trưa",
+                "Khởi hành",
+                "Nghe thấy"
+            ],
+            "answer": "Tàu hỏa",
+            "explanation": "“火车” nghĩa là “Tàu hỏa”.",
+            "id": 17
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
+            "options": [
+                "我好吗？",
+                "你好吗？",
+                "你好吗？了",
+                "？吗好你"
+            ],
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 18
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
+                "写",
+                "开",
                 "说话",
+                "火车"
+            ],
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 19
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
+            "options": [
+                "开",
+                "听见",
+                "写",
+                "火车"
+            ],
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 20
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "我好",
+                "好你",
+                "你好",
+                "你好了"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 21
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "不",
+                "别",
+                "没",
+                "无"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 22
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
+            "options": [
+                "说话",
+                "中午",
+                "有些",
+                "火车"
+            ],
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 23
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Động từ + Chủ ngữ + Tân ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 24
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
+            "options": [
+                "谢谢了",
+                "谢谢",
+                "Đáp án sai",
+                "Đáp án sai"
+            ],
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 25
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
+            "options": [
+                "我喜欢吃苹果了",
+                "果苹吃欢喜我",
+                "我喜欢吃苹果",
+                "他喜欢吃苹果"
+            ],
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 26
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
+            "options": [
+                "中午",
+                "听见",
+                "火车",
                 "都"
             ],
-            "answer": "说话",
-            "explanation": "Từ cần điền là '说话'."
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 27
         },
         {
-            "id": 75,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Muộn' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
             "options": [
-                "晚",
-                "有些",
-                "都",
+                "火车",
+                "开",
+                "中午",
                 "听见"
             ],
-            "answer": "晚",
-            "explanation": "Từ cần điền là '晚'."
+            "answer": "火车",
+            "explanation": "Đáp án đúng là “火车” (Tàu hỏa).",
+            "id": 28
         },
         {
-            "id": 76,
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Viết'",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "是写我",
-                "我写是",
-                "我是写",
-                "这写是"
+                "今天星期几？",
+                "Đáp án sai",
+                "今天星期几？了",
+                "？几期星天今"
             ],
-            "answer": "我是写",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是写"
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 29
         },
         {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Nghe thấy'",
-            "options": [
-                "这听见是",
-                "我是听见",
-                "我听见是",
-                "是听见我"
-            ],
-            "answer": "我是听见",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是听见"
-        },
-        {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đều'",
-            "options": [
-                "这是都",
-                "这都是",
-                "我都是",
-                "是都我"
-            ],
-            "answer": "这是都",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是都"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Một số'",
-            "options": [
-                "我有些是",
-                "是有些我",
-                "这是有些",
-                "这有些是"
-            ],
-            "answer": "这是有些",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是有些"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Chữ'",
-            "options": [
-                "是字我",
-                "这字是",
-                "我字是",
-                "这是字"
-            ],
-            "answer": "这是字",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是字"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tiểu học'",
-            "options": [
-                "这是小学",
-                "这小学是",
-                "我小学是",
-                "是小学我"
-            ],
-            "answer": "这是小学",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是小学"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Chữ Hán'",
-            "options": [
-                "这汉字是",
-                "是汉字我",
-                "我汉字是",
-                "我是汉字"
-            ],
-            "answer": "我是汉字",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是汉字"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Trung học'",
-            "options": [
-                "我中学是",
-                "是中学我",
-                "我是中学",
-                "这中学是"
-            ],
-            "answer": "我是中学",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是中学"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nghe'",
-            "options": [
-                "这是听",
-                "这听是",
-                "我听是",
-                "是听我"
-            ],
-            "answer": "这是听",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是听"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tiếng Hán'",
-            "options": [
-                "我汉语是",
-                "这汉语是",
-                "是汉语我",
-                "我是汉语"
-            ],
-            "answer": "我是汉语",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是汉语"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Đi học'",
-            "options": [
-                "是上学我",
-                "我上学是",
-                "这上学是",
-                "这是上学"
-            ],
-            "answer": "这是上学",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是上学"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tàu hỏa'",
-            "options": [
-                "是火车我",
-                "我是火车",
-                "这火车是",
-                "我火车是"
-            ],
-            "answer": "我是火车",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是火车"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Chữ'",
-            "options": [
-                "这是字",
-                "这字是",
-                "是字我",
-                "我字是"
-            ],
-            "answer": "这是字",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是字"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nghe thấy'",
-            "options": [
-                "我听见是",
-                "这听见是",
-                "是听见我",
-                "这是听见"
-            ],
-            "answer": "这是听见",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是听见"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đều'",
-            "options": [
-                "我是都",
-                "我都是",
-                "是都我",
-                "这都是"
-            ],
-            "answer": "我是都",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是都"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 明年 3. 喜欢",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "不",
+                "没",
+                "无",
+                "别"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 30
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 晚 3. 喜欢",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "别",
+                "不",
+                "无",
+                "没"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 31
         },
         {
-            "id": 93,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 听 3. 喜欢",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Đều”?",
             "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
+                "都 (dōu)",
+                "说话 (shuōhuà)",
+                "听见 (tīngjiàn)",
+                "中午 (zhōngwǔ)"
             ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 94,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 中午 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 95,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 汉字 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 96,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 说话 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 97,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 写 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 98,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 中学 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 99,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 汉语 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Sắp xếp đúng: 1. 我 2. 有些 3. 喜欢",
-            "options": [
-                "1-2-3",
-                "1-3-2",
-                "3-1-2",
-                "2-1-3"
-            ],
-            "answer": "1-3-2",
-            "explanation": "Đáp án đúng là 1-3-2."
+            "answer": "都 (dōu)",
+            "explanation": "“Đều” là “都” (dōu).",
+            "id": 32
         }
     ]
 }

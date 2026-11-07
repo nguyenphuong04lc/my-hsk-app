@@ -1,0 +1,423 @@
+{
+    "lessonId": 17,
+    "lessonTitle": "Bài 17: HSK 3 - Ôn tập",
+    "totalQuestions": 32,
+    "questions": [
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi muốn đi du lịch”",
+            "options": [
+                "我想去旅游",
+                "我想去旅游了",
+                "游旅去想我",
+                "他想去旅游"
+            ],
+            "answer": "我想去旅游",
+            "explanation": "Câu đúng là: 我想去旅游",
+            "id": 1
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这条裙子很好看 (Nghĩa: Cái váy này rất đẹp)",
+            "options": [
+                "以为",
+                "米",
+                "接",
+                "身高"
+            ],
+            "answer": "以为",
+            "explanation": "Đáp án đúng là “以为” (Tưởng là).",
+            "id": 2
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Họ trông giống nhau”",
+            "options": [
+                "Đáp án sai",
+                "他们看上去有点儿像了",
+                "他们看上去有点儿像",
+                "像儿点有去上看们他"
+            ],
+            "answer": "他们看上去有点儿像",
+            "explanation": "Câu đúng là: 他们看上去有点儿像",
+            "id": 3
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Gầy”?",
+            "options": [
+                "接 (jiē)",
+                "瘦 (shòu)",
+                "身高 (shēnggāo)",
+                "长 (zhǎng)"
+            ],
+            "answer": "瘦 (shòu)",
+            "explanation": "“Gầy” là “瘦” (shòu).",
+            "id": 4
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Anh ấy cao 1m8”",
+            "options": [
+                "他身高一米八了",
+                "八米一高身他",
+                "Đáp án sai",
+                "他身高一米八"
+            ],
+            "answer": "他身高一米八",
+            "explanation": "Câu đúng là: 他身高一米八",
+            "id": 5
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我还______是你呢 (Nghĩa: Tôi tưởng đó là bạn)",
+            "options": [
+                "以为",
+                "接",
+                "像",
+                "米"
+            ],
+            "answer": "以为",
+            "explanation": "Đáp án đúng là “以为” (Tưởng là).",
+            "id": 6
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "那个穿着黑衣服的年轻人",
+                "那个年轻人穿着黑衣服",
+                "穿着黑衣服的那个年轻人",
+                "年轻人那个穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 7
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Có phải ai đó lấy nhầm không?”",
+            "options": [
+                "？了错拿人有是不是",
+                "Đáp án sai",
+                "是不是有人拿错了？",
+                "是不是有人拿错了？了"
+            ],
+            "answer": "是不是有人拿错了？",
+            "explanation": "Câu đúng là: 是不是有人拿错了？",
+            "id": 8
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cái váy này rất đẹp”",
+            "options": [
+                "这条裙子很好看了",
+                "看好很子裙条这",
+                "这条裙子很好看",
+                "Đáp án sai"
+            ],
+            "answer": "这条裙子很好看",
+            "explanation": "Câu đúng là: 这条裙子很好看",
+            "id": 9
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “以为” (yǐwéi) có nghĩa là gì?",
+            "options": [
+                "Hành lý",
+                "Gầy",
+                "Giống như",
+                "Tưởng là"
+            ],
+            "answer": "Tưởng là",
+            "explanation": "“以为” nghĩa là “Tưởng là”.",
+            "id": 10
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Đón”?",
+            "options": [
+                "米 (mǐ)",
+                "以为 (yǐwéi)",
+                "像 (xiàng)",
+                "接 (jiē)"
+            ],
+            "answer": "接 (jiē)",
+            "explanation": "“Đón” là “接” (jiē).",
+            "id": 11
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "那个穿着黑衣服的年轻人",
+                "穿着黑衣服的那个年轻人",
+                "年轻人那个穿着黑衣服",
+                "那个年轻人穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 12
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Mét”?",
+            "options": [
+                "米 (mǐ)",
+                "像 (xiàng)",
+                "行李 (xíngli)",
+                "瘦 (shòu)"
+            ],
+            "answer": "米 (mǐ)",
+            "explanation": "“Mét” là “米” (mǐ).",
+            "id": 13
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你在做什么呢？ (Nghĩa: Bạn đang làm gì đấy?)",
+            "options": [
+                "行李",
+                "长",
+                "以为",
+                "米"
+            ],
+            "answer": "以为",
+            "explanation": "Đáp án đúng là “以为” (Tưởng là).",
+            "id": 14
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi tưởng đó là bạn”",
+            "options": [
+                "我还以为是你呢",
+                "我还以为是你呢了",
+                "呢你是为以还我",
+                "他还以为是你呢"
+            ],
+            "answer": "我还以为是你呢",
+            "explanation": "Câu đúng là: 我还以为是你呢",
+            "id": 15
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Hành lý”?",
+            "options": [
+                "米 (mǐ)",
+                "像 (xiàng)",
+                "行李 (xíngli)",
+                "长 (zhǎng)"
+            ],
+            "answer": "行李 (xíngli)",
+            "explanation": "“Hành lý” là “行李” (xíngli).",
+            "id": 16
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n他______一米八 (Nghĩa: Anh ấy cao 1m8)",
+            "options": [
+                "身高",
+                "长",
+                "像",
+                "以为"
+            ],
+            "answer": "身高",
+            "explanation": "Đáp án đúng là “身高” (Chiều cao).",
+            "id": 17
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n是不是有人拿错了？ (Nghĩa: Có phải ai đó lấy nhầm không?)",
+            "options": [
+                "以为",
+                "米",
+                "瘦",
+                "身高"
+            ],
+            "answer": "以为",
+            "explanation": "Đáp án đúng là “以为” (Tưởng là).",
+            "id": 18
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “身高” (shēnggāo) có nghĩa là gì?",
+            "options": [
+                "Chiều cao",
+                "Hành lý",
+                "Tưởng là",
+                "Gầy"
+            ],
+            "answer": "Chiều cao",
+            "explanation": "“身高” nghĩa là “Chiều cao”.",
+            "id": 19
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "那个年轻人穿着黑衣服",
+                "年轻人那个穿着黑衣服",
+                "穿着黑衣服的那个年轻人",
+                "那个穿着黑衣服的年轻人"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 20
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “像” (xiàng) có nghĩa là gì?",
+            "options": [
+                "Giống như",
+                "Tưởng là",
+                "Gầy",
+                "Mét"
+            ],
+            "answer": "Giống như",
+            "explanation": "“像” nghĩa là “Giống như”.",
+            "id": 21
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "那个穿着黑衣服的年轻人",
+                "穿着黑衣服的那个年轻人",
+                "年轻人那个穿着黑衣服",
+                "那个年轻人穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 22
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "穿着黑衣服的那个年轻人",
+                "那个穿着黑衣服的年轻人",
+                "那个年轻人穿着黑衣服",
+                "年轻人那个穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 23
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “长” (zhǎng) có nghĩa là gì?",
+            "options": [
+                "Mét",
+                "Hành lý",
+                "Chiều cao",
+                "Mọc"
+            ],
+            "answer": "Mọc",
+            "explanation": "“长” nghĩa là “Mọc”.",
+            "id": 24
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "年轻人那个穿着黑衣服",
+                "穿着黑衣服的那个年轻人",
+                "那个穿着黑衣服的年轻人",
+                "那个年轻人穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 25
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我的______在哪儿？ (Nghĩa: Hành lý của tôi đâu?)",
+            "options": [
+                "身高",
+                "像",
+                "行李",
+                "米"
+            ],
+            "answer": "行李",
+            "explanation": "Đáp án đúng là “行李” (Hành lý).",
+            "id": 26
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "年轻人那个穿着黑衣服",
+                "穿着黑衣服的那个年轻人",
+                "那个穿着黑衣服的年轻人",
+                "那个年轻人穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 27
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Định ngữ\nSắp xếp đúng:",
+            "options": [
+                "年轻人那个穿着黑衣服",
+                "穿着黑衣服的那个年轻人",
+                "那个穿着黑衣服的年轻人",
+                "那个年轻人穿着黑衣服"
+            ],
+            "answer": "那个穿着黑衣服的年轻人",
+            "explanation": "Định ngữ đứng trước danh từ.",
+            "id": 28
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn đang làm gì đấy?”",
+            "options": [
+                "我在做什么呢？",
+                "？呢么什做在你",
+                "你在做什么呢？",
+                "你在做什么呢？了"
+            ],
+            "answer": "你在做什么呢？",
+            "explanation": "Câu đúng là: 你在做什么呢？",
+            "id": 29
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我想去旅游 (Nghĩa: Tôi muốn đi du lịch)",
+            "options": [
+                "长",
+                "瘦",
+                "像",
+                "以为"
+            ],
+            "answer": "以为",
+            "explanation": "Đáp án đúng là “以为” (Tưởng là).",
+            "id": 30
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hành lý của tôi đâu?”",
+            "options": [
+                "他的行李在哪儿？",
+                "我的行李在哪儿？了",
+                "？儿哪在李行的我",
+                "我的行李在哪儿？"
+            ],
+            "answer": "我的行李在哪儿？",
+            "explanation": "Câu đúng là: 我的行李在哪儿？",
+            "id": 31
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n他们看上去有点儿______ (Nghĩa: Họ trông giống nhau)",
+            "options": [
+                "像",
+                "身高",
+                "行李",
+                "接"
+            ],
+            "answer": "像",
+            "explanation": "Đáp án đúng là “像” (Giống như).",
+            "id": 32
+        }
+    ]
+}

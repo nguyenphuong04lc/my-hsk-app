@@ -1,1307 +1,423 @@
 {
     "lessonId": 7,
-    "lessonTitle": "Bài 7: 我晚上六点半下班",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 7: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
             "type": "meaning",
-            "question": "Từ '电影院' (diànyǐngyuàn) có nghĩa là gì?",
+            "question": "Từ nào có nghĩa là “Phút”?",
             "options": [
-                "Việc",
-                "Rạp phim",
-                "Sau",
-                "Giờ"
+                "分 (fēn)",
+                "课 (kè)",
+                "见 (jiàn)",
+                "早上 (zǎoshang)"
             ],
-            "answer": "Rạp phim",
-            "explanation": "'电影院' nghĩa là 'Rạp phim'."
+            "answer": "分 (fēn)",
+            "explanation": "“Phút” là “分” (fēn).",
+            "id": 1
         },
         {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '现在' (xiànzài) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "Buổi chiều",
-                "Sáng sớm",
-                "Rạp phim",
-                "Bây giờ"
+                "别",
+                "不",
+                "无",
+                "没"
             ],
-            "answer": "Bây giờ",
-            "explanation": "'现在' nghĩa là 'Bây giờ'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 2
         },
         {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '店' (diàn) có nghĩa là gì?",
-            "options": [
-                "Sáng sớm",
-                "Rạp phim",
-                "Bài học",
-                "Cửa hàng"
-            ],
-            "answer": "Cửa hàng",
-            "explanation": "'店' nghĩa là 'Cửa hàng'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '分' (fēn) có nghĩa là gì?",
-            "options": [
-                "Sáng sớm",
-                "Phút",
-                "Xem",
-                "Gặp"
-            ],
-            "answer": "Phút",
-            "explanation": "'分' nghĩa là 'Phút'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '课' (kè) có nghĩa là gì?",
-            "options": [
-                "Sáng sớm",
-                "Bài học",
-                "Phút",
-                "Xem"
-            ],
-            "answer": "Bài học",
-            "explanation": "'课' nghĩa là 'Bài học'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '事' (shì) có nghĩa là gì?",
-            "options": [
-                "Xem",
-                "Việc",
-                "Cửa hàng",
-                "Giờ"
-            ],
-            "answer": "Việc",
-            "explanation": "'事' nghĩa là 'Việc'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '早上' (zǎoshang) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Bây giờ",
-                "Sáng sớm",
-                "Việc"
-            ],
-            "answer": "Sáng sớm",
-            "explanation": "'早上' nghĩa là 'Sáng sớm'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '下午' (xiàwǔ) có nghĩa là gì?",
-            "options": [
-                "Sáng sớm",
-                "Phút",
-                "Buổi chiều",
-                "Rạp phim"
-            ],
-            "answer": "Buổi chiều",
-            "explanation": "'下午' nghĩa là 'Buổi chiều'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '上午' (shàngwǔ) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Sau",
-                "Việc",
-                "Buổi sáng"
-            ],
-            "answer": "Buổi sáng",
-            "explanation": "'上午' nghĩa là 'Buổi sáng'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '见' (jiàn) có nghĩa là gì?",
-            "options": [
-                "Buổi chiều",
-                "Bây giờ",
-                "Sau",
-                "Gặp"
-            ],
-            "answer": "Gặp",
-            "explanation": "'见' nghĩa là 'Gặp'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '后' (hòu) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Sau",
-                "Gặp",
-                "Bài học"
-            ],
-            "answer": "Sau",
-            "explanation": "'后' nghĩa là 'Sau'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '上班' (shàngbān) có nghĩa là gì?",
-            "options": [
-                "Đi làm",
-                "Sau",
-                "Giờ",
-                "Bây giờ"
-            ],
-            "answer": "Đi làm",
-            "explanation": "'上班' nghĩa là 'Đi làm'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '分钟' (fēnzhōng) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Xem",
-                "Bây giờ",
-                "Rạp phim"
-            ],
-            "answer": "Phút",
-            "explanation": "'分钟' nghĩa là 'Phút'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '点' (diǎn) có nghĩa là gì?",
-            "options": [
-                "Buổi sáng",
-                "Xem",
-                "Phút",
-                "Giờ"
-            ],
-            "answer": "Giờ",
-            "explanation": "'点' nghĩa là 'Giờ'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '看' (kàn) có nghĩa là gì?",
-            "options": [
-                "Buổi sáng",
-                "Giờ",
-                "Xem",
-                "Phút"
-            ],
-            "answer": "Xem",
-            "explanation": "'看' nghĩa là 'Xem'."
-        },
-        {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '点' (diǎn) có nghĩa là gì?",
-            "options": [
-                "Đi làm",
-                "Giờ",
-                "Cửa hàng",
-                "Sáng sớm"
-            ],
-            "answer": "Giờ",
-            "explanation": "'点' nghĩa là 'Giờ'."
-        },
-        {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '看' (kàn) có nghĩa là gì?",
-            "options": [
-                "Sau",
-                "Đi làm",
-                "Xem",
-                "Giờ"
-            ],
-            "answer": "Xem",
-            "explanation": "'看' nghĩa là 'Xem'."
-        },
-        {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '上班' (shàngbān) có nghĩa là gì?",
-            "options": [
-                "Sau",
-                "Buổi sáng",
-                "Đi làm",
-                "Cửa hàng"
-            ],
-            "answer": "Đi làm",
-            "explanation": "'上班' nghĩa là 'Đi làm'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '下午' (xiàwǔ) có nghĩa là gì?",
-            "options": [
-                "Buổi chiều",
-                "Bài học",
-                "Việc",
-                "Phút"
-            ],
-            "answer": "Buổi chiều",
-            "explanation": "'下午' nghĩa là 'Buổi chiều'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '见' (jiàn) có nghĩa là gì?",
-            "options": [
-                "Cửa hàng",
-                "Buổi sáng",
-                "Phút",
-                "Gặp"
-            ],
-            "answer": "Gặp",
-            "explanation": "'见' nghĩa là 'Gặp'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '电影院' (diànyǐngyuàn) có nghĩa là gì?",
-            "options": [
-                "Rạp phim",
-                "Gặp",
-                "Cửa hàng",
-                "Phút"
-            ],
-            "answer": "Rạp phim",
-            "explanation": "'电影院' nghĩa là 'Rạp phim'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '店' (diàn) có nghĩa là gì?",
-            "options": [
-                "Cửa hàng",
-                "Sau",
-                "Buổi sáng",
-                "Giờ"
-            ],
-            "answer": "Cửa hàng",
-            "explanation": "'店' nghĩa là 'Cửa hàng'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '后' (hòu) có nghĩa là gì?",
-            "options": [
-                "Xem",
-                "Giờ",
-                "Việc",
-                "Sau"
-            ],
-            "answer": "Sau",
-            "explanation": "'后' nghĩa là 'Sau'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '分钟' (fēnzhōng) có nghĩa là gì?",
-            "options": [
-                "Cửa hàng",
-                "Phút",
-                "Giờ",
-                "Bài học"
-            ],
-            "answer": "Phút",
-            "explanation": "'分钟' nghĩa là 'Phút'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '分' (fēn) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Sau",
-                "Sáng sớm",
-                "Bây giờ"
-            ],
-            "answer": "Phút",
-            "explanation": "'分' nghĩa là 'Phút'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '事' (shì) có nghĩa là gì?",
-            "options": [
-                "Bây giờ",
-                "Xem",
-                "Việc",
-                "Sáng sớm"
-            ],
-            "answer": "Việc",
-            "explanation": "'事' nghĩa là 'Việc'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '早上' (zǎoshang) có nghĩa là gì?",
-            "options": [
-                "Đi làm",
-                "Giờ",
-                "Phút",
-                "Sáng sớm"
-            ],
-            "answer": "Sáng sớm",
-            "explanation": "'早上' nghĩa là 'Sáng sớm'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '上午' (shàngwǔ) có nghĩa là gì?",
-            "options": [
-                "Phút",
-                "Buổi sáng",
-                "Gặp",
-                "Rạp phim"
-            ],
-            "answer": "Buổi sáng",
-            "explanation": "'上午' nghĩa là 'Buổi sáng'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '现在' (xiànzài) có nghĩa là gì?",
-            "options": [
-                "Buổi sáng",
-                "Rạp phim",
-                "Bây giờ",
-                "Giờ"
-            ],
-            "answer": "Bây giờ",
-            "explanation": "'现在' nghĩa là 'Bây giờ'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '课' (kè) có nghĩa là gì?",
-            "options": [
-                "Bây giờ",
-                "Xem",
-                "Bài học",
-                "Gặp"
-            ],
-            "answer": "Bài học",
-            "explanation": "'课' nghĩa là 'Bài học'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电影院' là:",
-            "options": [
-                "diànyǐngyuàn",
-                "diànyǐngyùàn",
-                "dìànyǐngyuàn",
-                "diàmyǐmgyuàm"
-            ],
-            "answer": "diànyǐngyuàn",
-            "explanation": "'电影院' đọc là diànyǐngyuàn."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上午' là:",
-            "options": [
-                "shàngwǔ4",
-                "shàngwǔ",
-                "shàngwǔ4",
-                "shàmgwǔ"
-            ],
-            "answer": "shàngwǔ",
-            "explanation": "'上午' đọc là shàngwǔ."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上班' là:",
-            "options": [
-                "shàngbān",
-                "shàngbān9",
-                "shàngbān6",
-                "shàmgbām"
-            ],
-            "answer": "shàngbān",
-            "explanation": "'上班' đọc là shàngbān."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '分' là:",
-            "options": [
-                "fēn2",
-                "fēn1",
-                "fēn",
-                "fēm"
-            ],
-            "answer": "fēn",
-            "explanation": "'分' đọc là fēn."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '课' là:",
-            "options": [
-                "kè",
-                "kè6",
-                "kè7",
-                "kè3"
-            ],
-            "answer": "kè",
-            "explanation": "'课' đọc là kè."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '下午' là:",
-            "options": [
-                "xiàwǔ8",
-                "xìàwǔ",
-                "xiàwǔ",
-                "xiàwǔ4"
-            ],
-            "answer": "xiàwǔ",
-            "explanation": "'下午' đọc là xiàwǔ."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '后' là:",
-            "options": [
-                "hòù",
-                "hòu1",
-                "hòu6",
-                "hòu"
-            ],
-            "answer": "hòu",
-            "explanation": "'后' đọc là hòu."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '分钟' là:",
-            "options": [
-                "fēmzhōmg",
-                "fēnzhōng6",
-                "fēnzhōng9",
-                "fēnzhōng"
-            ],
-            "answer": "fēnzhōng",
-            "explanation": "'分钟' đọc là fēnzhōng."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '现在' là:",
-            "options": [
-                "xìànzàì",
-                "xiànzài",
-                "xiànzài7",
-                "xiàmzài"
-            ],
-            "answer": "xiànzài",
-            "explanation": "'现在' đọc là xiànzài."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '事' là:",
-            "options": [
-                "shì",
-                "shì1",
-                "shì3",
-                "shì4"
-            ],
-            "answer": "shì",
-            "explanation": "'事' đọc là shì."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '早上' là:",
-            "options": [
-                "zǎoshàng",
-                "zǎoshang",
-                "zǎóshang",
-                "zǎoshamg"
-            ],
-            "answer": "zǎoshang",
-            "explanation": "'早上' đọc là zǎoshang."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '点' là:",
-            "options": [
-                "diǎn",
-                "diǎn3",
-                "diǎm",
-                "dìǎn"
-            ],
-            "answer": "diǎn",
-            "explanation": "'点' đọc là diǎn."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '看' là:",
-            "options": [
-                "kàn",
-                "kàn8",
-                "kàn5",
-                "kàm"
-            ],
-            "answer": "kàn",
-            "explanation": "'看' đọc là kàn."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '店' là:",
-            "options": [
-                "diàn7",
-                "diàn",
-                "dìàn",
-                "diàm"
-            ],
-            "answer": "diàn",
-            "explanation": "'店' đọc là diàn."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '见' là:",
-            "options": [
-                "jìàn",
-                "jiàn",
-                "jiàn8",
-                "jiàm"
-            ],
-            "answer": "jiàn",
-            "explanation": "'见' đọc là jiàn."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '点' là:",
-            "options": [
-                "dìǎn",
-                "diǎn2",
-                "diǎm",
-                "diǎn"
-            ],
-            "answer": "diǎn",
-            "explanation": "'点' đọc là diǎn."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '见' là:",
-            "options": [
-                "jiàm",
-                "jìàn",
-                "jiàn",
-                "jiàn4"
-            ],
-            "answer": "jiàn",
-            "explanation": "'见' đọc là jiàn."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '课' là:",
-            "options": [
-                "kè",
-                "kè4",
-                "kè9",
-                "kè5"
-            ],
-            "answer": "kè",
-            "explanation": "'课' đọc là kè."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '早上' là:",
-            "options": [
-                "zǎoshàng",
-                "zǎóshang",
-                "zǎoshamg",
-                "zǎoshang"
-            ],
-            "answer": "zǎoshang",
-            "explanation": "'早上' đọc là zǎoshang."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电影院' là:",
-            "options": [
-                "diànyǐngyuàn",
-                "diànyǐngyùàn",
-                "diàmyǐmgyuàm",
-                "dìànyǐngyuàn"
-            ],
-            "answer": "diànyǐngyuàn",
-            "explanation": "'电影院' đọc là diànyǐngyuàn."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '分钟' là:",
-            "options": [
-                "fēnzhōng6",
-                "fēnzhōng",
-                "fēmzhōmg",
-                "fēnzhōng9"
-            ],
-            "answer": "fēnzhōng",
-            "explanation": "'分钟' đọc là fēnzhōng."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '店' là:",
-            "options": [
-                "diàn",
-                "diàm",
-                "diàn6",
-                "dìàn"
-            ],
-            "answer": "diàn",
-            "explanation": "'店' đọc là diàn."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '上午' là:",
-            "options": [
-                "shàngwǔ",
-                "shàmgwǔ",
-                "shàngwǔ6",
-                "shàngwǔ9"
-            ],
-            "answer": "shàngwǔ",
-            "explanation": "'上午' đọc là shàngwǔ."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '后' là:",
-            "options": [
-                "hòu2",
-                "hòu",
-                "hòù",
-                "hòu5"
-            ],
-            "answer": "hòu",
-            "explanation": "'后' đọc là hòu."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '看' là:",
-            "options": [
-                "kàn",
-                "kàm",
-                "kàn6",
-                "kàn2"
-            ],
-            "answer": "kàn",
-            "explanation": "'看' đọc là kàn."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đi làm' vào chỗ trống: ______",
-            "options": [
-                "后",
-                "上班",
-                "早上",
-                "电影院"
-            ],
-            "answer": "上班",
-            "explanation": "Từ cần điền là '上班'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi chiều' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
             "options": [
                 "课",
-                "看",
-                "下午",
-                "店"
+                "现在",
+                "上午",
+                "分"
             ],
-            "answer": "下午",
-            "explanation": "Từ cần điền là '下午'."
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 3
         },
         {
-            "id": 58,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phút' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 4
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
+            "options": [
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 5
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
+            "options": [
+                "果苹吃欢喜我",
+                "他喜欢吃苹果",
+                "我喜欢吃苹果",
+                "我喜欢吃苹果了"
+            ],
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 6
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “早上” (zǎoshang) có nghĩa là gì?",
+            "options": [
+                "Gặp",
+                "Bài học",
+                "Sáng sớm",
+                "Giờ"
+            ],
+            "answer": "Sáng sớm",
+            "explanation": "“早上” nghĩa là “Sáng sớm”.",
+            "id": 7
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
+            "options": [
+                "现在",
+                "见",
                 "点",
-                "分",
-                "下午",
-                "事"
+                "课"
             ],
-            "answer": "分",
-            "explanation": "Từ cần điền là '分'."
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 8
         },
         {
-            "id": 59,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Việc' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "事",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 9
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
+            "options": [
+                "？吗好你",
+                "你好吗？了",
+                "你好吗？",
+                "我好吗？"
+            ],
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 10
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "你好",
+                "好你",
+                "我好",
+                "你好了"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 11
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "不",
+                "别",
+                "无",
+                "没"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 12
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
+            "options": [
                 "下午",
+                "课",
+                "现在",
+                "见"
+            ],
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 13
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
+            "options": [
+                "现在",
+                "早上",
+                "上午",
+                "分"
+            ],
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 14
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
+            "options": [
+                "课",
+                "现在",
+                "下午",
+                "分"
+            ],
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 15
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Buổi chiều”?",
+            "options": [
+                "分 (fēn)",
+                "下午 (xiàwǔ)",
+                "现在 (xiànzài)",
+                "早上 (zǎoshang)"
+            ],
+            "answer": "下午 (xiàwǔ)",
+            "explanation": "“Buổi chiều” là “下午” (xiàwǔ).",
+            "id": 16
+        },
+        {
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
+            "options": [
+                "不",
+                "没",
+                "别",
+                "无"
+            ],
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 17
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
+            "options": [
+                "这是我的书",
+                "书的我是这",
+                "这是我的书了",
+                "这是他的书"
+            ],
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 18
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “现在” (xiànzài) có nghĩa là gì?",
+            "options": [
+                "Bây giờ",
+                "Phút",
+                "Giờ",
+                "Buổi sáng"
+            ],
+            "answer": "Bây giờ",
+            "explanation": "“现在” nghĩa là “Bây giờ”.",
+            "id": 19
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “点” (diǎn) có nghĩa là gì?",
+            "options": [
+                "Phút",
+                "Bài học",
+                "Gặp",
+                "Giờ"
+            ],
+            "answer": "Giờ",
+            "explanation": "“点” nghĩa là “Giờ”.",
+            "id": 20
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
+            "options": [
+                "谢谢了",
+                "谢谢",
+                "Đáp án sai",
+                "Đáp án sai"
+            ],
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 21
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "他是学生",
+                "我是学生了",
+                "我是学生",
+                "生学是我"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 22
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再______ (Nghĩa: Tạm biệt)",
+            "options": [
+                "上午",
+                "分",
+                "见",
+                "点"
+            ],
+            "answer": "见",
+            "explanation": "Đáp án đúng là “见” (Gặp).",
+            "id": 23
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
+            "options": [
+                "见",
+                "早上",
                 "点",
                 "现在"
             ],
-            "answer": "事",
-            "explanation": "Từ cần điền là '事'."
-        },
-        {
-            "id": 60,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bây giờ' vào chỗ trống: ______",
-            "options": [
-                "现在",
-                "看",
-                "分钟",
-                "早上"
-            ],
             "answer": "现在",
-            "explanation": "Từ cần điền là '现在'."
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 24
         },
         {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phút' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
             "options": [
-                "上班",
-                "分钟",
-                "电影院",
-                "分"
+                "Đáp án sai",
+                "今天星期几？了",
+                "今天星期几？",
+                "？几期星天今"
             ],
-            "answer": "分",
-            "explanation": "Từ cần điền là '分'."
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 25
         },
         {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bây giờ' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "见",
-                "现在",
-                "分钟",
-                "事"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "现在",
-            "explanation": "Từ cần điền là '现在'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 26
         },
         {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Rạp phim' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
             "options": [
-                "电影院",
-                "事",
-                "下午",
-                "早上"
+                "Đáp án sai",
+                "见再",
+                "再见",
+                "再见了"
             ],
-            "answer": "电影院",
-            "explanation": "Từ cần điền là '电影院'."
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 27
         },
         {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Sáng sớm' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Gặp”?",
             "options": [
-                "见",
-                "下午",
+                "下午 (xiàwǔ)",
+                "见 (jiàn)",
+                "早上 (zǎoshang)",
+                "上午 (shàngwǔ)"
+            ],
+            "answer": "见 (jiàn)",
+            "explanation": "“Gặp” là “见” (jiàn).",
+            "id": 28
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “上午” (shàngwǔ) có nghĩa là gì?",
+            "options": [
+                "Sáng sớm",
+                "Buổi chiều",
+                "Gặp",
+                "Buổi sáng"
+            ],
+            "answer": "Buổi sáng",
+            "explanation": "“上午” nghĩa là “Buổi sáng”.",
+            "id": 29
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n今天星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
+            "options": [
                 "早上",
-                "上午"
-            ],
-            "answer": "早上",
-            "explanation": "Từ cần điền là '早上'."
-        },
-        {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi sáng' vào chỗ trống: ______",
-            "options": [
-                "上午",
-                "早上",
-                "上班",
-                "看"
-            ],
-            "answer": "上午",
-            "explanation": "Từ cần điền là '上午'."
-        },
-        {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Bài học' vào chỗ trống: ______",
-            "options": [
-                "看",
-                "上班",
-                "课",
-                "点"
-            ],
-            "answer": "课",
-            "explanation": "Từ cần điền là '课'."
-        },
-        {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Sau' vào chỗ trống: ______",
-            "options": [
-                "下午",
-                "分",
-                "上午",
-                "后"
-            ],
-            "answer": "后",
-            "explanation": "Từ cần điền là '后'."
-        },
-        {
-            "id": 68,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Phút' vào chỗ trống: ______",
-            "options": [
-                "店",
-                "课",
-                "早上",
-                "分钟"
-            ],
-            "answer": "分钟",
-            "explanation": "Từ cần điền là '分钟'."
-        },
-        {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Buổi chiều' vào chỗ trống: ______",
-            "options": [
-                "下午",
-                "后",
-                "电影院",
-                "看"
-            ],
-            "answer": "下午",
-            "explanation": "Từ cần điền là '下午'."
-        },
-        {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Cửa hàng' vào chỗ trống: ______",
-            "options": [
-                "店",
-                "事",
-                "分钟",
-                "见"
-            ],
-            "answer": "店",
-            "explanation": "Từ cần điền là '店'."
-        },
-        {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Giờ' vào chỗ trống: ______",
-            "options": [
-                "上午",
-                "下午",
-                "早上",
-                "点"
-            ],
-            "answer": "点",
-            "explanation": "Từ cần điền là '点'."
-        },
-        {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Việc' vào chỗ trống: ______",
-            "options": [
-                "见",
-                "分钟",
-                "事",
-                "早上"
-            ],
-            "answer": "事",
-            "explanation": "Từ cần điền là '事'."
-        },
-        {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Gặp' vào chỗ trống: ______",
-            "options": [
                 "点",
-                "现在",
-                "见",
-                "早上"
-            ],
-            "answer": "见",
-            "explanation": "Từ cần điền là '见'."
-        },
-        {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đi làm' vào chỗ trống: ______",
-            "options": [
-                "分",
                 "下午",
-                "上班",
-                "电影院"
+                "现在"
             ],
-            "answer": "上班",
-            "explanation": "Từ cần điền là '上班'."
+            "answer": "现在",
+            "explanation": "Đáp án đúng là “现在” (Bây giờ).",
+            "id": 30
         },
         {
-            "id": 75,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Xem' vào chỗ trống: ______",
-            "options": [
-                "课",
-                "见",
-                "后",
-                "看"
-            ],
-            "answer": "看",
-            "explanation": "Từ cần điền là '看'."
-        },
-        {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Cửa hàng'",
-            "options": [
-                "是店我",
-                "我店是",
-                "这店是",
-                "我是店"
-            ],
-            "answer": "我是店",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是店"
-        },
-        {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Buổi sáng'",
-            "options": [
-                "是上午我",
-                "这上午是",
-                "我是上午",
-                "我上午是"
-            ],
-            "answer": "我是上午",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是上午"
-        },
-        {
-            "id": 78,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Giờ'",
-            "options": [
-                "是点我",
-                "这点是",
-                "这是点",
-                "我点是"
-            ],
-            "answer": "这是点",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是点"
-        },
-        {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Bài học'",
-            "options": [
-                "我课是",
-                "这课是",
-                "我是课",
-                "是课我"
-            ],
-            "answer": "我是课",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是课"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Gặp'",
-            "options": [
-                "这见是",
-                "这是见",
-                "我见是",
-                "是见我"
-            ],
-            "answer": "这是见",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是见"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Phút'",
-            "options": [
-                "这分是",
-                "我是分",
-                "我分是",
-                "是分我"
-            ],
-            "answer": "我是分",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是分"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Rạp phim'",
-            "options": [
-                "这是电影院",
-                "是电影院我",
-                "我电影院是",
-                "这电影院是"
-            ],
-            "answer": "这是电影院",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是电影院"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Phút'",
-            "options": [
-                "这是分钟",
-                "这分钟是",
-                "我分钟是",
-                "是分钟我"
-            ],
-            "answer": "这是分钟",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是分钟"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Xem'",
-            "options": [
-                "是看我",
-                "这是看",
-                "这看是",
-                "我看是"
-            ],
-            "answer": "这是看",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是看"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Việc'",
-            "options": [
-                "是事我",
-                "这是事",
-                "这事是",
-                "我事是"
-            ],
-            "answer": "这是事",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是事"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Buổi chiều'",
-            "options": [
-                "是下午我",
-                "这下午是",
-                "我是下午",
-                "我下午是"
-            ],
-            "answer": "我是下午",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是下午"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đi làm'",
-            "options": [
-                "我是上班",
-                "是上班我",
-                "我上班是",
-                "这上班是"
-            ],
-            "answer": "我是上班",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是上班"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Sau'",
-            "options": [
-                "是后我",
-                "我是后",
-                "我后是",
-                "这后是"
-            ],
-            "answer": "我是后",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是后"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Bây giờ'",
-            "options": [
-                "这是现在",
-                "我现在是",
-                "是现在我",
-                "这现在是"
-            ],
-            "answer": "这是现在",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是现在"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Sáng sớm'",
-            "options": [
-                "是早上我",
-                "这早上是",
-                "我早上是",
-                "我是早上"
-            ],
-            "answer": "我是早上",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是早上"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 事。 (Một Việc)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "别",
+                "没",
+                "不",
+                "无"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 31
         },
         {
-            "id": 92,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 早上。 (Một Sáng sớm)",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Bài học”?",
             "options": [
-                "个",
-                "本",
-                "只",
-                "口"
+                "分 (fēn)",
+                "课 (kè)",
+                "见 (jiàn)",
+                "下午 (xiàwǔ)"
             ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 93,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 分。 (Một Phút)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 94,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 见。 (Một Gặp)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 95,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 分钟。 (Một Phút)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 96,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 店。 (Một Cửa hàng)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 后。 (Một Sau)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 98,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 上午。 (Một Buổi sáng)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 99,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 看。 (Một Xem)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Chọn lượng từ đúng: 一 __ 电影院。 (Một Rạp phim)",
-            "options": [
-                "个",
-                "本",
-                "只",
-                "口"
-            ],
-            "answer": "个",
-            "explanation": "Đáp án đúng là 个."
+            "answer": "课 (kè)",
+            "explanation": "“Bài học” là “课” (kè).",
+            "id": 32
         }
     ]
 }

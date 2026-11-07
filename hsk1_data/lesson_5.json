@@ -1,1307 +1,423 @@
 {
     "lessonId": 5,
-    "lessonTitle": "Bài 5: 今天我休息",
-    "totalQuestions": 100,
+    "lessonTitle": "Bài 5: HSK 1 - Ôn tập",
+    "totalQuestions": 32,
     "questions": [
         {
-            "id": 1,
             "type": "meaning",
-            "question": "Từ '号' (hào) có nghĩa là gì?",
+            "question": "Từ “号” (hào) có nghĩa là gì?",
             "options": [
-                "Sủi cảo",
-                "Đẹp",
-                "Máy tính",
-                "Ngày"
-            ],
-            "answer": "Ngày",
-            "explanation": "'号' nghĩa là 'Ngày'."
-        },
-        {
-            "id": 2,
-            "type": "meaning",
-            "question": "Từ '电脑' (diànnǎo) có nghĩa là gì?",
-            "options": [
-                "Máy tính",
-                "Nghỉ ngơi",
-                "Thích",
-                "Nấu cơm"
-            ],
-            "answer": "Máy tính",
-            "explanation": "'电脑' nghĩa là 'Máy tính'."
-        },
-        {
-            "id": 3,
-            "type": "meaning",
-            "question": "Từ '会' (huì) có nghĩa là gì?",
-            "options": [
-                "Một ít",
-                "Sủi cảo",
                 "Biết/Có thể",
-                "Mới"
-            ],
-            "answer": "Biết/Có thể",
-            "explanation": "'会' nghĩa là 'Biết/Có thể'."
-        },
-        {
-            "id": 4,
-            "type": "meaning",
-            "question": "Từ '星期' (xīngqī) có nghĩa là gì?",
-            "options": [
-                "Tan làm",
-                "Món ăn/Rau",
-                "Thích",
+                "Ngày",
+                "Tháng",
                 "Tuần"
             ],
-            "answer": "Tuần",
-            "explanation": "'星期' nghĩa là 'Tuần'."
-        },
-        {
-            "id": 5,
-            "type": "meaning",
-            "question": "Từ '菜' (cài) có nghĩa là gì?",
-            "options": [
-                "Thật",
-                "Hôm nay",
-                "Tuần",
-                "Món ăn/Rau"
-            ],
-            "answer": "Món ăn/Rau",
-            "explanation": "'菜' nghĩa là 'Món ăn/Rau'."
-        },
-        {
-            "id": 6,
-            "type": "meaning",
-            "question": "Từ '月' (yuè) có nghĩa là gì?",
-            "options": [
-                "Món ăn/Rau",
-                "Sủi cảo",
-                "Đẹp",
-                "Tháng"
-            ],
-            "answer": "Tháng",
-            "explanation": "'月' nghĩa là 'Tháng'."
-        },
-        {
-            "id": 7,
-            "type": "meaning",
-            "question": "Từ '一些' (yīxiē) có nghĩa là gì?",
-            "options": [
-                "Biết/Có thể",
-                "Một ít",
-                "Tuần",
-                "Nấu cơm"
-            ],
-            "answer": "Một ít",
-            "explanation": "'一些' nghĩa là 'Một ít'."
-        },
-        {
-            "id": 8,
-            "type": "meaning",
-            "question": "Từ '好看' (hǎokàn) có nghĩa là gì?",
-            "options": [
-                "Đẹp",
-                "Máy tính",
-                "Biết/Có thể",
-                "Thích"
-            ],
-            "answer": "Đẹp",
-            "explanation": "'好看' nghĩa là 'Đẹp'."
-        },
-        {
-            "id": 9,
-            "type": "meaning",
-            "question": "Từ '做饭' (zuò fàn) có nghĩa là gì?",
-            "options": [
-                "Món ăn/Rau",
-                "Thích",
-                "Tuần",
-                "Nấu cơm"
-            ],
-            "answer": "Nấu cơm",
-            "explanation": "'做饭' nghĩa là 'Nấu cơm'."
-        },
-        {
-            "id": 10,
-            "type": "meaning",
-            "question": "Từ '饺子' (jiǎozi) có nghĩa là gì?",
-            "options": [
-                "Sủi cảo",
-                "Thích",
-                "Tan làm",
-                "Nấu cơm"
-            ],
-            "answer": "Sủi cảo",
-            "explanation": "'饺子' nghĩa là 'Sủi cảo'."
-        },
-        {
-            "id": 11,
-            "type": "meaning",
-            "question": "Từ '喜欢' (xǐhuan) có nghĩa là gì?",
-            "options": [
-                "Thích",
-                "Mì",
-                "Máy tính",
-                "Tuần"
-            ],
-            "answer": "Thích",
-            "explanation": "'喜欢' nghĩa là 'Thích'."
-        },
-        {
-            "id": 12,
-            "type": "meaning",
-            "question": "Từ '新' (xīn) có nghĩa là gì?",
-            "options": [
-                "Nấu cơm",
-                "Mới",
-                "Tháng",
-                "Hôm nay"
-            ],
-            "answer": "Mới",
-            "explanation": "'新' nghĩa là 'Mới'."
-        },
-        {
-            "id": 13,
-            "type": "meaning",
-            "question": "Từ '今天' (jīntiān) có nghĩa là gì?",
-            "options": [
-                "Đẹp",
-                "Sủi cảo",
-                "Hôm nay",
-                "Mới"
-            ],
-            "answer": "Hôm nay",
-            "explanation": "'今天' nghĩa là 'Hôm nay'."
-        },
-        {
-            "id": 14,
-            "type": "meaning",
-            "question": "Từ '下班' (xiàbān) có nghĩa là gì?",
-            "options": [
-                "Thích",
-                "Tan làm",
-                "Sủi cảo",
-                "Hôm nay"
-            ],
-            "answer": "Tan làm",
-            "explanation": "'下班' nghĩa là 'Tan làm'."
-        },
-        {
-            "id": 15,
-            "type": "meaning",
-            "question": "Từ '日' (rì) có nghĩa là gì?",
-            "options": [
-                "Hôm nay",
-                "Ngày",
-                "Sủi cảo",
-                "Một ít"
-            ],
             "answer": "Ngày",
-            "explanation": "'日' nghĩa là 'Ngày'."
+            "explanation": "“号” nghĩa là “Ngày”.",
+            "id": 1
         },
         {
-            "id": 16,
-            "type": "meaning",
-            "question": "Từ '面条儿' (miàntiáor) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "Hôm nay",
-                "Một ít",
-                "Mì",
-                "Máy tính"
+                "没",
+                "无",
+                "不",
+                "别"
             ],
-            "answer": "Mì",
-            "explanation": "'面条儿' nghĩa là 'Mì'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 2
         },
         {
-            "id": 17,
-            "type": "meaning",
-            "question": "Từ '真' (zhēn) có nghĩa là gì?",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "Thật",
-                "Mì",
-                "Món ăn/Rau",
-                "Nấu cơm"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "Thật",
-            "explanation": "'真' nghĩa là 'Thật'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 3
         },
         {
-            "id": 18,
-            "type": "meaning",
-            "question": "Từ '休息' (xiūxi) có nghĩa là gì?",
-            "options": [
-                "Sủi cảo",
-                "Nghỉ ngơi",
-                "Mới",
-                "Ngày"
-            ],
-            "answer": "Nghỉ ngơi",
-            "explanation": "'休息' nghĩa là 'Nghỉ ngơi'."
-        },
-        {
-            "id": 19,
-            "type": "meaning",
-            "question": "Từ '休息' (xiūxi) có nghĩa là gì?",
-            "options": [
-                "Nghỉ ngơi",
-                "Tháng",
-                "Nấu cơm",
-                "Một ít"
-            ],
-            "answer": "Nghỉ ngơi",
-            "explanation": "'休息' nghĩa là 'Nghỉ ngơi'."
-        },
-        {
-            "id": 20,
-            "type": "meaning",
-            "question": "Từ '菜' (cài) có nghĩa là gì?",
-            "options": [
-                "Món ăn/Rau",
-                "Mới",
-                "Ngày",
-                "Biết/Có thể"
-            ],
-            "answer": "Món ăn/Rau",
-            "explanation": "'菜' nghĩa là 'Món ăn/Rau'."
-        },
-        {
-            "id": 21,
-            "type": "meaning",
-            "question": "Từ '今天' (jīntiān) có nghĩa là gì?",
-            "options": [
-                "Hôm nay",
-                "Tuần",
-                "Nghỉ ngơi",
-                "Mới"
-            ],
-            "answer": "Hôm nay",
-            "explanation": "'今天' nghĩa là 'Hôm nay'."
-        },
-        {
-            "id": 22,
-            "type": "meaning",
-            "question": "Từ '会' (huì) có nghĩa là gì?",
-            "options": [
-                "Tháng",
-                "Biết/Có thể",
-                "Một ít",
-                "Hôm nay"
-            ],
-            "answer": "Biết/Có thể",
-            "explanation": "'会' nghĩa là 'Biết/Có thể'."
-        },
-        {
-            "id": 23,
-            "type": "meaning",
-            "question": "Từ '电脑' (diànnǎo) có nghĩa là gì?",
-            "options": [
-                "Hôm nay",
-                "Một ít",
-                "Sủi cảo",
-                "Máy tính"
-            ],
-            "answer": "Máy tính",
-            "explanation": "'电脑' nghĩa là 'Máy tính'."
-        },
-        {
-            "id": 24,
-            "type": "meaning",
-            "question": "Từ '一些' (yīxiē) có nghĩa là gì?",
-            "options": [
-                "Tuần",
-                "Hôm nay",
-                "Mới",
-                "Một ít"
-            ],
-            "answer": "Một ít",
-            "explanation": "'一些' nghĩa là 'Một ít'."
-        },
-        {
-            "id": 25,
-            "type": "meaning",
-            "question": "Từ '新' (xīn) có nghĩa là gì?",
-            "options": [
-                "Sủi cảo",
-                "Mới",
-                "Nấu cơm",
-                "Máy tính"
-            ],
-            "answer": "Mới",
-            "explanation": "'新' nghĩa là 'Mới'."
-        },
-        {
-            "id": 26,
-            "type": "meaning",
-            "question": "Từ '饺子' (jiǎozi) có nghĩa là gì?",
-            "options": [
-                "Máy tính",
-                "Mì",
-                "Sủi cảo",
-                "Hôm nay"
-            ],
-            "answer": "Sủi cảo",
-            "explanation": "'饺子' nghĩa là 'Sủi cảo'."
-        },
-        {
-            "id": 27,
-            "type": "meaning",
-            "question": "Từ '面条儿' (miàntiáor) có nghĩa là gì?",
-            "options": [
-                "Nấu cơm",
-                "Nghỉ ngơi",
-                "Mì",
-                "Tuần"
-            ],
-            "answer": "Mì",
-            "explanation": "'面条儿' nghĩa là 'Mì'."
-        },
-        {
-            "id": 28,
-            "type": "meaning",
-            "question": "Từ '月' (yuè) có nghĩa là gì?",
-            "options": [
-                "Một ít",
-                "Tan làm",
-                "Tháng",
-                "Món ăn/Rau"
-            ],
-            "answer": "Tháng",
-            "explanation": "'月' nghĩa là 'Tháng'."
-        },
-        {
-            "id": 29,
-            "type": "meaning",
-            "question": "Từ '号' (hào) có nghĩa là gì?",
-            "options": [
-                "Một ít",
-                "Thích",
-                "Ngày",
-                "Đẹp"
-            ],
-            "answer": "Ngày",
-            "explanation": "'号' nghĩa là 'Ngày'."
-        },
-        {
-            "id": 30,
-            "type": "meaning",
-            "question": "Từ '下班' (xiàbān) có nghĩa là gì?",
-            "options": [
-                "Thật",
-                "Ngày",
-                "Một ít",
-                "Tan làm"
-            ],
-            "answer": "Tan làm",
-            "explanation": "'下班' nghĩa là 'Tan làm'."
-        },
-        {
-            "id": 31,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '日' là:",
-            "options": [
-                "rì6",
-                "rì3",
-                "rì5",
-                "rì"
-            ],
-            "answer": "rì",
-            "explanation": "'日' đọc là rì."
-        },
-        {
-            "id": 32,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '做饭' là:",
-            "options": [
-                "zùò fàn",
-                "zuò fàn7",
-                "zuò fàm",
-                "zuò fàn"
-            ],
-            "answer": "zuò fàn",
-            "explanation": "'做饭' đọc là zuò fàn."
-        },
-        {
-            "id": 33,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '喜欢' là:",
-            "options": [
-                "xǐhuan",
-                "xǐhuàn",
-                "xǐhùan",
-                "xǐhuam"
-            ],
-            "answer": "xǐhuan",
-            "explanation": "'喜欢' đọc là xǐhuan."
-        },
-        {
-            "id": 34,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '星期' là:",
-            "options": [
-                "xīngqī9",
-                "xīngqī",
-                "xīmgqī",
-                "xīngqī9"
-            ],
-            "answer": "xīngqī",
-            "explanation": "'星期' đọc là xīngqī."
-        },
-        {
-            "id": 35,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '真' là:",
-            "options": [
-                "zhēn",
-                "zhēn5",
-                "zhēn8",
-                "zhēm"
-            ],
-            "answer": "zhēn",
-            "explanation": "'真' đọc là zhēn."
-        },
-        {
-            "id": 36,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '好看' là:",
-            "options": [
-                "hǎokàn2",
-                "hǎokàm",
-                "hǎókàn",
-                "hǎokàn"
-            ],
-            "answer": "hǎokàn",
-            "explanation": "'好看' đọc là hǎokàn."
-        },
-        {
-            "id": 37,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '星期' là:",
-            "options": [
-                "xīmgqī",
-                "xīngqī5",
-                "xīngqī",
-                "xīngqī9"
-            ],
-            "answer": "xīngqī",
-            "explanation": "'星期' đọc là xīngqī."
-        },
-        {
-            "id": 38,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '号' là:",
-            "options": [
-                "hàó",
-                "hào2",
-                "hào4",
-                "hào"
-            ],
-            "answer": "hào",
-            "explanation": "'号' đọc là hào."
-        },
-        {
-            "id": 39,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '真' là:",
-            "options": [
-                "zhēm",
-                "zhēn9",
-                "zhēn",
-                "zhēn6"
-            ],
-            "answer": "zhēn",
-            "explanation": "'真' đọc là zhēn."
-        },
-        {
-            "id": 40,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '一些' là:",
-            "options": [
-                "yīxiē3",
-                "yīxiē",
-                "yīxìē",
-                "yīxiē2"
-            ],
-            "answer": "yīxiē",
-            "explanation": "'一些' đọc là yīxiē."
-        },
-        {
-            "id": 41,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '月' là:",
-            "options": [
-                "yuè",
-                "yuè9",
-                "yuè7",
-                "yùè"
-            ],
-            "answer": "yuè",
-            "explanation": "'月' đọc là yuè."
-        },
-        {
-            "id": 42,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '下班' là:",
-            "options": [
-                "xìàbān",
-                "xiàbām",
-                "xiàbān",
-                "xiàbān2"
-            ],
-            "answer": "xiàbān",
-            "explanation": "'下班' đọc là xiàbān."
-        },
-        {
-            "id": 43,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '面条儿' là:",
-            "options": [
-                "miàntiáor",
-                "mìàntìáor",
-                "miàmtiáor",
-                "miàntiáór"
-            ],
-            "answer": "miàntiáor",
-            "explanation": "'面条儿' đọc là miàntiáor."
-        },
-        {
-            "id": 44,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '休息' là:",
-            "options": [
-                "xiūxi2",
-                "xiūxi",
-                "xìūxì",
-                "xiūxi3"
-            ],
-            "answer": "xiūxi",
-            "explanation": "'休息' đọc là xiūxi."
-        },
-        {
-            "id": 45,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '做饭' là:",
-            "options": [
-                "zuò fàn",
-                "zuò fàn7",
-                "zùò fàn",
-                "zuò fàm"
-            ],
-            "answer": "zuò fàn",
-            "explanation": "'做饭' đọc là zuò fàn."
-        },
-        {
-            "id": 46,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '饺子' là:",
-            "options": [
-                "jiǎozi8",
-                "jìǎozì",
-                "jiǎozi",
-                "jiǎózi"
-            ],
-            "answer": "jiǎozi",
-            "explanation": "'饺子' đọc là jiǎozi."
-        },
-        {
-            "id": 47,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '好看' là:",
-            "options": [
-                "hǎokàn4",
-                "hǎókàn",
-                "hǎokàm",
-                "hǎokàn"
-            ],
-            "answer": "hǎokàn",
-            "explanation": "'好看' đọc là hǎokàn."
-        },
-        {
-            "id": 48,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '喜欢' là:",
-            "options": [
-                "xǐhuàn",
-                "xǐhuan",
-                "xǐhuam",
-                "xǐhùan"
-            ],
-            "answer": "xǐhuan",
-            "explanation": "'喜欢' đọc là xǐhuan."
-        },
-        {
-            "id": 49,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '会' là:",
-            "options": [
-                "huì2",
-                "hùì",
-                "huì7",
-                "huì"
-            ],
-            "answer": "huì",
-            "explanation": "'会' đọc là huì."
-        },
-        {
-            "id": 50,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '菜' là:",
-            "options": [
-                "cài7",
-                "cài",
-                "cài6",
-                "càì"
-            ],
-            "answer": "cài",
-            "explanation": "'菜' đọc là cài."
-        },
-        {
-            "id": 51,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '日' là:",
-            "options": [
-                "rì4",
-                "rì6",
-                "rì",
-                "rì6"
-            ],
-            "answer": "rì",
-            "explanation": "'日' đọc là rì."
-        },
-        {
-            "id": 52,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电脑' là:",
-            "options": [
-                "diàmmǎo",
-                "diànnǎó",
-                "diànnǎo",
-                "dìànnǎo"
-            ],
-            "answer": "diànnǎo",
-            "explanation": "'电脑' đọc là diànnǎo."
-        },
-        {
-            "id": 53,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '新' là:",
-            "options": [
-                "xīm",
-                "xīn9",
-                "xīn6",
-                "xīn"
-            ],
-            "answer": "xīn",
-            "explanation": "'新' đọc là xīn."
-        },
-        {
-            "id": 54,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '今天' là:",
-            "options": [
-                "jīntìān",
-                "jīntiān",
-                "jīntiān8",
-                "jīmtiām"
-            ],
-            "answer": "jīntiān",
-            "explanation": "'今天' đọc là jīntiān."
-        },
-        {
-            "id": 55,
-            "type": "pinyin",
-            "question": "Cách đọc đúng của '电脑' là:",
-            "options": [
-                "diànnǎó",
-                "dìànnǎo",
-                "diànnǎo",
-                "diàmmǎo"
-            ],
-            "answer": "diànnǎo",
-            "explanation": "'电脑' đọc là diànnǎo."
-        },
-        {
-            "id": 56,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Đẹp' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n______星期几？ (Nghĩa: Hôm nay là thứ mấy?)",
             "options": [
-                "月",
                 "今天",
-                "下班",
-                "好看"
-            ],
-            "answer": "好看",
-            "explanation": "Từ cần điền là '好看'."
-        },
-        {
-            "id": 57,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tuần' vào chỗ trống: ______",
-            "options": [
-                "月",
-                "面条儿",
+                "日",
                 "星期",
-                "今天"
+                "号"
             ],
-            "answer": "星期",
-            "explanation": "Từ cần điền là '星期'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 4
         },
         {
-            "id": 58,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Bạn khỏe không?”",
+            "options": [
+                "我好吗？",
+                "？吗好你",
+                "你好吗？了",
+                "你好吗？"
+            ],
+            "answer": "你好吗？",
+            "explanation": "Câu đúng là: 你好吗？",
+            "id": 5
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tháng' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n谢谢 (Nghĩa: Cảm ơn)",
+            "options": [
+                "今天",
+                "休息",
+                "月",
+                "会"
+            ],
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 6
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “今天” (jīntiān) có nghĩa là gì?",
+            "options": [
+                "Biết/Có thể",
+                "Tuần",
+                "Hôm nay",
+                "Ngày"
+            ],
+            "answer": "Hôm nay",
+            "explanation": "“今天” nghĩa là “Hôm nay”.",
+            "id": 7
+        },
+        {
+            "type": "meaning",
+            "question": "Từ “月” (yuè) có nghĩa là gì?",
+            "options": [
+                "Tháng",
+                "Nghỉ ngơi",
+                "Biết/Có thể",
+                "Hôm nay"
+            ],
+            "answer": "Tháng",
+            "explanation": "“月” nghĩa là “Tháng”.",
+            "id": 8
+        },
+        {
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Hôm nay là thứ mấy?”",
+            "options": [
+                "今天星期几？了",
+                "Đáp án sai",
+                "？几期星天今",
+                "今天星期几？"
+            ],
+            "answer": "今天星期几？",
+            "explanation": "Câu đúng là: 今天星期几？",
+            "id": 9
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n再见 (Nghĩa: Tạm biệt)",
             "options": [
                 "会",
-                "真",
-                "号",
-                "月"
+                "日",
+                "今天",
+                "号"
             ],
-            "answer": "月",
-            "explanation": "Từ cần điền là '月'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 10
         },
         {
-            "id": 59,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Xin chào”",
+            "options": [
+                "你好了",
+                "你好",
+                "我好",
+                "好你"
+            ],
+            "answer": "你好",
+            "explanation": "Câu đúng là: 你好",
+            "id": 11
+        },
+        {
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Nấu cơm”?",
+            "options": [
+                "做饭 (zuò fàn)",
+                "休息 (xiūxi)",
+                "月 (yuè)",
+                "今天 (jīntiān)"
+            ],
+            "answer": "做饭 (zuò fàn)",
+            "explanation": "“Nấu cơm” là “做饭” (zuò fàn).",
+            "id": 12
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nghỉ ngơi' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我是学生 (Nghĩa: Tôi là học sinh)",
             "options": [
                 "休息",
+                "做饭",
                 "今天",
-                "菜",
-                "一些"
+                "日"
             ],
-            "answer": "休息",
-            "explanation": "Từ cần điền là '休息'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 13
         },
         {
-            "id": 60,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngày' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好吗？ (Nghĩa: Bạn khỏe không?)",
             "options": [
-                "下班",
-                "号",
-                "新",
-                "饺子"
-            ],
-            "answer": "号",
-            "explanation": "Từ cần điền là '号'."
-        },
-        {
-            "id": 61,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Món ăn/Rau' vào chỗ trống: ______",
-            "options": [
-                "喜欢",
-                "好看",
-                "菜",
-                "面条儿"
-            ],
-            "answer": "菜",
-            "explanation": "Từ cần điền là '菜'."
-        },
-        {
-            "id": 62,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Biết/Có thể' vào chỗ trống: ______",
-            "options": [
-                "菜",
-                "饺子",
-                "电脑",
+                "休息",
+                "做饭",
+                "今天",
                 "会"
             ],
-            "answer": "会",
-            "explanation": "Từ cần điền là '会'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 14
         },
         {
-            "id": 63,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Một ít' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Đây là sách của tôi”",
             "options": [
-                "一些",
-                "会",
-                "今天",
-                "菜"
+                "这是他的书",
+                "这是我的书了",
+                "这是我的书",
+                "书的我是这"
             ],
-            "answer": "一些",
-            "explanation": "Từ cần điền là '一些'."
+            "answer": "这是我的书",
+            "explanation": "Câu đúng là: 这是我的书",
+            "id": 15
         },
         {
-            "id": 64,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Thật' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Biết/Có thể”?",
             "options": [
-                "真",
-                "下班",
-                "做饭",
-                "会"
+                "会 (huì)",
+                "号 (hào)",
+                "星期 (xīngqī)",
+                "今天 (jīntiān)"
             ],
-            "answer": "真",
-            "explanation": "Từ cần điền là '真'."
+            "answer": "会 (huì)",
+            "explanation": "“Biết/Có thể” là “会” (huì).",
+            "id": 16
         },
         {
-            "id": 65,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tan làm' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Cảm ơn”",
             "options": [
-                "电脑",
-                "一些",
-                "下班",
-                "星期"
+                "Đáp án sai",
+                "谢谢",
+                "Đáp án sai",
+                "谢谢了"
             ],
-            "answer": "下班",
-            "explanation": "Từ cần điền là '下班'."
+            "answer": "谢谢",
+            "explanation": "Câu đúng là: 谢谢",
+            "id": 17
         },
         {
-            "id": 66,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Sủi cảo' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "面条儿",
-                "喜欢",
-                "饺子",
-                "新"
+                "无",
+                "没",
+                "别",
+                "不"
             ],
-            "answer": "饺子",
-            "explanation": "Từ cần điền là '饺子'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 18
         },
         {
-            "id": 67,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Nấu cơm' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "喜欢",
-                "面条儿",
-                "做饭",
-                "今天"
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Tân ngữ + Động từ + Chủ ngữ"
             ],
-            "answer": "做饭",
-            "explanation": "Từ cần điền là '做饭'."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 19
         },
         {
-            "id": 68,
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mới' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n这是我的书 (Nghĩa: Đây là sách của tôi)",
             "options": [
-                "新",
-                "今天",
-                "一些",
-                "真"
-            ],
-            "answer": "新",
-            "explanation": "Từ cần điền là '新'."
-        },
-        {
-            "id": 69,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Thích' vào chỗ trống: ______",
-            "options": [
-                "下班",
-                "好看",
                 "日",
-                "喜欢"
-            ],
-            "answer": "喜欢",
-            "explanation": "Từ cần điền là '喜欢'."
-        },
-        {
-            "id": 70,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Hôm nay' vào chỗ trống: ______",
-            "options": [
-                "好看",
-                "面条儿",
-                "星期",
+                "会",
+                "月",
                 "今天"
             ],
             "answer": "今天",
-            "explanation": "Từ cần điền là '今天'."
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 20
         },
         {
-            "id": 71,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngày' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "一些",
-                "日",
-                "好看",
-                "休息"
+                "无",
+                "别",
+                "不",
+                "没"
             ],
-            "answer": "日",
-            "explanation": "Từ cần điền là '日'."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 21
         },
         {
-            "id": 72,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Mì' vào chỗ trống: ______",
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tạm biệt”",
             "options": [
-                "一些",
-                "面条儿",
-                "菜",
-                "电脑"
+                "再见了",
+                "Đáp án sai",
+                "再见",
+                "见再"
             ],
-            "answer": "面条儿",
-            "explanation": "Từ cần điền là '面条儿'."
+            "answer": "再见",
+            "explanation": "Câu đúng là: 再见",
+            "id": 22
         },
         {
-            "id": 73,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Tháng' vào chỗ trống: ______",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Tuần”?",
             "options": [
-                "月",
-                "下班",
-                "饺子",
-                "喜欢"
+                "今天 (jīntiān)",
+                "休息 (xiūxi)",
+                "星期 (xīngqī)",
+                "做饭 (zuò fàn)"
             ],
-            "answer": "月",
-            "explanation": "Từ cần điền là '月'."
+            "answer": "星期 (xīngqī)",
+            "explanation": "“Tuần” là “星期” (xīngqī).",
+            "id": 23
         },
         {
-            "id": 74,
-            "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Ngày' vào chỗ trống: ______",
+            "type": "grammar",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "月",
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ",
+                "Chủ ngữ + Động từ + Tân ngữ"
+            ],
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 24
+        },
+        {
+            "type": "fill_blank",
+            "question": "Điền từ thích hợp vào chỗ trống:\n你好 (Nghĩa: Xin chào)",
+            "options": [
+                "今天",
                 "号",
-                "日",
-                "面条儿"
+                "休息",
+                "做饭"
             ],
-            "answer": "日",
-            "explanation": "Từ cần điền là '日'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 25
         },
         {
-            "id": 75,
+            "type": "translate",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi là học sinh”",
+            "options": [
+                "我是学生了",
+                "我是学生",
+                "生学是我",
+                "他是学生"
+            ],
+            "answer": "我是学生",
+            "explanation": "Câu đúng là: 我是学生",
+            "id": 26
+        },
+        {
             "type": "fill_blank",
-            "question": "Điền từ có nghĩa 'Máy tính' vào chỗ trống: ______",
+            "question": "Điền từ thích hợp vào chỗ trống:\n我喜欢吃苹果 (Nghĩa: Tôi thích ăn táo)",
             "options": [
-                "月",
-                "电脑",
+                "日",
+                "今天",
                 "号",
-                "好看"
+                "月"
             ],
-            "answer": "电脑",
-            "explanation": "Từ cần điền là '电脑'."
+            "answer": "今天",
+            "explanation": "Đáp án đúng là “今天” (Hôm nay).",
+            "id": 27
         },
         {
-            "id": 76,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Thật'",
+            "type": "meaning",
+            "question": "Từ “日” (rì) có nghĩa là gì?",
             "options": [
-                "是真我",
-                "我是真",
-                "这真是",
-                "我真是"
+                "Tháng",
+                "Nghỉ ngơi",
+                "Tuần",
+                "Ngày"
             ],
-            "answer": "我是真",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是真"
+            "answer": "Ngày",
+            "explanation": "“日” nghĩa là “Ngày”.",
+            "id": 28
         },
         {
-            "id": 77,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Món ăn/Rau'",
+            "type": "meaning",
+            "question": "Từ nào có nghĩa là “Nghỉ ngơi”?",
             "options": [
-                "是菜我",
-                "我菜是",
-                "我是菜",
-                "这菜是"
+                "休息 (xiūxi)",
+                "日 (rì)",
+                "会 (huì)",
+                "今天 (jīntiān)"
             ],
-            "answer": "我是菜",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是菜"
+            "answer": "休息 (xiūxi)",
+            "explanation": "“Nghỉ ngơi” là “休息” (xiūxi).",
+            "id": 29
         },
         {
-            "id": 78,
             "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Biết/Có thể'",
+            "question": "Dịch câu sau sang tiếng Trung: “Tôi thích ăn táo”",
             "options": [
-                "这会是",
-                "是会我",
-                "我是会",
-                "我会是"
+                "他喜欢吃苹果",
+                "我喜欢吃苹果了",
+                "我喜欢吃苹果",
+                "果苹吃欢喜我"
             ],
-            "answer": "我是会",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是会"
+            "answer": "我喜欢吃苹果",
+            "explanation": "Câu đúng là: 我喜欢吃苹果",
+            "id": 30
         },
         {
-            "id": 79,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Tuần'",
-            "options": [
-                "这星期是",
-                "是星期我",
-                "我星期是",
-                "这是星期"
-            ],
-            "answer": "这是星期",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是星期"
-        },
-        {
-            "id": 80,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Một ít'",
-            "options": [
-                "我一些是",
-                "是一些我",
-                "这一些是",
-                "我是一些"
-            ],
-            "answer": "我是一些",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是一些"
-        },
-        {
-            "id": 81,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Sủi cảo'",
-            "options": [
-                "这是饺子",
-                "我饺子是",
-                "这饺子是",
-                "是饺子我"
-            ],
-            "answer": "这是饺子",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是饺子"
-        },
-        {
-            "id": 82,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Tan làm'",
-            "options": [
-                "这下班是",
-                "我是下班",
-                "是下班我",
-                "我下班是"
-            ],
-            "answer": "我是下班",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是下班"
-        },
-        {
-            "id": 83,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nghỉ ngơi'",
-            "options": [
-                "这是休息",
-                "我休息是",
-                "是休息我",
-                "这休息是"
-            ],
-            "answer": "这是休息",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是休息"
-        },
-        {
-            "id": 84,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Đẹp'",
-            "options": [
-                "是好看我",
-                "我是好看",
-                "这好看是",
-                "我好看是"
-            ],
-            "answer": "我是好看",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是好看"
-        },
-        {
-            "id": 85,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Mì'",
-            "options": [
-                "我面条儿是",
-                "这面条儿是",
-                "这是面条儿",
-                "是面条儿我"
-            ],
-            "answer": "这是面条儿",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是面条儿"
-        },
-        {
-            "id": 86,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Mới'",
-            "options": [
-                "这新是",
-                "是新我",
-                "我是新",
-                "我新是"
-            ],
-            "answer": "我是新",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是新"
-        },
-        {
-            "id": 87,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Ngày'",
-            "options": [
-                "是号我",
-                "这号是",
-                "我号是",
-                "我是号"
-            ],
-            "answer": "我是号",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是号"
-        },
-        {
-            "id": 88,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Hôm nay'",
-            "options": [
-                "这今天是",
-                "是今天我",
-                "这是今天",
-                "我今天是"
-            ],
-            "answer": "这是今天",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是今天"
-        },
-        {
-            "id": 89,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Tôi là Thích'",
-            "options": [
-                "我是喜欢",
-                "是喜欢我",
-                "我喜欢是",
-                "这喜欢是"
-            ],
-            "answer": "我是喜欢",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 我是喜欢"
-        },
-        {
-            "id": 90,
-            "type": "translate",
-            "question": "Dịch câu sau sang tiếng Trung: 'Đây là Nấu cơm'",
-            "options": [
-                "这是做饭",
-                "这做饭是",
-                "是做饭我",
-                "我做饭是"
-            ],
-            "answer": "这是做饭",
-            "explanation": "Cấu trúc đúng: Chủ ngữ + 是 + Danh từ. Dịch là: 这是做饭"
-        },
-        {
-            "id": 91,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 休息。 (Tôi là Nghỉ ngơi)",
+            "question": "Ngữ pháp: Phủ định\nChọn từ phủ định đúng: 我 ______ 是老师",
             "options": [
-                "是",
                 "不",
-                "的",
-                "了"
+                "没",
+                "无",
+                "别"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "不",
+            "explanation": "Phủ định '是' dùng '不'.",
+            "id": 31
         },
         {
-            "id": 92,
             "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 喜欢。 (Tôi là Thích)",
+            "question": "Ngữ pháp: Trật tự câu\nTrật tự đúng là gì?",
             "options": [
-                "是",
-                "不",
-                "的",
-                "了"
+                "Tân ngữ + Động từ + Chủ ngữ",
+                "Động từ + Chủ ngữ + Tân ngữ",
+                "Chủ ngữ + Động từ + Tân ngữ",
+                "Chủ ngữ + Tân ngữ + Động từ"
             ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 93,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 菜。 (Tôi là Món ăn/Rau)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 94,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 会。 (Tôi là Biết/Có thể)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 95,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 星期。 (Tôi là Tuần)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 96,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 好看。 (Tôi là Đẹp)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 97,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 新。 (Tôi là Mới)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 98,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 一些。 (Tôi là Một ít)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 99,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 饺子。 (Tôi là Sủi cảo)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
-        },
-        {
-            "id": 100,
-            "type": "grammar",
-            "question": "Chọn trợ từ đúng: 我 __ 电脑。 (Tôi là Máy tính)",
-            "options": [
-                "是",
-                "不",
-                "的",
-                "了"
-            ],
-            "answer": "是",
-            "explanation": "Đáp án đúng là 是."
+            "answer": "Chủ ngữ + Động từ + Tân ngữ",
+            "explanation": "SVO.",
+            "id": 32
         }
     ]
 }
